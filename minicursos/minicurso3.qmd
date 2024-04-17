@@ -1,0 +1,14 @@
+---
+date: 2024-07-07
+title: Minicurso 3
+local: Sala 3
+youtube: SERUFF/streams
+---
+
+Resumo do minicurso pipipipopopo
+
+# Banner
+
+Banner aqui!
+
+# Video

@@ -1,23 +1,814 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SOBRE MIM",
+    "title": "Educa-SER - 4ª Edição",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!"
+  },
+  {
+    "objectID": "index.html#o-que-é-o-educa-ser",
+    "href": "index.html#o-que-é-o-educa-ser",
+    "title": "Educa-SER - 4ª EDIÇÃO - 2024",
+    "section": "O QUE É O EDUCA-SER?",
+    "text": "O QUE É O EDUCA-SER?\n\n\nO Educa-SER é um evento satélite do 8º Seminário Internacional de Estatística com R, destinado a profissionais da educação dos níveis básico e superior, bem como a alunos desses níveis, interessados em aprender a analisar dados por meio de uma ferramenta poderosa e gratuita como o .\n\n\nEsta edição contará com minicursos com pacotes do  que versam sobre tratamento e análise de dados em interface amigável, geração de visualizações gráficas diferenciadas e construção de mapas interativos."
+  },
+  {
+    "objectID": "index.html#objetivos-do-educa-ser",
+    "href": "index.html#objetivos-do-educa-ser",
+    "title": "Educa-SER - 4ª EDIÇÃO - 2024",
+    "section": "OBJETIVOS DO EDUCA-SER",
+    "text": "OBJETIVOS DO EDUCA-SER\n\n\n Após sua primeira edição em 2019, realizada na Universidade Federal do Estado do Rio de Janeiro (UNIRIO), o Educa-SER retornou em 2022 em formato remoto, e continuará assim em 2024, mantendo seu propósito de demonstrar maneiras eficazes de utilizar o  em ambientes de sala de aula e em pesquisas acadêmicas.\n\n\n\n\n Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o , dê uma olhada nos primeiros passos antes de prosseguir para a programação!"
+  },
+  {
+    "objectID": "content0/teaching/index.html",
+    "href": "content0/teaching/index.html",
+    "title": "Advanced Chemistry",
+    "section": "",
+    "text": "Advanced Chemistry\nBlah blah\n\n\n\nAdvanced Physics\nDon’t forget to bring your lab coats"
+  },
+  {
+    "objectID": "content0/talks/french_academy_1901.html",
+    "href": "content0/talks/french_academy_1901.html",
+    "title": "Adventures with Uranium Rays",
+    "section": "",
+    "text": "Abstract here\n\nSlides\nembed html or pdf slides here\n\n\nVideo"
+  },
+  {
+    "objectID": "content0/publications/uranium.html",
+    "href": "content0/publications/uranium.html",
+    "title": "Sur la pénétration des rayons de Becquerel non déviables par le champ magnétique",
+    "section": "",
+    "text": "Abstract goes here\nPlus any other information such as supplementary materials."
+  },
+  {
+    "objectID": "content0/blog/radioactivity.html",
+    "href": "content0/blog/radioactivity.html",
+    "title": "My xray experiments",
+    "section": "",
+    "text": "I’ve been playing with uranium rays …"
+  },
+  {
+    "objectID": "content0/about/index.html",
+    "href": "content0/about/index.html",
+    "title": "About me",
+    "section": "",
+    "text": "About me\nSome more detail about who I am and what I do."
+  },
+  {
+    "objectID": "content0/blog/index.html",
+    "href": "content0/blog/index.html",
+    "title": "My blog",
+    "section": "",
+    "text": "Ordenar por\n       Pré-selecionado\n         \n          Título\n        \n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nMy xray experiments\n\n\n\n\n\n\n\nphysics\n\n\nchemistry\n\n\nradiation\n\n\n\n\n\n\n\n\n\n\n\n7 setembro 1902\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "content0/publications/index.html",
+    "href": "content0/publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Título\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Marie Skłodowska-Curie (1900) Sur la pénétration des rayons de Becquerel non déviables par le champ magnétique. CR Acad Sci, 130, 76-79..\n  \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "content0/software/index.html",
+    "href": "content0/software/index.html",
+    "title": "Selected R packages I’ve coauthored",
+    "section": "",
+    "text": "Selected R packages I’ve coauthored"
+  },
+  {
+    "objectID": "content0/talks/index.html",
+    "href": "content0/talks/index.html",
+    "title": "Talks I’ve given",
+    "section": "",
+    "text": "Talks I’ve given\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nData\n\n\nTítulo\n\n\nVenue\n\n\n\n\n\n\n30 jun 1901\n\n\nAdventures with Uranium Rays\n\n\nFrench Academy, Paris\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "content0/steps/index.html",
+    "href": "content0/steps/index.html",
+    "title": "O QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?",
+    "section": "",
+    "text": "R é um software livre voltado principalmente para tratamento e análise de dados. De maneira mais estendida, pode ser visto como uma linguagem de programação especializada na gestão e análise de dados. Disponível para os sistemas operacionais Windows, Linux e MacOS.\n\n\nApesar de possuir uma interface padrão pouco amigável apta a receber apenas linhas de comando, o software R possui uma gama de pacotes. Alguns destes pacotes fornecem interfaces bastante amigáveis por meio das quais não é necessário aprender linguagem de programação R para fazer análises de dados e visualizações gráficas, tal como o pacote Rcmdr, que será o ambiente utilizado no Minicurso 1.\n\n\n\n\nO download do R pode ser feito em https://www.r-project.org . Uma vez nesta página, clique em CRAN e, na sequência, em um dos mirrors disponíveis. Clique agora na opção de download conforme seu sistema operacional. No caso do Windows, clica em seguida em “base” e, por fim, no link em destaque (algo do tipo “Download R-4.3.0 for Windows”). Alternativamente, você pode baixar o R clicando neste link: https://cran.fiocruz.br/bin/windows/base/R-4.3.0-win.exe.\n\n\n\nPara os Minicursos 2 e 3, será necessário o uso do IDE (Integrated Development Environment, ou ambiente integrado de desenvolvimento, em tradução livre) Rstudio, que deve ser instalado após a instalação do software R (o Rstudio não funciona sem o R). Seu download está disponível no link https://posit.co/download/rstudio-desktop/#download, seja para Windows, Linux ou MacOs. Apesar da utilização do Rstudio no lugar da “interface padrão” do R ainda necessitar substancialmente do uso de linhas de comando, o Rstudio facilita o preenchimento destas e também fornece outras facilidades que tornam menos árdua a geração e compreensão de linhas de comando, sendo massivamente utilizado pelos usuários de R.\n\n\n\nAlém do Rstudio, o Minicurso 3 usará o Visual Studio Code (VS Code), que é um editor de código, de código aberto, desenvolvido pela Microsoft e disponível para Windows, Linux e MacOS. Seu download está disponível em https://code.visualstudio.com/."
+  },
+  {
+    "objectID": "content0/steps/index.html#o-que-é-r",
+    "href": "content0/steps/index.html#o-que-é-r",
+    "title": "O QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?",
+    "section": "",
+    "text": "R é um software livre voltado principalmente para tratamento e análise de dados. De maneira mais estendida, pode ser visto como uma linguagem de programação especializada na gestão e análise de dados. Disponível para os sistemas operacionais Windows, Linux e MacOS.\n\n\nApesar de possuir uma interface padrão pouco amigável apta a receber apenas linhas de comando, o software R possui uma gama de pacotes. Alguns destes pacotes fornecem interfaces bastante amigáveis por meio das quais não é necessário aprender linguagem de programação R para fazer análises de dados e visualizações gráficas, tal como o pacote Rcmdr, que será o ambiente utilizado no Minicurso 1."
+  },
+  {
+    "objectID": "content0/steps/index.html#como-baixar-e-instalar-o-r",
+    "href": "content0/steps/index.html#como-baixar-e-instalar-o-r",
+    "title": "O QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?",
+    "section": "",
+    "text": "O download do R pode ser feito em https://www.r-project.org . Uma vez nesta página, clique em CRAN e, na sequência, em um dos mirrors disponíveis. Clique agora na opção de download conforme seu sistema operacional. No caso do Windows, clica em seguida em “base” e, por fim, no link em destaque (algo do tipo “Download R-4.3.0 for Windows”). Alternativamente, você pode baixar o R clicando neste link: https://cran.fiocruz.br/bin/windows/base/R-4.3.0-win.exe."
+  },
+  {
+    "objectID": "content0/steps/index.html#baixando-e-instalando-o-rstudio",
+    "href": "content0/steps/index.html#baixando-e-instalando-o-rstudio",
+    "title": "O QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?",
+    "section": "",
+    "text": "Para os Minicursos 2 e 3, será necessário o uso do IDE (Integrated Development Environment, ou ambiente integrado de desenvolvimento, em tradução livre) Rstudio, que deve ser instalado após a instalação do software R (o Rstudio não funciona sem o R). Seu download está disponível no link https://posit.co/download/rstudio-desktop/#download, seja para Windows, Linux ou MacOs. Apesar da utilização do Rstudio no lugar da “interface padrão” do R ainda necessitar substancialmente do uso de linhas de comando, o Rstudio facilita o preenchimento destas e também fornece outras facilidades que tornam menos árdua a geração e compreensão de linhas de comando, sendo massivamente utilizado pelos usuários de R."
+  },
+  {
+    "objectID": "content0/steps/index.html#baixando-e-instalando-o-vs-code",
+    "href": "content0/steps/index.html#baixando-e-instalando-o-vs-code",
+    "title": "O QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?",
+    "section": "",
+    "text": "Além do Rstudio, o Minicurso 3 usará o Visual Studio Code (VS Code), que é um editor de código, de código aberto, desenvolvido pela Microsoft e disponível para Windows, Linux e MacOS. Seu download está disponível em https://code.visualstudio.com/."
+  },
+  {
+    "objectID": "index.html#transmissão-do-educa-ser-iii",
+    "href": "index.html#transmissão-do-educa-ser-iii",
+    "title": "Educa-SER IV - 2024",
+    "section": "",
+    "text": "Todos os minicursos serão transmitidos ao vivo via YouTube, no canal do SER."
+  },
+  {
+    "objectID": "index.html#transmissão-do-educa-ser",
+    "href": "index.html#transmissão-do-educa-ser",
+    "title": "Educa-SER - 4ª EDIÇÃO - 2024",
+    "section": "TRANSMISSÃO DO EDUCA-SER",
+    "text": "TRANSMISSÃO DO EDUCA-SER\n\nTodos os minicursos serão transmitidos ao vivo através do canal do SER no YouTube.\n\nLearn about our recent work: News • STEPS • Presentations • Annual Reports • Flywheel Preprint • White Paper: The Value of Hosted JupyterHubs\n earthaccess python library • Earth Science Data Simplified (NASA Earthdata blog!)"
+  },
+  {
+    "objectID": "publications/uranium.html",
+    "href": "publications/uranium.html",
+    "title": "Sur la pénétration des rayons de Becquerel non déviables par le champ magnétique",
+    "section": "",
+    "text": "Abstract goes here\nPlus any other information such as supplementary materials."
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "\nMinicursos\n",
+    "section": "",
+    "text": "Minicursos\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nData\n\n\nTítulo\n\n\nLocal\n\n\n\n\n\n\n07 jul 2024\n\n\nMinicurso 1\n\n\nSala 1\n\n\n\n\n07 jul 2024\n\n\nMinicurso 2\n\n\nSala 2\n\n\n\n\n07 jul 2024\n\n\nMinicurso 3\n\n\nSala 3\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "steps/index.html",
+    "href": "steps/index.html",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "",
+    "text": "O QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?"
+  },
+  {
+    "objectID": "steps/index.html#o-que-é-r",
+    "href": "steps/index.html#o-que-é-r",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "1. O que é R?",
+    "text": "1. O que é R?\n\n\n     O  é uma ferramenta de código aberto dedicada principalmente ao tratamento e análise de dados. De forma mais abrangente, pode ser considerado uma linguagem de programação especializada na manipulação e análise de dados. É compatível com os sistemas operacionais Windows , Linux  e MacOS .\n\n\n\nPosso utilizar o R sem precisar aprender a programação em R?\n\n\n     Embora o software  tenha uma interface padrão pouco amigável que se baseia principalmente em linhas de comando, ele oferece uma ampla variedade de pacotes. Alguns desses pacotes apresentam interfaces muito mais amigáveis, como o pacote Rcmdr, que permite realizar análises de dados e criar visualizações gráficas sem a necessidade de aprender a linguagem de programação."
+  },
+  {
+    "objectID": "steps/index.html#como-baixar-e-instalar-o-r",
+    "href": "steps/index.html#como-baixar-e-instalar-o-r",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "2. Como baixar e instalar o R?",
+    "text": "2. Como baixar e instalar o R?\n\n\n     Você pode baixar o  aqui. Uma vez na página, selecione a opção de download adequada para o seu sistema operacional.\n     Se estiver usando o Windows , clique em “base” e, depois, no link em destaque (por exemplo, “Download R-4.3.3 for Windows”). Como alternativa, você pode baixar o  diretamente neste link"
+  },
+  {
+    "objectID": "steps/index.html#baixando-e-instalando-o-rstudio",
+    "href": "steps/index.html#baixando-e-instalando-o-rstudio",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "3. BAIXANDO E INSTALANDO O RSTUDIO",
+    "text": "3. BAIXANDO E INSTALANDO O RSTUDIO\nPara os Minicursos 2 e 3, será necessário o uso do IDE (Integrated Development Environment, ou ambiente integrado de desenvolvimento, em tradução livre) Rstudio, que deve ser instalado após a instalação do software R (o Rstudio não funciona sem o R). Seu download está disponível no link https://posit.co/download/rstudio-desktop/#download, seja para Windows, Linux ou MacOs. Apesar da utilização do Rstudio no lugar da “interface padrão” do R ainda necessitar substancialmente do uso de linhas de comando, o Rstudio facilita o preenchimento destas e também fornece outras facilidades que tornam menos árdua a geração e compreensão de linhas de comando, sendo massivamente utilizado pelos usuários de R."
+  },
+  {
+    "objectID": "steps/index.html#baixando-e-instalando-o-vs-code",
+    "href": "steps/index.html#baixando-e-instalando-o-vs-code",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "4. BAIXANDO E INSTALANDO O VS CODE",
+    "text": "4. BAIXANDO E INSTALANDO O VS CODE\nAlém do Rstudio, o Minicurso 3 usará o Visual Studio Code (VS Code), que é um editor de código, de código aberto, desenvolvido pela Microsoft e disponível para Windows, Linux e MacOS. Seu download está disponível em https://code.visualstudio.com/."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Título\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Marie Skłodowska-Curie (1900) Sur la pénétration des rayons de Becquerel non déviables par le champ magnétique. CR Acad Sci, 130, 76-79..\n  \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "My blog",
+    "section": "",
+    "text": "Ordenar por\n       Pré-selecionado\n         \n          Título\n        \n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nMy xray experiments\n\n\n\n\n\n\n\nphysics\n\n\nchemistry\n\n\nradiation\n\n\n\n\n\n\n\n\n\n\n\n7 setembro 1902\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About me",
+    "section": "",
+    "text": "About me\nSome more detail about who I am and what I do."
+  },
+  {
+    "objectID": "blog/radioactivity.html",
+    "href": "blog/radioactivity.html",
+    "title": "My xray experiments",
+    "section": "",
+    "text": "I’ve been playing with uranium rays …"
+  },
+  {
+    "objectID": "software/index.html",
+    "href": "software/index.html",
+    "title": "Selected R packages I’ve coauthored",
+    "section": "",
+    "text": "Selected R packages I’ve coauthored"
+  },
+  {
+    "objectID": "talks/french_academy_1901.html",
+    "href": "talks/french_academy_1901.html",
+    "title": "Adventures with Uranium Rays",
+    "section": "",
+    "text": "Abstract here\n\nSlides\nembed html or pdf slides here\n\n\nVideo"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Advanced Chemistry",
+    "section": "",
+    "text": "Advanced Chemistry\nBlah blah\n\n\n\nAdvanced Physics\nDon’t forget to bring your lab coats"
+  },
+  {
+    "objectID": "index.html#o-que-é",
+    "href": "index.html#o-que-é",
+    "title": "Educa-SER - 4ª Edição",
+    "section": "O que é?",
+    "text": "O que é?\n\n\n O Educa-SER é um evento satélite do 8º Seminário Internacional de Estatística com R, destinado a profissionais da educação dos níveis básico e superior, bem como a alunos desses níveis, interessados em aprender a analisar dados por meio de uma ferramenta poderosa e gratuita como o .\n\n\nEsta edição contará com minicursos com pacotes do  que versam sobre tratamento e análise de dados em interface amigável, geração de visualizações gráficas diferenciadas e construção de mapas interativos."
+  },
+  {
+    "objectID": "index.html#objetivos",
+    "href": "index.html#objetivos",
+    "title": "Educa-SER - 4ª Edição",
+    "section": "Objetivos",
+    "text": "Objetivos\n\n\n Após sua primeira edição em 2019, realizada na Universidade Federal do Estado do Rio de Janeiro (UNIRIO), o Educa-SER retornou em 2022 em formato remoto, e continuará assim em 2024, mantendo seu propósito de demonstrar maneiras eficazes de utilizar o  em ambientes de sala de aula e em pesquisas acadêmicas.\n\n\n\n\n Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o , dê uma olhada nos primeiros passos antes de prosseguir para a programação!"
+  },
+  {
+    "objectID": "index.html#transmissão",
+    "href": "index.html#transmissão",
+    "title": "Educa-SER - 4ª Edição",
+    "section": "Transmissão",
+    "text": "Transmissão\n\n\n Todos os minicursos serão transmitidos ao vivo através do canal do SER no YouTube."
+  },
+  {
+    "objectID": "steps/index.html#como-baixar-e-instalar-o-rstudio",
+    "href": "steps/index.html#como-baixar-e-instalar-o-rstudio",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "3. Como baixar e instalar o RStudio?",
+    "text": "3. Como baixar e instalar o RStudio?\n\n\n     O RStudio, um IDE (Ambiente de Desenvolvimento Integrado), é uma ferramenta essencial para aproveitar ao máximo o , mas requer a instalação prévia do software  (o RStudio não funciona sem o ). Você pode baixar o RStudio para Windows, Linux ou MacOS através do link. Embora o uso do RStudio ainda envolva o emprego substancial de linhas de comando em comparação com a interface padrão do , ele simplifica essa interação ao oferecer preenchimento automático e outras facilidades que tornam a geração e compreensão de comandos menos complexas. Por isso, é amplamente adotado pela comunidade de usuários do ."
+  },
+  {
+    "objectID": "steps/index.html#como-baixar-e-instalar-o-vs-code",
+    "href": "steps/index.html#como-baixar-e-instalar-o-vs-code",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "4. Como baixar e instalar o VS Code?",
+    "text": "4. Como baixar e instalar o VS Code?\n\n\n      Além do RStudio, o Visual Studio Code (VS Code) é outra opção valiosa. Trata-se de um editor de código aberto desenvolvido pela Microsoft e compatível com Windows, Linux e MacOS. Você pode baixar o VS Code aqui."
+  },
+  {
+    "objectID": "talks/minicurso1.html",
+    "href": "talks/minicurso1.html",
+    "title": "Minicurso 1",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
+  },
+  {
+    "objectID": "talks/minicurso3.html",
+    "href": "talks/minicurso3.html",
+    "title": "Minicurso 3",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
+  },
+  {
+    "objectID": "talks/minicurso2.html",
+    "href": "talks/minicurso2.html",
+    "title": "Minicurso 2",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
+  },
+  {
+    "objectID": "passos/index.html",
+    "href": "passos/index.html",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "",
+    "text": "O QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?"
+  },
+  {
+    "objectID": "passos/index.html#o-que-é-r",
+    "href": "passos/index.html#o-que-é-r",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "O que é R?",
+    "text": "O que é R?\n\n\nO  é uma ferramenta de código aberto dedicada principalmente ao tratamento e análise de dados. De forma mais abrangente, pode ser considerado uma linguagem de programação especializada na manipulação e análise de dados. É compatível com os sistemas operacionais Windows , Linux  e MacOS .\n\n\n\nPosso utilizar o R sem precisar aprender a programação em R?\n\n\nEmbora o software  tenha uma interface padrão pouco amigável que se baseia principalmente em linhas de comando, ele oferece uma ampla variedade de pacotes. Alguns desses pacotes apresentam interfaces muito mais amigáveis, como o pacote Rcmdr, que permite realizar análises de dados e criar visualizações gráficas sem a necessidade de aprender a linguagem de programação."
+  },
+  {
+    "objectID": "passos/index.html#como-baixar-e-instalar-o-r",
+    "href": "passos/index.html#como-baixar-e-instalar-o-r",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "Como baixar e instalar o R?",
+    "text": "Como baixar e instalar o R?\n\n\nVocê pode baixar o  aqui. Uma vez na página, selecione a opção de download adequada para o seu sistema operacional.\nSe estiver usando o Windows , clique em “base” e, depois, no link em destaque (por exemplo, “Download R-4.3.3 for Windows”). Como alternativa, você pode baixar o  diretamente neste link"
+  },
+  {
+    "objectID": "passos/index.html#como-baixar-e-instalar-o-rstudio",
+    "href": "passos/index.html#como-baixar-e-instalar-o-rstudio",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "Como baixar e instalar o RStudio?",
+    "text": "Como baixar e instalar o RStudio?\n\n\nO RStudio, um IDE (Ambiente de Desenvolvimento Integrado), é uma ferramenta essencial para aproveitar ao máximo o , mas requer a instalação prévia do software  (o RStudio não funciona sem o ). Você pode baixar o RStudio para Windows, Linux ou MacOS através do link. Embora o uso do RStudio ainda envolva o emprego substancial de linhas de comando em comparação com a interface padrão do , ele simplifica essa interação ao oferecer preenchimento automático e outras facilidades que tornam a geração e compreensão de comandos menos complexas. Por isso, é amplamente adotado pela comunidade de usuários do ."
+  },
+  {
+    "objectID": "passos/index.html#como-baixar-e-instalar-o-vs-code",
+    "href": "passos/index.html#como-baixar-e-instalar-o-vs-code",
+    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "section": "Como baixar e instalar o VS Code?",
+    "text": "Como baixar e instalar o VS Code?\n\nAlém do RStudio, o Visual Studio Code (VS Code) é outra opção valiosa. Trata-se de um editor de código aberto desenvolvido pela Microsoft e compatível com Windows, Linux e MacOS. Você pode baixar o VS Code aqui."
+  },
+  {
+    "objectID": "minicursos/minicurso2.html",
+    "href": "minicursos/minicurso2.html",
+    "title": "Minicurso 2",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
+  },
+  {
+    "objectID": "minicursos/index.html",
+    "href": "minicursos/index.html",
+    "title": "\nMinicursos\n",
+    "section": "",
+    "text": "Minicursos\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nData\n\n\nTítulo\n\n\nLocal\n\n\n\n\n\n\n07 jul 2024\n\n\nMinicurso 1\n\n\nSala 1\n\n\n\n\n07 jul 2024\n\n\nMinicurso 2\n\n\nSala 2\n\n\n\n\n07 jul 2024\n\n\nMinicurso 3\n\n\nSala 3\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "minicursos/minicurso1.html",
+    "href": "minicursos/minicurso1.html",
+    "title": "Minicurso 1",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
+  },
+  {
+    "objectID": "minicursos/minicurso3.html",
+    "href": "minicursos/minicurso3.html",
+    "title": "Minicurso 3",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
+  },
+  {
+    "objectID": "people/west-claire/index.html#education",
+    "href": "people/west-claire/index.html#education",
+    "title": "Claire A. West",
+    "section": "Education",
+    "text": "Education\nPh.D. Chemistry | University of Washington"
+  },
+  {
+    "objectID": "people/west-claire/index.html#meta-first-s-group-publications",
+    "href": "people/west-claire/index.html#meta-first-s-group-publications",
+    "title": "Claire A. West",
+    "section": "Claire’s Group Publications",
+    "text": "Claire’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/thakkar-niket/index.html#meta-first-s-group-publications",
+    "href": "people/thakkar-niket/index.html#meta-first-s-group-publications",
+    "title": "Niket Thakkar",
+    "section": "Niket’s Group Publications",
+    "text": "Niket’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/sanchez-michael/index.html#education",
+    "href": "people/sanchez-michael/index.html#education",
+    "title": "Michael Sanchez",
+    "section": "Education",
+    "text": "Education\nB.S. Physics | University of Washington"
+  },
+  {
+    "objectID": "people/sanchez-michael/index.html#meta-first-s-group-publications",
+    "href": "people/sanchez-michael/index.html#meta-first-s-group-publications",
+    "title": "Michael Sanchez",
+    "section": "Michael’s Group Publications",
+    "text": "Michael’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/quillin-steven/index.html#meta-first-s-group-publications",
+    "href": "people/quillin-steven/index.html#meta-first-s-group-publications",
+    "title": "Steven C. Quillin",
+    "section": "Steven’s Group Publications",
+    "text": "Steven’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/nixon-austin/index.html#education",
+    "href": "people/nixon-austin/index.html#education",
+    "title": "Austin G. Nixon",
+    "section": "Education",
+    "text": "Education\nB.S. Physics and Chemistry | University of Washington"
+  },
+  {
+    "objectID": "people/nixon-austin/index.html#meta-first-s-group-publications",
+    "href": "people/nixon-austin/index.html#meta-first-s-group-publications",
+    "title": "Austin G. Nixon",
+    "section": "Austin’s Group Publications",
+    "text": "Austin’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/masiello-david/index.html#education",
+    "href": "people/masiello-david/index.html#education",
+    "title": "David J. Masiello",
+    "section": "Education",
+    "text": "Education\nPh.D. Chemical Physics | University of Florida | 2004  B.S. Mathematics | University of Florida | 1999"
+  },
+  {
+    "objectID": "people/masiello-david/index.html#group-publications",
+    "href": "people/masiello-david/index.html#group-publications",
+    "title": "David J. Masiello",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/khorasani-siamak/index.html#education",
+    "href": "people/khorasani-siamak/index.html#education",
+    "title": "Siamak Khorasani",
+    "section": "Education",
+    "text": "Education\nM.S. Nanoengineering | Joint School of Nanoscience and Nanoengineering"
+  },
+  {
+    "objectID": "people/khorasani-siamak/index.html#meta-first-s-group-publications",
+    "href": "people/khorasani-siamak/index.html#meta-first-s-group-publications",
+    "title": "Siamak Khorasani",
+    "section": "Siamak’s Group Publications",
+    "text": "Siamak’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/hu-zhongwei/index.html#meta-first-s-group-publications",
+    "href": "people/hu-zhongwei/index.html#meta-first-s-group-publications",
+    "title": "Zhongwei Hu",
+    "section": "Zhongwei’s Group Publications",
+    "text": "Zhongwei’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/goldwyn-harrison/index.html#education",
+    "href": "people/goldwyn-harrison/index.html#education",
+    "title": "Harrison J. Goldwyn",
+    "section": "Education",
+    "text": "Education\nPh.D. Chemistry | University of Washington"
+  },
+  {
+    "objectID": "people/goldwyn-harrison/index.html#meta-first-s-group-publications",
+    "href": "people/goldwyn-harrison/index.html#meta-first-s-group-publications",
+    "title": "Harrison J. Goldwyn",
+    "section": "Harrison’s Group Publications",
+    "text": "Harrison’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/ext-reinhardt-phil/index.html",
+    "href": "people/ext-reinhardt-phil/index.html",
+    "title": "Phil Reinhardt",
+    "section": "",
+    "text": "Email"
+  },
+  {
+    "objectID": "people/ext-reinhardt-phil/index.html#meta-first-s-nsf-dmref-publications",
+    "href": "people/ext-reinhardt-phil/index.html#meta-first-s-nsf-dmref-publications",
+    "title": "Phil Reinhardt",
+    "section": "Phil’s NSF DMREF Publications",
+    "text": "Phil’s NSF DMREF Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/ext-lee-stephen/index.html",
+    "href": "people/ext-lee-stephen/index.html",
+    "title": "Stephen A. Lee",
+    "section": "",
+    "text": "Email"
+  },
+  {
+    "objectID": "people/ext-lee-stephen/index.html#meta-first-s-nsf-dmref-publications",
+    "href": "people/ext-lee-stephen/index.html#meta-first-s-nsf-dmref-publications",
+    "title": "Stephen A. Lee",
+    "section": "Stephen’s NSF DMREF Publications",
+    "text": "Stephen’s NSF DMREF Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/chalifour-matthieu/index.html#education",
+    "href": "people/chalifour-matthieu/index.html#education",
+    "title": "Matthieu Chalifour",
+    "section": "Education",
+    "text": "Education\nB.S. Physics | Swarthmore College"
+  },
+  {
+    "objectID": "people/chalifour-matthieu/index.html#meta-first-s-group-publications",
+    "href": "people/chalifour-matthieu/index.html#meta-first-s-group-publications",
+    "title": "Matthieu Chalifour",
+    "section": "Matthieu’s Group Publications",
+    "text": "Matthieu’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/bourgeois-marc/index.html#education",
+    "href": "people/bourgeois-marc/index.html#education",
+    "title": "Marc R. Bourgeois",
+    "section": "Education",
+    "text": "Education\nPh.D. Chemistry | Northwestern University  M.S. Physics | University of Arizona  B.A. Physics, Mathematics, and Integrated Sciences | Northwestern University"
+  },
+  {
+    "objectID": "people/bourgeois-marc/index.html#meta-first-s-group-publications",
+    "href": "people/bourgeois-marc/index.html#meta-first-s-group-publications",
+    "title": "Marc R. Bourgeois",
+    "section": "Marc’s Group Publications",
+    "text": "Marc’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/bhattacharya-aniruddha/index.html#education",
+    "href": "people/bhattacharya-aniruddha/index.html#education",
+    "title": "Aniruddha Bhattacharya",
+    "section": "Education",
+    "text": "Education\nPh.D. Electrical Engineering | University of Michigan"
+  },
+  {
+    "objectID": "people/bhattacharya-aniruddha/index.html#meta-first-s-group-publications",
+    "href": "people/bhattacharya-aniruddha/index.html#meta-first-s-group-publications",
+    "title": "Aniruddha Bhattacharya",
+    "section": "Aniruddha’s Group Publications",
+    "text": "Aniruddha’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/anyanwu-praise/index.html#education",
+    "href": "people/anyanwu-praise/index.html#education",
+    "title": "C. Praise Anyanwu",
+    "section": "Education",
+    "text": "Education\nB.S. Chemistry | Bard College"
+  },
+  {
+    "objectID": "people/anyanwu-praise/index.html#meta-first-s-group-publications",
+    "href": "people/anyanwu-praise/index.html#meta-first-s-group-publications",
+    "title": "C. Praise Anyanwu",
+    "section": "Praise’s Group Publications",
+    "text": "Praise’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/beutler-elliot/index.html#education",
+    "href": "people/beutler-elliot/index.html#education",
+    "title": "Elliot K. Beutler",
+    "section": "Education",
+    "text": "Education\nPh.D. Chemistry | University of Washington  B.S. Chemistry | University of Washington"
+  },
+  {
+    "objectID": "people/beutler-elliot/index.html#meta-first-s-group-publications",
+    "href": "people/beutler-elliot/index.html#meta-first-s-group-publications",
+    "title": "Elliot K. Beutler",
+    "section": "Elliot’s Group Publications",
+    "text": "Elliot’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/bigelow-nicholas/index.html#meta-first-s-group-publications",
+    "href": "people/bigelow-nicholas/index.html#meta-first-s-group-publications",
+    "title": "Nicholas W. Bigelow",
+    "section": "Nicholas’s Group Publications",
+    "text": "Nicholas’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/busche-jacob/index.html#education",
+    "href": "people/busche-jacob/index.html#education",
+    "title": "Jacob A. Busche",
+    "section": "Education",
+    "text": "Education\nPh.D. Chemistry | University of Washington"
+  },
+  {
+    "objectID": "people/busche-jacob/index.html#meta-first-s-group-publications",
+    "href": "people/busche-jacob/index.html#meta-first-s-group-publications",
+    "title": "Jacob A. Busche",
+    "section": "Jacob’s Group Publications",
+    "text": "Jacob’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/cherqui-charles/index.html#education",
+    "href": "people/cherqui-charles/index.html#education",
+    "title": "Charles Cherqui",
+    "section": "Education",
+    "text": "Education\nPh.D. Physics | University of New Mexico & Los Alamos National Laboratory"
+  },
+  {
+    "objectID": "people/cherqui-charles/index.html#meta-first-s-group-publications",
+    "href": "people/cherqui-charles/index.html#meta-first-s-group-publications",
+    "title": "Charles Cherqui",
+    "section": "Charles’s Group Publications",
+    "text": "Charles’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/ext-link-stephan/index.html",
+    "href": "people/ext-link-stephan/index.html",
+    "title": "Stephan Link",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     Group Webpage"
+  },
+  {
+    "objectID": "people/ext-link-stephan/index.html#meta-first-s-nsf-dmref-publications",
+    "href": "people/ext-link-stephan/index.html#meta-first-s-nsf-dmref-publications",
+    "title": "Stephan Link",
+    "section": "Stephan’s NSF DMREF Publications",
+    "text": "Stephan’s NSF DMREF Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/ext-willets-katherine/index.html",
+    "href": "people/ext-willets-katherine/index.html",
+    "title": "Katherine A. Willets",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     Group Webpage"
+  },
+  {
+    "objectID": "people/ext-willets-katherine/index.html#meta-first-s-nsf-dmref-publications",
+    "href": "people/ext-willets-katherine/index.html#meta-first-s-nsf-dmref-publications",
+    "title": "Katherine A. Willets",
+    "section": "Katherine’s NSF DMREF Publications",
+    "text": "Katherine’s NSF DMREF Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/guo-xiaofei/index.html#education",
+    "href": "people/guo-xiaofei/index.html#education",
+    "title": "Xiaofei Guo",
+    "section": "Education",
+    "text": "Education\nB.S. Chemistry | Bard College"
+  },
+  {
+    "objectID": "people/guo-xiaofei/index.html#meta-first-s-group-publications",
+    "href": "people/guo-xiaofei/index.html#meta-first-s-group-publications",
+    "title": "Xiaofei Guo",
+    "section": "Xiaofei (Betty)’s Group Publications",
+    "text": "Xiaofei (Betty)’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "\nComissão Organizadora\n",
+    "section": "",
+    "text": "Comissão Organizadora\n\n\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Charles Cherqui \n            \n            \n                  Postdoctoral Fellow\n            \n              \n                    Ph.D. Physics | University of New Mexico & Los Alamos National Laboratory\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Harrison J. Goldwyn \n            \n            \n                  Graduate Student\n            \n              \n                    Ph.D. Chemistry | University of Washington\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Zhongwei Hu \n            \n            \n                  Post-Doctoral Fellow\n            \n              \n                    Ph.D. Chemistry | Pennsylvania State University\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Xiang-Tian Kong \n            \n            \n                  Post-Doctoral Fellow\n            \n              \n                    Ph.D. Physics | Nankai University\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente\n\n\n\n\n\n\n\n\n\n   \n\n\n\nNenhum item correspondente\n\n\n\n   \n\n\n\nNenhum item correspondente\n\n\n\n   \n\n\n\nNenhum item correspondente\n\n\n\n   \n\n\n\nNenhum item correspondente\n\n\n\n   \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/index.html#principal-investigator",
+    "href": "people/index.html#principal-investigator",
+    "title": "Meet the Group",
+    "section": "",
+    "text": "David J. Masiello \n            \n            \n              Professor of Chemistry  Adjunct Professor of Materials Science and Engineering  Adjunct Professor of Applied Mathematics\n            \n              \n                  Ph.D. Chemical Physics | University of Florida | 2004  B.S. Mathematics | University of Florida | 1999\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/index.html#research-scientists",
+    "href": "people/index.html#research-scientists",
+    "title": "Meet the Group",
+    "section": "Research Scientists",
+    "text": "Research Scientists\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Marc R. Bourgeois \n            \n            \n              Research Scientist\n            \n              \n                  Ph.D. Chemistry | Northwestern University  M.S. Physics | University of Arizona  B.A. Physics, Mathematics, and Integrated Sciences | Northwestern University\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/index.html#postdoctoral-fellows",
+    "href": "people/index.html#postdoctoral-fellows",
+    "title": "Meet the Group",
+    "section": "Postdoctoral Fellows",
+    "text": "Postdoctoral Fellows\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Elliot K. Beutler \n            \n            \n              Postdoctoral Fellow\n            \n              \n                  Ph.D. Chemistry | University of Washington  B.S. Chemistry | University of Washington\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/index.html#graduate-students",
+    "href": "people/index.html#graduate-students",
+    "title": "Meet the Group",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              C. Praise Anyanwu \n            \n            \n              Graduate Student, Chemistry\n            \n              \n                  B.S. Chemistry | Bard College\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Matthieu Chalifour \n            \n            \n              Graduate Student, Physics\n            \n              \n                  B.S. Physics | Swarthmore College\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Xiaofei Guo \n            \n            \n              Graduate Student, Chemistry\n            \n              \n                  B.S. Chemistry | Bard College\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Siamak Khorasani \n            \n            \n              Graduate Student, Materials Science & Engineering\n            \n              \n                  M.S. Nanoengineering | Joint School of Nanoscience and Nanoengineering\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Austin G. Nixon \n            \n            \n              Graduate Student, Chemistry\n            \n              \n                  B.S. Physics and Chemistry | University of Washington\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Andrew W. Rossi \n            \n            \n              Graduate Student, Chemistry\n            \n              \n                  B.S. Chemistry | The Ohio State University\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Caleb Walton \n            \n            \n              Graduate Student, Chemistry\n            \n              \n                  B.S. Chemistry | UC Davis\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/index.html#post-baccalaureate-researchers",
+    "href": "people/index.html#post-baccalaureate-researchers",
+    "title": "Meet the Group",
+    "section": "Post Baccalaureate Researchers",
+    "text": "Post Baccalaureate Researchers\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Michael Sanchez \n            \n            \n              Post Baccalaureate Researcher \n            \n              \n                  B.S. Physics | University of Washington\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/index.html#alumni",
+    "href": "people/index.html#alumni",
+    "title": "\nComissão Organizadora\n",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Charles Cherqui \n            \n            \n                  Postdoctoral Fellow\n            \n              \n                    Ph.D. Physics | University of New Mexico & Los Alamos National Laboratory\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Harrison J. Goldwyn \n            \n            \n                  Graduate Student\n            \n              \n                    Ph.D. Chemistry | University of Washington\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Zhongwei Hu \n            \n            \n                  Post-Doctoral Fellow\n            \n              \n                    Ph.D. Chemistry | Pennsylvania State University\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Xiang-Tian Kong \n            \n            \n                  Post-Doctoral Fellow\n            \n              \n                    Ph.D. Physics | Nankai University\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/kong-xiang-tian/index.html#meta-first-s-group-publications",
+    "href": "people/kong-xiang-tian/index.html#meta-first-s-group-publications",
+    "title": "Xiang-Tian Kong",
+    "section": "Xiang-Tian’s Group Publications",
+    "text": "Xiang-Tian’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/montoni-nicholas/index.html#meta-first-s-group-publications",
+    "href": "people/montoni-nicholas/index.html#meta-first-s-group-publications",
+    "title": "Nicholas P. Montoni",
+    "section": "Nicholas’s Group Publications",
+    "text": "Nicholas’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/qian-zhaoxia/index.html#meta-first-s-group-publications",
+    "href": "people/qian-zhaoxia/index.html#meta-first-s-group-publications",
+    "title": "Zhaoxia Qian",
+    "section": "Zhaoxia’s Group Publications",
+    "text": "Zhaoxia’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/rossi-andrew/index.html#education",
+    "href": "people/rossi-andrew/index.html#education",
+    "title": "Andrew W. Rossi",
+    "section": "Education",
+    "text": "Education\nB.S. Chemistry | The Ohio State University"
+  },
+  {
+    "objectID": "people/rossi-andrew/index.html#meta-first-s-group-publications",
+    "href": "people/rossi-andrew/index.html#meta-first-s-group-publications",
+    "title": "Andrew W. Rossi",
+    "section": "Andrew’s Group Publications",
+    "text": "Andrew’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/smith-kevin/index.html#education",
+    "href": "people/smith-kevin/index.html#education",
+    "title": "Kevin C. Smith",
+    "section": "Education",
+    "text": "Education\nPh.D. Physics | University of Washington"
+  },
+  {
+    "objectID": "people/smith-kevin/index.html#meta-first-s-group-publications",
+    "href": "people/smith-kevin/index.html#meta-first-s-group-publications",
+    "title": "Kevin C. Smith",
+    "section": "Kevin’s Group Publications",
+    "text": "Kevin’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people/walton-caleb/index.html#education",
+    "href": "people/walton-caleb/index.html#education",
+    "title": "Caleb Walton",
+    "section": "Education",
+    "text": "Education\nB.S. Chemistry | UC Davis"
+  },
+  {
+    "objectID": "people/walton-caleb/index.html#meta-first-s-group-publications",
+    "href": "people/walton-caleb/index.html#meta-first-s-group-publications",
+    "title": "Caleb Walton",
+    "section": "Caleb’s Group Publications",
+    "text": "Caleb’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "comissao/index.html",
+    "href": "comissao/index.html",
+    "title": "\nComissão Organizadora\n",
+    "section": "",
+    "text": "Comissão Organizadora\n\n\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Felipe Rafael Ribeiro Melo \n            \n            \n                  Professor Adjunto\n            \n              \n                    DMQ | Unirio\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Letícia M. Raposo \n            \n            \n                  Professora Adjunta\n            \n              \n                    DMQ | Unirio\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Luiz E. S. Gomes \n            \n            \n                  Professor Assistente\n            \n              \n                    DMQ | Unirio\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Vanessa M. Almeida \n            \n            \n                  Professora\n            \n              \n                    Colégio Estadual Dr. João Bazet\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente\n\n\n\n\n\n\n\n\n\n   \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "comissao/2vanessa/index.html#meta-first-s-group-publications",
+    "href": "comissao/2vanessa/index.html#meta-first-s-group-publications",
+    "title": "Vanessa M. Almeida",
+    "section": "Vanessa’s Group Publications",
+    "text": "Vanessa’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "comissao/0felipe/index.html#education",
+    "href": "comissao/0felipe/index.html#education",
+    "title": "Charles Cherqui",
+    "section": "Education",
+    "text": "Education\nPh.D. Physics | University of New Mexico & Los Alamos National Laboratory"
+  },
+  {
+    "objectID": "comissao/0felipe/index.html#meta-first-s-group-publications",
+    "href": "comissao/0felipe/index.html#meta-first-s-group-publications",
+    "title": "Felipe Rafael Ribeiro Melo",
+    "section": "Felipe’s Group Publications",
+    "text": "Felipe’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "comissao/1leticia/index.html#education",
+    "href": "comissao/1leticia/index.html#education",
+    "title": "Harrison J. Goldwyn",
+    "section": "Education",
+    "text": "Education\nPh.D. Chemistry | University of Washington"
+  },
+  {
+    "objectID": "comissao/1leticia/index.html#meta-first-s-group-publications",
+    "href": "comissao/1leticia/index.html#meta-first-s-group-publications",
+    "title": "Letícia M. Raposo",
+    "section": "Letícia’s Group Publications",
+    "text": "Letícia’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "comissao/3luiz/index.html#meta-first-s-group-publications",
+    "href": "comissao/3luiz/index.html#meta-first-s-group-publications",
+    "title": "Luiz E. S. Gomes",
+    "section": "Luiz’s Group Publications",
+    "text": "Luiz’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "comissao/1leticia/index.html",
+    "href": "comissao/1leticia/index.html",
+    "title": "Letícia M. Raposo",
+    "section": "",
+    "text": "fsfsfsdfs"
+  },
+  {
+    "objectID": "comissao/1leticia/index.html#dsds",
+    "href": "comissao/1leticia/index.html#dsds",
+    "title": "Letícia M. Raposo",
+    "section": "",
+    "text": "fsfsfsdfs"
+  },
+  {
+    "objectID": "comissao/1leticia/index.html#dsds-1",
+    "href": "comissao/1leticia/index.html#dsds-1",
+    "title": "Letícia M. Raposo",
+    "section": "dsds",
+    "text": "dsds\nfsfsfsdfs\ndsadsdsadsd"
   }
 ]

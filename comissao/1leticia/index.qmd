@@ -1,0 +1,39 @@
+---
+subtitle: Professora Adjunta
+first: Letícia
+last: Raposo
+title: &TITLE Letícia M. Raposo
+education: DMQ | Unirio
+people_group: alumni
+image: avatar.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: ../../../publications/**/*.qmd
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.png
+---
+
+## dsds 
+
+fsfsfsdfs
+
+## dsds 
+
+fsfsfsdfs
+
+dsadsdsadsd
+
+
+
+

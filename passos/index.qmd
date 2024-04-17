@@ -1,0 +1,41 @@
+<h1>O QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?</h1>
+
+## O que é R?
+
+<div style="text-align: justify;">
+<p>
+O <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a> é uma ferramenta de código aberto dedicada principalmente ao tratamento e análise de dados. De forma mais abrangente, pode ser considerado uma linguagem de programação especializada na manipulação e análise de dados. É compatível com os sistemas operacionais Windows <i class="fa-brands fa-windows"></i>, Linux <i class="fa-brands fa-linux"></i> e MacOS <i class="fa-brands fa-apple"></i>.
+</p>
+</div>
+
+### Posso utilizar o R sem precisar aprender a programação em R?
+
+<div style="text-align: justify;">
+<p>
+Embora o software <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a> tenha uma interface padrão pouco amigável que se baseia principalmente em linhas de comando, ele oferece uma ampla variedade de pacotes. Alguns desses pacotes apresentam interfaces muito mais amigáveis, como o pacote <code>Rcmdr</code>, que permite realizar análises de dados e criar visualizações gráficas sem a necessidade de aprender a linguagem de programação.
+</p>
+</div>
+
+## Como baixar e instalar o R? 
+
+<div style="text-align: justify;">
+<p>
+Você pode baixar o <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a> <a href="https://cran.rstudio.com/" target="_blank"><strong>aqui</strong></a>. Uma vez na página, selecione a opção de download adequada para o seu sistema operacional. 
+
+Se estiver usando o Windows <i class="fa-brands fa-windows"></i>, clique em "base" e, depois, no link em destaque (por exemplo, "Download R-4.3.3 for Windows"). Como alternativa, você pode baixar o <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a> diretamente neste <a href="https://cran.fiocruz.br/bin/windows/base/R-4.3.3-win.exe" target="_blank"><strong>link</strong></a>
+</p>
+</div>
+
+## Como baixar e instalar o RStudio?
+
+<div style="text-align: justify;">
+<p>
+O RStudio, um IDE (Ambiente de Desenvolvimento Integrado), é uma ferramenta essencial para aproveitar ao máximo o <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a>, mas requer a instalação prévia do software <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a> (o RStudio não funciona sem o <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a>). Você pode baixar o RStudio para Windows, Linux ou MacOS através do <a href="https://posit.co/download/rstudio-desktop/#download" target="_blank"><strong>link</strong></a>. Embora o uso do RStudio ainda envolva o emprego substancial de linhas de comando em comparação com a interface padrão do <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a>, ele simplifica essa interação ao oferecer preenchimento automático e outras facilidades que tornam a geração e compreensão de comandos menos complexas. Por isso, é amplamente adotado pela comunidade de usuários do <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a>.
+</p>
+</div>
+
+## Como baixar e instalar o VS Code?
+
+<div style="text-align: justify;">
+Além do RStudio, o Visual Studio Code (VS Code) é outra opção valiosa. Trata-se de um editor de código aberto desenvolvido pela Microsoft e compatível com Windows, Linux e MacOS. Você pode baixar o VS Code <a href="https://code.visualstudio.com/" target="_blank"><strong>aqui</strong></a>.
+

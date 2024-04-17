@@ -1,27 +1,73 @@
 project:
   type: website
   output-dir: docs
+  render:
+  - "*.qmd"
+  - "*.md"
   
 website:
-  title: "MY WEB SITE"
+  title: "Educa-SER"
+  site-url: "https://mariecurie.com"
+  favicon: img/educaser_meio.png
   navbar:
+    background: "#F7A71C"
+    logo: img/educaser_meio.png
+    # href: https://openscapes.org
     left:
+      #   - text: "About"                      
+      # menu:
+      #   - text: "About2"
+      #     href: about.qmd
+      #   - text: "Slides"
+      #     href: about.qmd         
       - href: index.qmd
-        text: Home
-      - projects.qmd
+        text: Sobre
+      - href: passos/index.qmd
+        text: Primeiros Passos
+      - href: minicursos/index.qmd
+        text: Minicursos
+      - href: comissao/index.qmd
+        text: Comissão Organizadora
     tools:
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+    - icon: clipboard
+      text: Inscrições
+      href: https://forms.gle/fymM12EtCYft1MVk9
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/educaseroficial?igshid=MzRlODBiNWFlZA==
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@SERUFF/streams
+    - icon: envelope
+      text: Email
+      href: mailto:educaseroficial@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/educaser
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "© 2019-2024 Educa-SER. Todos os direitos reservados."
+    right: 
+    - icon: clipboard
+      href: https://forms.gle/fymM12EtCYft1MVk9
+    - icon: instagram
+      href: https://instagram.com/educaseroficial?igshid=MzRlODBiNWFlZA==
+    - icon: youtube
+      href: https://www.youtube.com/@SERUFF/streams
+    - icon: envelope
+      href: mailto:educaseroficial@gmail.com
+    - icon: github
+      href: https://github.com/educaser
+    background: "#F7A71C"
+    
+date-format: "D MMMM YYYY"
 
 format:
   html:
-    theme: cerulean
+    theme: tango
+    css: styles.css
     toc: true
+    html-math-method: katex
+    include-in-header:
+      file: header.html
 
-editor: source
-
+lang: pt

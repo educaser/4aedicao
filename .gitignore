@@ -2,5 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-
+.gitignore
 /.quarto/
+*_cache/
+_site/

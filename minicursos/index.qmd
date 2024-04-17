@@ -1,0 +1,22 @@
+---
+listing:
+  contents: .
+  sort: "date desc"
+  categories: false
+  sort-ui: true
+  filter-ui: [date, title, venue]
+  date-format: "DD MMM YYYY"
+  type: table
+  page-size: 999
+  fields:
+    - date
+    - title
+    - local
+  field-display-names:
+      local: Local
+
+page-layout: full
+title-block-banner: false
+---
+
+<h1>Minicursos</h1>

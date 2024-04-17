@@ -1,19 +1,57 @@
 ---
-title: "SOBRE MIM"
+title: "Educa-SER - 4ª Edição"
 about:
-  id: me
-  template: broadside
-  image: img/profile.png
+  template: trestles
+  image-width: 1em
+  image-shape: round
+  image: img/educaser_meio.png
+  links:
+    - icon: clipboard
+      text: Inscrições
+      href: https://forms.gle/fymM12EtCYft1MVk9
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/educaseroficial?igshid=MzRlODBiNWFlZA==
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@SERUFF/streams
+    - icon: envelope
+      text: Email
+      href: mailto:educaseroficial@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/educaser
 ---
 
-:::{#me}
+<h1>BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!</h1>
 
-## Goals
+## O que é?
 
-## Education
+<div style="text-align: justify;">
+<p>
+<i class="fa-solid fa-comment"></i> O Educa-SER é um evento satélite do <a href="https://ser.uff.br/" target="_blank">8º Seminário Internacional de Estatística com R</a>, destinado a profissionais da educação dos níveis básico e superior, bem como a alunos desses níveis, interessados em aprender a analisar dados por meio de uma ferramenta poderosa e gratuita como o <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a>.
+</p>
+</div>
 
-## Experience
 
-:::
+<span style="color:red;">Esta edição contará com minicursos com pacotes do <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a> que versam sobre tratamento e análise de dados em interface amigável, geração de visualizações gráficas diferenciadas e construção de mapas interativos.</span>
 
-Thanks for checking out my web site!
+## Objetivos
+
+<div style="text-align: justify;">
+<p>
+<i class="fa-solid fa-bullseye"></i> Após sua primeira edição em 2019, realizada na <a href="https://www.unirio.br/" target="_blank">Universidade Federal do Estado do Rio de Janeiro (UNIRIO)</a>, o Educa-SER retornou em 2022 em formato remoto, e continuará assim em 2024, mantendo seu propósito de demonstrar maneiras eficazes de utilizar o <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a> em ambientes de sala de aula e em pesquisas acadêmicas.</p>
+</div>
+
+<div style="text-align: justify;">
+<p>
+<i class="fa-solid fa-triangle-exclamation"></i> Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a>, dê uma olhada nos [**primeiros passos**](passos/index.qmd) antes de prosseguir para a programação!
+</p>
+</div>
+
+## Transmissão
+<div style="text-align: justify;">
+<p>
+<i class="fa-brands fa-youtube"></i> Todos os minicursos serão transmitidos ao vivo através do <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">canal do SER no YouTube</a>.
+</p>
+</div>

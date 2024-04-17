@@ -1,0 +1,30 @@
+---
+listing:
+  - id: pi
+    include: 
+      people_group: "pi"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: alumni
+    include: 
+      people_group: "alumni"
+    exclude:
+      external: true
+    template: ../_ejs/alumni-box.ejs
+    # sort: last
+    type: grid
+    fields: [title, subtitle, image, education, altsubtitle, alteducation]
+page-layout: full
+---
+
+<h1>Comissão Organizadora</h1>
+
+:::{.sand-background}
+
+::: {#alumni}
+:::
+
+:::

@@ -1,0 +1,42 @@
+---
+subtitle: Professor Adjunto
+first: Felipe
+last: Melo
+title: &TITLE Felipe Rafael Ribeiro Melo
+education: DMQ | Unirio
+people_group: alumni
+image: avatar.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: ../../../publications/**/*.qmd
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.png
+---
+
+<hr>
+
+
+:::{#about}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::
+-
+
+
