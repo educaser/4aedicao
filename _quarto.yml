@@ -71,7 +71,7 @@ format:
       file: header.html
     grid:
       sidebar-width:	250px
-      body-width:	800px
+      body-width:	900px
       margin-width:	250px
       gutter-width:	1.5em
       

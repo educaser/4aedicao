@@ -24,33 +24,16 @@
               <%= item.title %><br> 
             </div>
                
-            <div class="listing-box-subtitle">
-
-              <% if (item.altsubtitle) { %>
-                <%= item.altsubtitle %><br>
-                <%} else { %>
-                  <%= item.subtitle %><br>
-                  <% } %>
-
-
-
-            </div>
+            <div class="listing-box-education">
                 
-            
-              
-              <div class="listing-box-education">
-                
-                <% if (item.alteducation) { %>
-                  <%= item.alteducation %><br>
+                <% if (item.education) { %>
+                  <%= item.education %><br>
                   <%} else { %>
-                    <%= item.education %><br>
+                    <p>  </p>
                     <% } %>
                     
               </div>  
-                  
 
-            
-            
           </div>  
         </div>  
       </a>

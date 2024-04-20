@@ -1,7 +1,7 @@
 ---
 listing:
   - id: pi
-    include: 
+    include:
       people_group: "pi"
     exclude:
       external: true
@@ -14,13 +14,13 @@ listing:
     exclude:
       external: true
     template: ../_ejs/alumni-box.ejs
-    # sort: last
+    sort: false
     type: grid
     fields: [title, subtitle, image, education, altsubtitle, alteducation]
 page-layout: full
 ---
 
-<h1>Comissão Organizadora</h1>
+<h2>Comissão Organizadora</h2>
 
 :::{.sand-background}
 

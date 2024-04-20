@@ -169,10 +169,10 @@
   {
     "listing": "/comissao/index.html",
     "items": [
-      "/comissao/0felipe/index.html",
-      "/comissao/1leticia/index.html",
-      "/comissao/3luiz/index.html",
-      "/comissao/2vanessa/index.html"
+      "/comissao/01felipe/index.html",
+      "/comissao/02leticia/index.html",
+      "/comissao/03vanessa/index.html",
+      "/comissao/04luiz/index.html"
     ]
   },
   {
@@ -189,6 +189,38 @@
   },
   {
     "listing": "/comissao/3luiz/index.html",
+    "items": []
+  },
+  {
+    "listing": "/comissao/3vanessa/index.html",
+    "items": []
+  },
+  {
+    "listing": "/comissao/1felipe/index.html",
+    "items": []
+  },
+  {
+    "listing": "/comissao/2leticia/index.html",
+    "items": []
+  },
+  {
+    "listing": "/comissao/4luiz/index.html",
+    "items": []
+  },
+  {
+    "listing": "/comissao/03vanessa/index.html",
+    "items": []
+  },
+  {
+    "listing": "/comissao/04luiz/index.html",
+    "items": []
+  },
+  {
+    "listing": "/comissao/01felipe/index.html",
+    "items": []
+  },
+  {
+    "listing": "/comissao/02leticia/index.html",
     "items": []
   }
 ]
