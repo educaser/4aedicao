@@ -1,9 +1,10 @@
 ---
 title: "Educa-SER | 4ª Edição"
+page-layout: full
 about:
-  template: solana
+  template: trestles
   image: img/educaser_meio.png
-  image-width: 20em
+  image-width: 25em
   image-shape: rectangle
   links:
     - icon: clipboard
@@ -18,9 +19,10 @@ about:
     - icon: envelope
       text: Email
       href: mailto:educaseroficial@gmail.com
-    - icon: github
-      text: GitHub
-      href: https://github.com/educaser
+    # - icon: github
+    #   text: GitHub
+    #   href: https://github.com/educaser
+      
 ---
 
 <!-- <h2>BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!</h2> -->

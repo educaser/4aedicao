@@ -41,9 +41,9 @@ website:
     - icon: envelope
       text: Email
       href: mailto:educaseroficial@gmail.com
-    - icon: github
-      text: GitHub
-      href: https://github.com/educaser
+    # - icon: github
+    #   text: GitHub
+    #   href: https://github.com/educaser
   page-footer:
     left: "© 2019-2024 Educa-SER. Todos os direitos reservados."
     right: 
@@ -69,5 +69,10 @@ format:
     html-math-method: katex
     include-in-header:
       file: header.html
-
+    grid:
+      sidebar-width:	250px
+      body-width:	800px
+      margin-width:	250px
+      gutter-width:	1.5em
+      
 lang: pt
