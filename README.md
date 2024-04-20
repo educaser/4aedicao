@@ -1,26 +1,13 @@
-# mywebsite2
+# Educa-SER \| 4ª Edição
 
-### Next steps
+## O que é?
 
-- Add content to `index.qmd` as desired.
+O Educa-SER é um evento satélite do [8º Seminário Internacional de Estatística com R](https://ser.uff.br/), destinado a profissionais da educação dos níveis básico e superior, bem como a alunos desses níveis, interessados em aprender a analisar dados por meio de uma ferramenta poderosa e gratuita como o `R`.
 
-- Add content to `projects.qmd` as desired.
+## Objetivos
 
-- Change the photo in the `img` folder to your photo.
+Após sua primeira edição em 2019, realizada na [Universidade Federal do Estado do Rio de Janeiro (UNIRIO)](https://www.unirio.br/), o Educa-SER retornou em 2022 em formato remoto, e continuará assim em 2024, mantendo seu propósito de demonstrar maneiras eficazes de utilizar o `R` em ambientes de sala de aula e em pesquisas acadêmicas.
 
-- Choose a theme from [https://bootswatch.com/](https://bootswatch.com/) and replace "cerulean" in `_quarto.yml` with your prefered theme.
+## Transmissão
 
-- Add additional tabs/sections by creating new `.qmd` files and listing them in `_quarto.yml` under `projects.qmd`.
-
-### Additional features
-
-Please consult the official guide to **quarto** web sites: [https://quarto.org/docs/websites/](https://quarto.org/docs/websites/)
-
-### Last but not least
-
-Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add the following to the end:	
-
-*This repo was initially generated from a Quarto template available here: https://github.com/jtr13/website-template.*
-
-(And starring the repo would be nice too!)
-
+Todos os minicursos serão transmitidos ao vivo através do [canal do SER](https://www.youtube.com/@SERUFF/streams) no YouTube.
