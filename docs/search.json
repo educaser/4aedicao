@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Educa-SER - 4ª Edição",
+    "title": "Educa-SER | 4ª Edição",
     "section": "",
-    "text": "BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!"
+    "text": "O Educa-SER é um evento satélite do 8º Seminário Internacional de Estatística com R, destinado a profissionais da educação dos níveis básico e superior, bem como a alunos desses níveis, interessados em aprender a analisar dados por meio de uma ferramenta poderosa e gratuita como o ."
   },
   {
     "objectID": "index.html#o-que-é-o-educa-ser",
@@ -233,21 +233,21 @@
   {
     "objectID": "index.html#o-que-é",
     "href": "index.html#o-que-é",
-    "title": "Educa-SER - 4ª Edição",
-    "section": "O que é?",
-    "text": "O que é?\n\n\n O Educa-SER é um evento satélite do 8º Seminário Internacional de Estatística com R, destinado a profissionais da educação dos níveis básico e superior, bem como a alunos desses níveis, interessados em aprender a analisar dados por meio de uma ferramenta poderosa e gratuita como o .\n\n\nEsta edição contará com minicursos com pacotes do  que versam sobre tratamento e análise de dados em interface amigável, geração de visualizações gráficas diferenciadas e construção de mapas interativos."
+    "title": "Educa-SER | 4ª Edição",
+    "section": "",
+    "text": "O Educa-SER é um evento satélite do 8º Seminário Internacional de Estatística com R, destinado a profissionais da educação dos níveis básico e superior, bem como a alunos desses níveis, interessados em aprender a analisar dados por meio de uma ferramenta poderosa e gratuita como o ."
   },
   {
     "objectID": "index.html#objetivos",
     "href": "index.html#objetivos",
-    "title": "Educa-SER - 4ª Edição",
+    "title": "Educa-SER | 4ª Edição",
     "section": "Objetivos",
     "text": "Objetivos\n\n\n Após sua primeira edição em 2019, realizada na Universidade Federal do Estado do Rio de Janeiro (UNIRIO), o Educa-SER retornou em 2022 em formato remoto, e continuará assim em 2024, mantendo seu propósito de demonstrar maneiras eficazes de utilizar o  em ambientes de sala de aula e em pesquisas acadêmicas.\n\n\n\n\n Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o , dê uma olhada nos primeiros passos antes de prosseguir para a programação!"
   },
   {
     "objectID": "index.html#transmissão",
     "href": "index.html#transmissão",
-    "title": "Educa-SER - 4ª Edição",
+    "title": "Educa-SER | 4ª Edição",
     "section": "Transmissão",
     "text": "Transmissão\n\n\n Todos os minicursos serão transmitidos ao vivo através do canal do SER no YouTube."
   },
@@ -289,35 +289,35 @@
   {
     "objectID": "passos/index.html",
     "href": "passos/index.html",
-    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "title": "Educa-SER",
     "section": "",
-    "text": "O QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?"
+    "text": "O  é uma ferramenta de código aberto dedicada principalmente ao tratamento e análise de dados. De forma mais abrangente, pode ser considerado uma linguagem de programação especializada na manipulação e análise de dados. É compatível com os sistemas operacionais Windows , Linux  e MacOS .\n\n\n\n\n\nEmbora o software  tenha uma interface padrão pouco amigável que se baseia principalmente em linhas de comando, ele oferece uma ampla variedade de pacotes. Alguns desses pacotes apresentam interfaces muito mais amigáveis, como o pacote Rcmdr, que permite realizar análises de dados e criar visualizações gráficas sem a necessidade de aprender a linguagem de programação."
   },
   {
     "objectID": "passos/index.html#o-que-é-r",
     "href": "passos/index.html#o-que-é-r",
-    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
-    "section": "O que é R?",
-    "text": "O que é R?\n\n\nO  é uma ferramenta de código aberto dedicada principalmente ao tratamento e análise de dados. De forma mais abrangente, pode ser considerado uma linguagem de programação especializada na manipulação e análise de dados. É compatível com os sistemas operacionais Windows , Linux  e MacOS .\n\n\n\nPosso utilizar o R sem precisar aprender a programação em R?\n\n\nEmbora o software  tenha uma interface padrão pouco amigável que se baseia principalmente em linhas de comando, ele oferece uma ampla variedade de pacotes. Alguns desses pacotes apresentam interfaces muito mais amigáveis, como o pacote Rcmdr, que permite realizar análises de dados e criar visualizações gráficas sem a necessidade de aprender a linguagem de programação."
+    "title": "Educa-SER",
+    "section": "",
+    "text": "O  é uma ferramenta de código aberto dedicada principalmente ao tratamento e análise de dados. De forma mais abrangente, pode ser considerado uma linguagem de programação especializada na manipulação e análise de dados. É compatível com os sistemas operacionais Windows , Linux  e MacOS .\n\n\n\n\n\nEmbora o software  tenha uma interface padrão pouco amigável que se baseia principalmente em linhas de comando, ele oferece uma ampla variedade de pacotes. Alguns desses pacotes apresentam interfaces muito mais amigáveis, como o pacote Rcmdr, que permite realizar análises de dados e criar visualizações gráficas sem a necessidade de aprender a linguagem de programação."
   },
   {
     "objectID": "passos/index.html#como-baixar-e-instalar-o-r",
     "href": "passos/index.html#como-baixar-e-instalar-o-r",
-    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "title": "Educa-SER",
     "section": "Como baixar e instalar o R?",
     "text": "Como baixar e instalar o R?\n\n\nVocê pode baixar o  aqui. Uma vez na página, selecione a opção de download adequada para o seu sistema operacional.\nSe estiver usando o Windows , clique em “base” e, depois, no link em destaque (por exemplo, “Download R-4.3.3 for Windows”). Como alternativa, você pode baixar o  diretamente neste link"
   },
   {
     "objectID": "passos/index.html#como-baixar-e-instalar-o-rstudio",
     "href": "passos/index.html#como-baixar-e-instalar-o-rstudio",
-    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "title": "Educa-SER",
     "section": "Como baixar e instalar o RStudio?",
     "text": "Como baixar e instalar o RStudio?\n\n\nO RStudio, um IDE (Ambiente de Desenvolvimento Integrado), é uma ferramenta essencial para aproveitar ao máximo o , mas requer a instalação prévia do software  (o RStudio não funciona sem o ). Você pode baixar o RStudio para Windows, Linux ou MacOS através do link. Embora o uso do RStudio ainda envolva o emprego substancial de linhas de comando em comparação com a interface padrão do , ele simplifica essa interação ao oferecer preenchimento automático e outras facilidades que tornam a geração e compreensão de comandos menos complexas. Por isso, é amplamente adotado pela comunidade de usuários do ."
   },
   {
     "objectID": "passos/index.html#como-baixar-e-instalar-o-vs-code",
     "href": "passos/index.html#como-baixar-e-instalar-o-vs-code",
-    "title": "\nO QUE PRECISO SABER E FAZER PARA ACOMPANHAR OS MINICURSOS?\n",
+    "title": "Educa-SER",
     "section": "Como baixar e instalar o VS Code?",
     "text": "Como baixar e instalar o VS Code?\n\nAlém do RStudio, o Visual Studio Code (VS Code) é outra opção valiosa. Trata-se de um editor de código aberto desenvolvido pela Microsoft e compatível com Windows, Linux e MacOS. Você pode baixar o VS Code aqui."
   },

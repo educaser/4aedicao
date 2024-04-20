@@ -1,10 +1,10 @@
 ---
-title: "Educa-SER - 4ª Edição"
+title: "Educa-SER | 4ª Edição"
 about:
-  template: trestles
-  image-width: 1em
-  image-shape: round
+  template: solana
   image: img/educaser_meio.png
+  image-width: 20em
+  image-shape: rectangle
   links:
     - icon: clipboard
       text: Inscrições
@@ -23,35 +23,32 @@ about:
       href: https://github.com/educaser
 ---
 
-<h1>BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!</h1>
+<!-- <h2>BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!</h2> -->
 
 ## O que é?
 
 <div style="text-align: justify;">
 <p>
-<i class="fa-solid fa-comment"></i> O Educa-SER é um evento satélite do <a href="https://ser.uff.br/" target="_blank">8º Seminário Internacional de Estatística com R</a>, destinado a profissionais da educação dos níveis básico e superior, bem como a alunos desses níveis, interessados em aprender a analisar dados por meio de uma ferramenta poderosa e gratuita como o <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a>.
+<img src="img/comment-solid.svg" alt="Ícone de comentário" width="18"> O Educa-SER é um evento satélite do <a href="https://ser.uff.br/" target="_blank">8º Seminário Internacional de Estatística com R</a>, destinado a profissionais da educação dos níveis básico e superior, bem como a alunos desses níveis, interessados em aprender a analisar dados por meio de uma ferramenta poderosa e gratuita como o <a href="https://www.r-project.org/" target="_blank"><img src="img/r-project.svg" alt="Logo do R" width="18"></a>.
 </p>
 </div>
-
-
-<span style="color:red;">Esta edição contará com minicursos com pacotes do <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a> que versam sobre tratamento e análise de dados em interface amigável, geração de visualizações gráficas diferenciadas e construção de mapas interativos.</span>
 
 ## Objetivos
 
 <div style="text-align: justify;">
 <p>
-<i class="fa-solid fa-bullseye"></i> Após sua primeira edição em 2019, realizada na <a href="https://www.unirio.br/" target="_blank">Universidade Federal do Estado do Rio de Janeiro (UNIRIO)</a>, o Educa-SER retornou em 2022 em formato remoto, e continuará assim em 2024, mantendo seu propósito de demonstrar maneiras eficazes de utilizar o <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a> em ambientes de sala de aula e em pesquisas acadêmicas.</p>
+<img src="img/bullseye-solid.svg" alt="Ícone de alvo" width="18">  Após sua primeira edição em 2019, realizada na <a href="https://www.unirio.br/" target="_blank">Universidade Federal do Estado do Rio de Janeiro (UNIRIO)</a>, o Educa-SER retornou em 2022 em formato remoto, e continuará assim em 2024, mantendo seu propósito de demonstrar maneiras eficazes de utilizar o <a href="https://www.r-project.org/" target="_blank"><img src="img/r-project.svg" alt="Logo do R" width="18"></a> em ambientes de sala de aula e em pesquisas acadêmicas.</p>
 </div>
 
-<div style="text-align: justify;">
+ <div style="text-align: justify;">
 <p>
-<i class="fa-solid fa-triangle-exclamation"></i> Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o <a href="https://www.r-project.org/" target="_blank"><i class="fa-brands fa-r-project"></i></a>, dê uma olhada nos [**primeiros passos**](passos/index.qmd) antes de prosseguir para a programação!
+<img src="img/triangle-exclamation-solid.svg" alt="Ícone de exclamação" width="18"> Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o <a href="https://www.r-project.org/" target="_blank"><img src="img/r-project.svg" alt="Logo do R" width="18"></a>, dê uma olhada nos [**primeiros passos**](passos/index.qmd) antes de prosseguir para a programação!
 </p>
 </div>
 
 ## Transmissão
 <div style="text-align: justify;">
 <p>
-<i class="fa-brands fa-youtube"></i> Todos os minicursos serão transmitidos ao vivo através do <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">canal do SER no YouTube</a>.
+<img src="img/youtube.svg" alt="Logo do YouTube" width="18"> Todos os minicursos serão transmitidos ao vivo através do <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">canal do SER no YouTube</a>.
 </p>
 </div>
