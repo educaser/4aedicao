@@ -1,8 +1,8 @@
 ---
-date: 2024-07-07
-title: Minicurso 1
-local: Sala 1
+date: 2024-07-07 09:00
+title: "Minicurso 1: Aquisição de Dados com R"
 youtube: SERUFF/streams
+event: 4º Educa-SER
 ---
 
 Resumo do minicurso pipipipopopo

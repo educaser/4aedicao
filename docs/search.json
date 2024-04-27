@@ -324,28 +324,28 @@
   {
     "objectID": "minicursos/minicurso2.html",
     "href": "minicursos/minicurso2.html",
-    "title": "Minicurso 2",
+    "title": "Minicurso 2: Dashboard com Dados Educacionais",
     "section": "",
     "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
   },
   {
     "objectID": "minicursos/index.html",
     "href": "minicursos/index.html",
-    "title": "\nMinicursos\n",
+    "title": "Educa-SER",
     "section": "",
-    "text": "Minicursos\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nData\n\n\nTítulo\n\n\nLocal\n\n\n\n\n\n\n07 jul 2024\n\n\nMinicurso 1\n\n\nSala 1\n\n\n\n\n07 jul 2024\n\n\nMinicurso 2\n\n\nSala 2\n\n\n\n\n07 jul 2024\n\n\nMinicurso 3\n\n\nSala 3\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Minicursos\n\n\n* Todos os horários estão no Horário de Brasília (GMT-3).\n\n\n** A duração esperada de cada minicurso é de 2 horas.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data/Horário* - Mais velho\n        \n         \n          Data/Horário* - O mais novo\n        \n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nEvento\n\n\nData/Horário*\n\n\nTítulo\n\n\n\n\n\n\n4º Educa-SER\n\n\n07 jul 2024, 09:00\n\n\nMinicurso 1: Aquisição de Dados com R\n\n\n\n\n4º Educa-SER\n\n\n07 jul 2024, 13:00\n\n\nMinicurso 2: Dashboard com Dados Educacionais\n\n\n\n\n4º Educa-SER\n\n\n07 jul 2024, 15:30\n\n\nMinicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R\n\n\n\n\n3º Educa-SER\n\n\n26 mai 2023, 10:00\n\n\nMinicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19\n\n\n\n\n3º Educa-SER\n\n\n26 mai 2023, 14:00\n\n\nMinicurso 2: Visualização de Dados com ggplot2\n\n\n\n\n3º Educa-SER\n\n\n26 mai 2023, 16:00\n\n\nMinicurso 3: A História dos Primeiros Anos de Colonização do Brasil Contada Através de Mapas Interativos\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "minicursos/minicurso1.html",
     "href": "minicursos/minicurso1.html",
-    "title": "Minicurso 1",
+    "title": "Minicurso 1: Aquisição de Dados com R",
     "section": "",
     "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
   },
   {
     "objectID": "minicursos/minicurso3.html",
     "href": "minicursos/minicurso3.html",
-    "title": "Minicurso 3",
+    "title": "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R",
     "section": "",
     "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
   },
@@ -1160,5 +1160,61 @@
     "title": "Luiz Eduardo da Silva Gomes",
     "section": "",
     "text": "Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro"
+  },
+  {
+    "objectID": "minicursos/4educaser_minicurso3.html",
+    "href": "minicursos/4educaser_minicurso3.html",
+    "title": "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
+  },
+  {
+    "objectID": "minicursos/4educaser_minicurso1.html",
+    "href": "minicursos/4educaser_minicurso1.html",
+    "title": "Minicurso 1: Aquisição de Dados com R",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
+  },
+  {
+    "objectID": "minicursos/3educaser_minicurso1.html",
+    "href": "minicursos/3educaser_minicurso1.html",
+    "title": "Minicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19",
+    "section": "",
+    "text": "pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó"
+  },
+  {
+    "objectID": "minicursos/4educaser_minicurso2.html",
+    "href": "minicursos/4educaser_minicurso2.html",
+    "title": "Minicurso 2: Dashboard com Dados Educacionais",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
+  },
+  {
+    "objectID": "minicursos/3educaser_minicurso3.html",
+    "href": "minicursos/3educaser_minicurso3.html",
+    "title": "Minicurso 3: A História dos Primeiros Anos de Colonização do Brasil Contada Através de Mapas Interativos",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo\n\nBanner\nBanner aqui!\n\n\nVideo"
+  },
+  {
+    "objectID": "minicursos/3educaser_minicurso2.html",
+    "href": "minicursos/3educaser_minicurso2.html",
+    "title": "Minicurso 2: Visualização de Dados com ggplot2",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo"
+  },
+  {
+    "objectID": "minicursos/3educaser_minicurso2.html#resumo",
+    "href": "minicursos/3educaser_minicurso2.html#resumo",
+    "title": "Minicurso 2: Visualização de Dados com ggplot2",
+    "section": "",
+    "text": "Resumo do minicurso pipipipopopo"
+  },
+  {
+    "objectID": "minicursos/3educaser_minicurso1.html#resumo",
+    "href": "minicursos/3educaser_minicurso1.html#resumo",
+    "title": "Minicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19",
+    "section": "",
+    "text": "pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó"
   }
 ]

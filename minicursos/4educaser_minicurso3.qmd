@@ -1,0 +1,14 @@
+---
+date: 2024-07-07 15:30
+title: "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R"
+youtube: SERUFF/streams
+event: 4º Educa-SER
+---
+
+Resumo do minicurso pipipipopopo
+
+# Banner
+
+Banner aqui!
+
+# Video

@@ -7,8 +7,9 @@ project:
   
 website:
   title: "Educa-SER"
-  site-url: "https://mariecurie.com"
+  site-url: "https://educaser.github.io/4aedicao/"
   favicon: img/educaser_meio.png
+  twitter-card: true
   navbar:
     background: "#F7A71C"
     logo: img/educaser_meio.png

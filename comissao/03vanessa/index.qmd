@@ -19,7 +19,7 @@ listing:
 about: 
   id: about
   template: trestles
-  image-shape: round
+  image-shape: rounded
   image: avatar.png
 ---
 

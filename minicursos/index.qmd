@@ -1,22 +1,31 @@
 ---
 listing:
   contents: .
-  sort: "date desc"
+  sort: 
+    - "event desc"
+    - "date asc"
   categories: false
   sort-ui: true
-  filter-ui: [date, title, venue]
-  date-format: "DD MMM YYYY"
+  filter-ui: [date, title, time]
+  date-format: "DD MMM YYYY, HH:mm"
   type: table
   page-size: 999
+  table-striped: false
+  table-hover: true
+  grid-item-align: center
   fields:
+    - event
     - date
     - title
-    - local
   field-display-names:
-      local: Local
+      event: Evento
+      date: 'Data/Horário*'
 
 page-layout: full
 title-block-banner: false
 ---
 
-<h1>Minicursos</h1>
+<h2>Minicursos</h2>
+
+<p>&ast; Todos os horários estão no **Horário de Brasília (GMT-3)**.</p>
+<p>&ast;&ast; A duração esperada de cada minicurso é de **2 horas**.</p>

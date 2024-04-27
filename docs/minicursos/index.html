@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-local',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-event','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-venue"],
+      searchColumns: ["listing-date","listing-title","listing-time"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -174,9 +174,15 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<h1>
+<h2 class="anchored">
 Minicursos
-</h1>
+</h2>
+<p>
+* Todos os horários estão no <strong>Horário de Brasília (GMT-3)</strong>.
+</p>
+<p>
+** A duração esperada de cada minicurso é de <strong>2 horas</strong>.
+</p>
 
 
 
@@ -192,10 +198,10 @@ Minicursos
        <option value="" disabled="" selected="" hidden="">Ordenar por</option>
        <option value="index" data-direction="asc">Pré-selecionado</option>
          <option value="listing-date-sort" data-direction="asc">
-          Data - Mais velho
+          Data/Horário* - Mais velho
         </option>
          <option value="listing-date-sort" data-direction="desc">
-          Data - O mais novo
+          Data/Horário* - O mais novo
         </option>
          <option value="listing-title-sort" data-direction="asc">
           Título
@@ -208,52 +214,91 @@ Minicursos
     </div>
 </div>
 
-<table class="quarto-listing-table table">
+<table class="quarto-listing-table table table-hover">
 <thead>
 <tr>
 <th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Data</a>
+Evento
+</th>
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Data/Horário*</a>
 </th>
 <th>
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Título</a>
 </th>
-<th>
-Local
-</th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1720321200000" data-listing-file-modified-sort="1712969189295" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Minicurso 1" data-listing-filename-sort="minicurso1.qmd">
+<tr data-index="0" data-listing-date-sort="1720353600000" data-listing-file-modified-sort="1714180637965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Minicurso 1: Aquisição de Dados com R" data-listing-filename-sort="4educaser_minicurso1.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td>
-<span class="listing-date">07 jul 2024</span>
+<span class="listing-event">4º Educa-SER</span>
 </td>
 <td>
-<a href="../minicursos/minicurso1.html" class="title listing-title">Minicurso 1</a>
+<span class="listing-date">07 jul 2024, 09:00</span>
 </td>
 <td>
-<span class="listing-local">Sala 1</span>
-</td>
-</tr>
-<tr data-index="1" data-listing-date-sort="1720321200000" data-listing-file-modified-sort="1712969253222" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Minicurso 2" data-listing-filename-sort="minicurso2.qmd">
-<td>
-<span class="listing-date">07 jul 2024</span>
-</td>
-<td>
-<a href="../minicursos/minicurso2.html" class="title listing-title">Minicurso 2</a>
-</td>
-<td>
-<span class="listing-local">Sala 2</span>
+<a href="../minicursos/4educaser_minicurso1.html" class="title listing-title">Minicurso 1: Aquisição de Dados com R</a>
 </td>
 </tr>
-<tr data-index="2" data-listing-date-sort="1720321200000" data-listing-file-modified-sort="1712969258750" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Minicurso 3" data-listing-filename-sort="minicurso3.qmd">
+<tr data-index="1" data-listing-date-sort="1720368000000" data-listing-file-modified-sort="1714180672504" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Minicurso 2: Dashboard com Dados Educacionais" data-listing-filename-sort="4educaser_minicurso2.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td>
-<span class="listing-date">07 jul 2024</span>
+<span class="listing-event">4º Educa-SER</span>
 </td>
 <td>
-<a href="../minicursos/minicurso3.html" class="title listing-title">Minicurso 3</a>
+<span class="listing-date">07 jul 2024, 13:00</span>
 </td>
 <td>
-<span class="listing-local">Sala 3</span>
+<a href="../minicursos/4educaser_minicurso2.html" class="title listing-title">Minicurso 2: Dashboard com Dados Educacionais</a>
+</td>
+</tr>
+<tr data-index="2" data-listing-date-sort="1720377000000" data-listing-file-modified-sort="1714180727823" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R" data-listing-filename-sort="4educaser_minicurso3.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td>
+<span class="listing-event">4º Educa-SER</span>
+</td>
+<td>
+<span class="listing-date">07 jul 2024, 15:30</span>
+</td>
+<td>
+<a href="../minicursos/4educaser_minicurso3.html" class="title listing-title">Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R</a>
+</td>
+</tr>
+<tr data-index="3" data-listing-date-sort="1685106000000" data-listing-file-modified-sort="1714181631454" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Minicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19" data-listing-filename-sort="3educaser_minicurso1.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td>
+<span class="listing-event">3º Educa-SER</span>
+</td>
+<td>
+<span class="listing-date">26 mai 2023, 10:00</span>
+</td>
+<td>
+<a href="../minicursos/3educaser_minicurso1.html" class="title listing-title">Minicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19</a>
+</td>
+</tr>
+<tr data-index="4" data-listing-date-sort="1685120400000" data-listing-file-modified-sort="1714181840005" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Minicurso 2: Visualização de Dados com ggplot2" data-listing-filename-sort="3educaser_minicurso2.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td>
+<span class="listing-event">3º Educa-SER</span>
+</td>
+<td>
+<span class="listing-date">26 mai 2023, 14:00</span>
+</td>
+<td>
+<a href="../minicursos/3educaser_minicurso2.html" class="title listing-title">Minicurso 2: Visualização de Dados com ggplot2</a>
+</td>
+</tr>
+<tr data-index="5" data-listing-date-sort="1685127600000" data-listing-file-modified-sort="1714181846547" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Minicurso 3: A História dos Primeiros Anos de Colonização do Brasil Contada Através de Mapas Interativos" data-listing-filename-sort="3educaser_minicurso3.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td>
+<span class="listing-event">3º Educa-SER</span>
+</td>
+<td>
+<span class="listing-date">26 mai 2023, 16:00</span>
+</td>
+<td>
+<a href="../minicursos/3educaser_minicurso3.html" class="title listing-title">Minicurso 3: A História dos Primeiros Anos de Colonização do Brasil Contada Através de Mapas Interativos</a>
 </td>
 </tr>
 </tbody>

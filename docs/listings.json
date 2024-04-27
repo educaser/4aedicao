@@ -40,9 +40,12 @@
   {
     "listing": "/minicursos/index.html",
     "items": [
-      "/minicursos/minicurso1.html",
-      "/minicursos/minicurso2.html",
-      "/minicursos/minicurso3.html"
+      "/minicursos/4educaser_minicurso1.html",
+      "/minicursos/4educaser_minicurso2.html",
+      "/minicursos/4educaser_minicurso3.html",
+      "/minicursos/3educaser_minicurso1.html",
+      "/minicursos/3educaser_minicurso2.html",
+      "/minicursos/3educaser_minicurso3.html"
     ]
   },
   {

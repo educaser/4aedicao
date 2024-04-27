@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mariecurie.com/index.html</loc>
-    <lastmod>2024-04-20T22:37:59.217Z</lastmod>
+    <lastmod>2024-04-27T00:14:42.257Z</lastmod>
   </url>
   <url>
     <loc>https://mariecurie.com/content0/teaching/index.html</loc>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://mariecurie.com/passos/index.html</loc>
-    <lastmod>2024-04-20T22:38:43.784Z</lastmod>
+    <lastmod>2024-04-27T00:14:50.482Z</lastmod>
   </url>
   <url>
     <loc>https://mariecurie.com/minicursos/minicurso2.html</loc>
@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>https://mariecurie.com/minicursos/index.html</loc>
-    <lastmod>2024-04-20T22:38:41.499Z</lastmod>
+    <lastmod>2024-04-27T00:14:56.451Z</lastmod>
   </url>
   <url>
     <loc>https://mariecurie.com/minicursos/minicurso1.html</loc>
@@ -226,7 +226,7 @@
   </url>
   <url>
     <loc>https://mariecurie.com/comissao/index.html</loc>
-    <lastmod>2024-04-20T22:36:43.705Z</lastmod>
+    <lastmod>2024-04-27T00:17:15.693Z</lastmod>
   </url>
   <url>
     <loc>https://mariecurie.com/comissao/2vanessa/index.html</loc>
@@ -266,7 +266,7 @@
   </url>
   <url>
     <loc>https://mariecurie.com/comissao/04luiz/index.html</loc>
-    <lastmod>2024-04-20T22:36:36.893Z</lastmod>
+    <lastmod>2024-04-27T00:15:04.094Z</lastmod>
   </url>
   <url>
     <loc>https://mariecurie.com/comissao/01felipe/index.html</loc>
@@ -275,5 +275,73 @@
   <url>
     <loc>https://mariecurie.com/comissao/02leticia/index.html</loc>
     <lastmod>2024-04-20T22:38:03.014Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/comissao/index.html</loc>
+    <lastmod>2024-04-27T01:39:53.542Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/index.html</loc>
+    <lastmod>2024-04-27T00:23:20.622Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/passos/index.html</loc>
+    <lastmod>2024-04-27T00:20:26.777Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/minicursos/index.html</loc>
+    <lastmod>2024-04-27T01:37:47.356Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/comissao/01felipe/index.html</loc>
+    <lastmod>2024-04-27T00:23:45.133Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/comissao/04luiz/index.html</loc>
+    <lastmod>2024-04-27T01:39:57.067Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/comissao/02leticia/index.html</loc>
+    <lastmod>2024-04-27T00:23:13.782Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/comissao/03vanessa/index.html</loc>
+    <lastmod>2024-04-27T00:23:15.304Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/minicursos/minicurso1.html</loc>
+    <lastmod>2024-04-27T01:10:06.220Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/minicursos/minicurso2.html</loc>
+    <lastmod>2024-04-27T01:02:33.265Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/minicursos/minicurso3.html</loc>
+    <lastmod>2024-04-27T01:04:23.207Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/minicursos/4educaser_minicurso3.html</loc>
+    <lastmod>2024-04-27T01:24:26.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/minicursos/4educaser_minicurso1.html</loc>
+    <lastmod>2024-04-27T01:43:05.854Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/minicursos/3educaser_minicurso1.html</loc>
+    <lastmod>2024-04-27T01:42:37.182Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/minicursos/4educaser_minicurso2.html</loc>
+    <lastmod>2024-04-27T01:24:25.137Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/minicursos/3educaser_minicurso3.html</loc>
+    <lastmod>2024-04-27T01:42:20.695Z</lastmod>
+  </url>
+  <url>
+    <loc>https://educaser.github.io/4aedicao/minicursos/3educaser_minicurso2.html</loc>
+    <lastmod>2024-04-27T01:37:42.947Z</lastmod>
   </url>
 </urlset>
