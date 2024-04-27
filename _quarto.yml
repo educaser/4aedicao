@@ -11,22 +11,18 @@ website:
   favicon: img/educaser_meio.png
   twitter-card: true
   navbar:
-    background: "#F7A71C"
+    background: "#f7a71c"
     logo: img/educaser_meio.png
     # href: https://openscapes.org
     left:
-      #   - text: "About"                      
-      # menu:
-      #   - text: "About2"
-      #     href: about.qmd
-      #   - text: "Slides"
-      #     href: about.qmd         
       - href: index.qmd
         text: Sobre
       - href: passos/index.qmd
         text: Primeiros Passos
       - href: minicursos/index.qmd
         text: Minicursos
+      - href: palestrantes/index.qmd
+        text: Palestrantes
       - href: comissao/index.qmd
         text: Comissão Organizadora
     tools:
@@ -42,9 +38,6 @@ website:
     - icon: envelope
       text: Email
       href: mailto:educaseroficial@gmail.com
-    # - icon: github
-    #   text: GitHub
-    #   href: https://github.com/educaser
   page-footer:
     left: "© 2019-2024 Educa-SER. Todos os direitos reservados."
     right: 

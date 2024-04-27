@@ -293,8 +293,8 @@ a.badge.badge-green {
 }
 
 div.quarto-about-trestles .about-entity .about-link:hover {
-  background-color: #36454f;
-  color: #ebebeb;
+  background-color: #f7a71c;
+  color: #36454f;
 }
 
 .quarto-category:hover, .listing-category:hover {

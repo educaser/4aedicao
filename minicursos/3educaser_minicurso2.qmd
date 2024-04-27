@@ -3,7 +3,7 @@ date: 2023-05-26 14:00
 title: "Minicurso 2: Visualização de Dados com ggplot2"
 youtube: zlfpjVcDt9E
 event: 3º Educa-SER
-author: '[Natália Santana Paiva](palestrantes/02leticia/index.qmd)'
+author: '[Natália Santana Paiva](../palestrantes/natalia/index.qmd)'
 ---
 
 ## Resumo

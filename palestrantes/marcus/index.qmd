@@ -1,0 +1,28 @@
+---
+first: Marcus
+last: Ramalho
+order: 3
+title: "<span style='background-color:#f7a71c;'>Marcus Antonio Cardoso Ramalho</span>"
+education: STA | UFF
+people_group: ser3
+image: avatar.png
+about: 
+  id: about
+  template: trestles
+  image-shape: rounded
+  image: avatar.png
+---
+
+<h2><span style='background-color:#f7a71c;'>Formação Acadêmica/Titulação</span></h2>
+
+<img src="img/graduation-cap-solid.svg" width="18"> **Graduação em Administração** | Universidade Federal Fluminense
+
+<img src="img/graduation-cap-solid.svg" width="18"> **Mestrado em Administração** | Universidade Federal Fluminense
+
+<h2><span style='background-color:#f7a71c;'>Local</span></h2>
+
+<img src="img/location-dot-solid.svg" width="12"> Niterói, RJ
+
+<h2><span style='background-color:#f7a71c;'>Páginas Pessoais</span></h2>
+
+<img src="img/lattes.svg" width="16"> **Lattes ID**: <a href="http://lattes.cnpq.br/9578799014185405" target="_blank">9578799014185405</a>

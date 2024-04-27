@@ -175,10 +175,10 @@
   {
     "listing": "/comissao/index.html",
     "items": [
-      "/comissao/01felipe/index.html",
-      "/comissao/02leticia/index.html",
-      "/comissao/03vanessa/index.html",
-      "/comissao/04luiz/index.html"
+      "/comissao/felipe/index.html",
+      "/comissao/leticia/index.html",
+      "/comissao/vanessa/index.html",
+      "/comissao/luiz_eduardo/index.html"
     ]
   },
   {
@@ -244,5 +244,48 @@
       "/minicursos/2educaser_minicurso2.html",
       "/minicursos/2educaser_minicurso3.html"
     ]
+  },
+  {
+    "listing": "/palestrantes/index.html",
+    "items": [
+      "/palestrantes/davi/index.html",
+      "/palestrantes/caroline/index.html",
+      "/palestrantes/leticia2/index.html",
+      "/palestrantes/beatriz/index.html",
+      "/palestrantes/natalia/index.html",
+      "/palestrantes/marcus/index.html",
+      "/palestrantes/steven/index.html",
+      "/palestrantes/vanessa/index.html",
+      "/palestrantes/felipe/index.html",
+      "/palestrantes/leticia/index.html"
+    ]
+  },
+  {
+    "listing": "/palestrantes/03vanessa/index.html",
+    "items": []
+  },
+  {
+    "listing": "/palestrantes/01felipe/index.html",
+    "items": []
+  },
+  {
+    "listing": "/palestrantes/02leticia/index.html",
+    "items": []
+  },
+  {
+    "listing": "/palestrantes/04luiz/index.html",
+    "items": []
+  },
+  {
+    "listing": "/palestrantes/07luiz/index.html",
+    "items": []
+  },
+  {
+    "listing": "/palestrantes/05luiz/index.html",
+    "items": []
+  },
+  {
+    "listing": "/palestrantes/06luiz/index.html",
+    "items": []
   }
 ]

@@ -27,5 +27,5 @@ title-block-banner: false
 
 <h2>Minicursos</h2>
 
-<p>&ast; Todos os horários estão no **Horário de Brasília (GMT-3)**.</p>
-<p>&ast;&ast; A duração esperada de cada minicurso é de **2 horas**.</p>
+<p><span style='background-color:#f7a71c;'><img src="img/triangle-exclamation-solid.svg" alt="Ícone de exclamação" width="18"></span>&nbsp; Todos os horários estão no **Horário de Brasília (GMT-3)**.</p>
+<!-- <p>&ast;&ast; A duração esperada de cada minicurso é de **2 horas**.</p> -->

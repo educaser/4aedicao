@@ -3,7 +3,7 @@ date: 2023-05-26 16:00
 title: "Minicurso 3: A História dos Primeiros Anos de Colonização do Brasil Contada Através de Mapas Interativos"
 youtube: BDq9MszO2l0
 event: 3º Educa-SER
-author: '[Marcus Antônio Ramalho](palestrantes/02leticia/index.qmd)'
+author: '[Marcus Antônio Ramalho](../palestrantes/marcus/index.qmd)'
 ---
 
 ## Resumo

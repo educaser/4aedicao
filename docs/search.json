@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Educa-SER | 4ª Edição",
     "section": "",
-    "text": "BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!"
+    "text": "BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!   07 de Julho de 2024\n\n\nO que é?\n\n\n\n O Educa-SER, evento satélite do VIII SER, é voltado para profissionais e alunos da educação básica e superior. O foco é ensinar a analisar dados usando o , uma ferramenta poderosa e gratuita.\n\n\nObjetivos\n\n\n Demonstrar maneiras eficazes de utilizar o  em ambientes de sala de aula e em pesquisas acadêmicas.\n\n\n Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o , dê uma olhada nos primeiros passos antes de prosseguir para a programação!\n\n\nTransmissão\n\n\n Todos os minicursos serão transmitidos ao vivo através do canal do SER no YouTube."
   },
   {
     "objectID": "index.html#o-que-é-o-educa-ser",
@@ -235,14 +235,14 @@
     "href": "index.html#o-que-é",
     "title": "Educa-SER | 4ª Edição",
     "section": "O que é?",
-    "text": "O que é?\n\n\n\n\n\n\n O Educa-SER, evento satélite do VIII SER, é voltado para profissionais e alunos da educação básica e superior. O foco é ensinar a analisar dados usando o , uma ferramenta poderosa e gratuita."
+    "text": "O que é?\n\n\n O Educa-SER, evento satélite do VIII SER, é voltado para profissionais e alunos da educação básica e superior. O foco é ensinar a analisar dados usando o , uma ferramenta poderosa e gratuita."
   },
   {
     "objectID": "index.html#objetivos",
     "href": "index.html#objetivos",
     "title": "Educa-SER | 4ª Edição",
     "section": "Objetivos",
-    "text": "Objetivos\n\n\n\n\n\n\n Demonstrar maneiras eficazes de utilizar o  em ambientes de sala de aula e em pesquisas acadêmicas.\n\n\n\n\n Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o , dê uma olhada nos primeiros passos antes de prosseguir para a programação!"
+    "text": "Objetivos\n\n\n Demonstrar maneiras eficazes de utilizar o  em ambientes de sala de aula e em pesquisas acadêmicas.\n\n\n\n\n Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o , dê uma olhada nos primeiros passos antes de prosseguir para a programação!"
   },
   {
     "objectID": "index.html#transmissão",
@@ -333,7 +333,7 @@
     "href": "minicursos/index.html",
     "title": "Educa-SER",
     "section": "",
-    "text": "Minicursos\n\n\n* Todos os horários estão no Horário de Brasília (GMT-3).\n\n\n** A duração esperada de cada minicurso é de 2 horas.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data/Horário* - Mais velho\n        \n         \n          Data/Horário* - O mais novo\n        \n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nData/Horário*\n\n\nTítulo\n\n\nEvento\n\n\n\n\n\n\n07/07/2024, 09:00\n\n\nMinicurso 1: Aquisição de Dados com R\n\n\n4º Educa-SER\n\n\n\n\n07/07/2024, 13:00\n\n\nMinicurso 2: Dashboard com Dados Educacionais\n\n\n4º Educa-SER\n\n\n\n\n07/07/2024, 15:30\n\n\nMinicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R\n\n\n4º Educa-SER\n\n\n\n\n26/05/2023, 10:00\n\n\nMinicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19\n\n\n3º Educa-SER\n\n\n\n\n26/05/2023, 14:00\n\n\nMinicurso 2: Visualização de Dados com ggplot2\n\n\n3º Educa-SER\n\n\n\n\n26/05/2023, 16:00\n\n\nMinicurso 3: A História dos Primeiros Anos de Colonização do Brasil Contada Através de Mapas Interativos\n\n\n3º Educa-SER\n\n\n\n\n27/05/2022, 10:00\n\n\nMinicurso 1: Como Fazer Publicações Web com o R/Rmarkdown\n\n\n2º Educa-SER\n\n\n\n\n27/05/2022, 14:00\n\n\nMinicurso 2: R commander - Um R com Menus\n\n\n2º Educa-SER\n\n\n\n\n27/05/2022, 16:00\n\n\nMinicurso 3: Gráficos Diferenciados em Alguns Cliques - O Pacote esquisse do R\n\n\n2º Educa-SER\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Minicursos\n\n\n  Todos os horários estão no Horário de Brasília (GMT-3).\n\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data/Horário* - Mais velho\n        \n         \n          Data/Horário* - O mais novo\n        \n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nData/Horário*\n\n\nTítulo\n\n\nEvento\n\n\n\n\n\n\n07/07/2024, 09:00\n\n\nMinicurso 1: Aquisição de Dados com R\n\n\n4º Educa-SER\n\n\n\n\n07/07/2024, 13:00\n\n\nMinicurso 2: Dashboard com Dados Educacionais\n\n\n4º Educa-SER\n\n\n\n\n07/07/2024, 15:30\n\n\nMinicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R\n\n\n4º Educa-SER\n\n\n\n\n26/05/2023, 10:00\n\n\nMinicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19\n\n\n3º Educa-SER\n\n\n\n\n26/05/2023, 14:00\n\n\nMinicurso 2: Visualização de Dados com ggplot2\n\n\n3º Educa-SER\n\n\n\n\n26/05/2023, 16:00\n\n\nMinicurso 3: A História dos Primeiros Anos de Colonização do Brasil Contada Através de Mapas Interativos\n\n\n3º Educa-SER\n\n\n\n\n27/05/2022, 10:00\n\n\nMinicurso 1: Como Fazer Publicações Web com o R/Rmarkdown\n\n\n2º Educa-SER\n\n\n\n\n27/05/2022, 14:00\n\n\nMinicurso 2: R commander - Um R com Menus\n\n\n2º Educa-SER\n\n\n\n\n27/05/2022, 16:00\n\n\nMinicurso 3: Gráficos Diferenciados em Alguns Cliques - O Pacote esquisse do R\n\n\n2º Educa-SER\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "minicursos/minicurso1.html",
@@ -746,7 +746,7 @@
     "href": "comissao/index.html",
     "title": "Educa-SER",
     "section": "",
-    "text": "Comissão Organizadora\n\n\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Felipe Rafael Ribeiro Melo \n            \n            \n                  Departamento de Métodos Quantitativos | UNIRIO\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Letícia Martins Raposo \n            \n            \n                  Departamento de Métodos Quantitativos | UNIRIO\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Vanessa Manhães Almeida \n            \n            \n                  Colégio Estadual Dr. João Bazet\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Luiz Eduardo da Silva Gomes \n            \n            \n                  Departamento de Métodos Quantitativos | UNIRIO\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente\n\n\n\n\n\n\n\n\n\n   \n\n\n\nNenhum item correspondente"
+    "text": "Comissão Organizadora\n\n\n\n\n\n\n\n\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Felipe Rafael Ribeiro Melo \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Letícia Martins Raposo \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Vanessa Manhães Almeida \n            \n            \n                  Colégio Estadual Dr. João Bazet\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Luiz Eduardo da Silva Gomes \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "comissao/2vanessa/index.html#meta-first-s-group-publications",
@@ -984,7 +984,7 @@
     "href": "comissao/03vanessa/index.html",
     "title": "Vanessa Manhães Almeida",
     "section": "",
-    "text": "Graduação em Matemática | Centro Universitário de Barra Mansa"
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Matemática | Centro Universitário de Barra Mansa\n\nAtuação Profissional\n\n Professora Docente Ref. C03 | Colégio Estadual Doutor João Bazet\n\nLocal\n\n Nova Friburgo, RJ\n\nPáginas Pessoais\n\n YouTube: @ProfessoraVanessaManhaes\n Instagram: @nessamanhaes\n Lattes ID: 9024676297624040\n\n\n\n\n    \n\nNenhum item correspondente"
   },
   {
     "objectID": "comissao/03vanessa/index.html#formação-acadêmicatitulação",
@@ -1012,7 +1012,7 @@
     "href": "comissao/04luiz/index.html",
     "title": "Luiz Eduardo da Silva Gomes",
     "section": "",
-    "text": "Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro"
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Assistente | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 1758411882798164\n\n\n\n\n    \n\nNenhum item correspondente"
   },
   {
     "objectID": "comissao/04luiz/index.html#dsds",
@@ -1033,7 +1033,7 @@
     "href": "comissao/01felipe/index.html",
     "title": "Felipe Rafael Ribeiro Melo",
     "section": "",
-    "text": "Graduação em Estatística | Universidade do Estado do Rio de Janeiro\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n Doutorado em Estatística | Universidade Federal do Rio de Janeiro"
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Universidade do Estado do Rio de Janeiro\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n Doutorado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Adjunto | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 4949636001535630\n\n\n\n\n    \n\nNenhum item correspondente"
   },
   {
     "objectID": "comissao/01felipe/index.html#dsds",
@@ -1054,7 +1054,7 @@
     "href": "comissao/02leticia/index.html",
     "title": "Letícia Martins Raposo",
     "section": "",
-    "text": "Graduação em Biomedicina | Universidade Federal do Estado do Rio de Janeiro\n Licenciatura em Matemática | Universidade Federal Fluminense\n Mestrado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n Doutorado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro"
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Biomedicina | Universidade Federal do Estado do Rio de Janeiro\n Licenciatura em Matemática | Universidade Federal Fluminense\n Mestrado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n Doutorado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professora Adjunta | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n YouTube: @LeticiaRaposo\n Instagram: @lemraposo\n Página Pessoal: Blog\n Material de Ensino: shinyapps\n Lattes ID: 2289581239869778\n\n\n\n\n    \n\nNenhum item correspondente"
   },
   {
     "objectID": "comissao/02leticia/index.html#dsds",
@@ -1166,14 +1166,14 @@
     "href": "minicursos/4educaser_minicurso3.html",
     "title": "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R",
     "section": "",
-    "text": "Descubra o poder do pacote gtsummary para transformar análises estatísticas em tabelas práticas e visualmente atraentes. Destinado a usuários do R, o minicurso explora como criar, personalizar e otimizar tabelas para maximizar o impacto em apresentações e publicações científicas. Este minicurso é perfeito para estudantes, pesquisadores e profissionais que buscam eficiência e elegância na apresentação de seus dados estatísticos.\n\n\nI’m raw Markdown content. [1] 71 TESTE TESTE TESTE TESTE\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
+    "text": "Descubra o poder do pacote gtsummary para transformar análises estatísticas em tabelas práticas e visualmente atraentes. Destinado a usuários do R, o minicurso explora como criar, personalizar e otimizar tabelas para maximizar o impacto em apresentações e publicações científicas. Este minicurso é perfeito para estudantes, pesquisadores e profissionais que buscam eficiência e elegância na apresentação de seus dados estatísticos."
   },
   {
     "objectID": "minicursos/4educaser_minicurso1.html",
     "href": "minicursos/4educaser_minicurso1.html",
     "title": "Minicurso 1: Aquisição de Dados com R",
     "section": "",
-    "text": "Este minicurso oferece uma introdução prática à aquisição de dados usando o software R. Os participantes aprenderão técnicas para extrair dados diretamente de sites HTML, acessar dados do Datasus e do IBGE utilizando pacotes específicos para cada fonte de dados.\n\n\nI’m raw Markdown content. [1] 71 TESTE TESTE TESTE TESTE\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
+    "text": "Este minicurso oferece uma introdução prática à aquisição de dados usando o software R. Os participantes aprenderão técnicas para extrair dados diretamente de sites HTML, acessar dados do Datasus e do IBGE utilizando pacotes específicos para cada fonte de dados."
   },
   {
     "objectID": "minicursos/3educaser_minicurso1.html",
@@ -1285,28 +1285,28 @@
     "href": "minicursos/4educaser_minicurso1.html#resumo",
     "title": "Minicurso 1: Aquisição de Dados com R",
     "section": "",
-    "text": "Este minicurso oferece uma introdução prática à aquisição de dados usando o software R. Os participantes aprenderão técnicas para extrair dados diretamente de sites HTML, acessar dados do Datasus e do IBGE utilizando pacotes específicos para cada fonte de dados.\n\n\nI’m raw Markdown content. [1] 71 TESTE TESTE TESTE TESTE\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
+    "text": "Este minicurso oferece uma introdução prática à aquisição de dados usando o software R. Os participantes aprenderão técnicas para extrair dados diretamente de sites HTML, acessar dados do Datasus e do IBGE utilizando pacotes específicos para cada fonte de dados."
   },
   {
     "objectID": "minicursos/4educaser_minicurso1.html#palestrante",
     "href": "minicursos/4educaser_minicurso1.html#palestrante",
     "title": "Minicurso 1: Aquisição de Dados com R",
     "section": "Palestrante",
-    "text": "Palestrante\n!!!!!!!!!!!!!!!!!! FOTO !!!!!!!!!!!!!!!!!!\n\n Davi da Silveira Barroso AlvesDepartamento de Métodos Quantitativos | UNIRIO\n\n\nMini-currículo\nGraduado em Enfermagem pela Universidade Federal do Estado do Rio de Janeiro (2010). Possui mestrado (2013) e doutorado (2017) em Epidemiologia em Saúde Pública pela Escola Nacional de Saúde Pública Sérgio Arouca. Atualmente, é Professor do Departamento de Métodos Quantitativos na Universidade Federal do Estado do Rio de Janeiro."
+    "text": "Palestrante\n\n\n Davi da Silveira Barroso Alves Departamento de Métodos Quantitativos | UNIRIO\n\n\nMini-currículo\n\n\nGraduado em Enfermagem pela Universidade Federal do Estado do Rio de Janeiro (2010). Possui mestrado (2013) e doutorado (2017) em Epidemiologia em Saúde Pública pela Escola Nacional de Saúde Pública Sérgio Arouca. Atualmente, é Professor do Departamento de Métodos Quantitativos na Universidade Federal do Estado do Rio de Janeiro."
   },
   {
     "objectID": "minicursos/4educaser_minicurso1.html#informações-adicionais",
     "href": "minicursos/4educaser_minicurso1.html#informações-adicionais",
     "title": "Minicurso 1: Aquisição de Dados com R",
     "section": "Informações Adicionais",
-    "text": "Informações Adicionais\n\nInterfaces/IDE Utilizada no Minicurso:\n\nRStudio\n\n\n\nPacotes Necessários:\n\ntidyverse\nrvest\nXML\nmicrodatasus\nPNSIBGE\nPNADcIBGE\nCOVIDIBGE\nipeadatar\n\n\n\nPré-requisitos\n\nNoções básicas de R e bancos de dados.\n\n\n\nReferências Adicionais\n\nMicrodatasus: pacote para download e pré-processamento de microdados do Departamento de Informática do SUS (DATASUS)\nPNSIBGE: Downloading, Reading and Analyzing PNS Microdata\nPNADcIBGE: Downloading, Reading and Analyzing PNADC Microdata\nCOVIDIBGE: Downloading, Reading and Analyzing PNAD COVID19 Microdata\nipeadatar: API Wrapper for ‘Ipeadata’"
+    "text": "Informações Adicionais\n\nInterfaces/IDE Utilizada no Minicurso\n\nRStudio\n\n\n\nPacotes Necessários\n\ntidyverse\nrvest\nXML\nmicrodatasus\nPNSIBGE\nPNADcIBGE\nCOVIDIBGE\nipeadatar\n\n\n\nPré-requisitos\n\nNoções básicas de R e bancos de dados.\n\n\n\nReferências Adicionais\n\nMicrodatasus: pacote para download e pré-processamento de microdados do Departamento de Informática do SUS (DATASUS)\nPNSIBGE: Downloading, Reading and Analyzing PNS Microdata\nPNADcIBGE: Downloading, Reading and Analyzing PNADC Microdata\nCOVIDIBGE: Downloading, Reading and Analyzing PNAD COVID19 Microdata\nipeadatar: API Wrapper for ‘Ipeadata’"
   },
   {
     "objectID": "minicursos/4educaser_minicurso3.html#resumo",
     "href": "minicursos/4educaser_minicurso3.html#resumo",
     "title": "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R",
     "section": "",
-    "text": "Descubra o poder do pacote gtsummary para transformar análises estatísticas em tabelas práticas e visualmente atraentes. Destinado a usuários do R, o minicurso explora como criar, personalizar e otimizar tabelas para maximizar o impacto em apresentações e publicações científicas. Este minicurso é perfeito para estudantes, pesquisadores e profissionais que buscam eficiência e elegância na apresentação de seus dados estatísticos.\n\n\nI’m raw Markdown content. [1] 71 TESTE TESTE TESTE TESTE\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
+    "text": "Descubra o poder do pacote gtsummary para transformar análises estatísticas em tabelas práticas e visualmente atraentes. Destinado a usuários do R, o minicurso explora como criar, personalizar e otimizar tabelas para maximizar o impacto em apresentações e publicações científicas. Este minicurso é perfeito para estudantes, pesquisadores e profissionais que buscam eficiência e elegância na apresentação de seus dados estatísticos."
   },
   {
     "objectID": "minicursos/4educaser_minicurso2.html#resumo",
@@ -1320,13 +1320,237 @@
     "href": "minicursos/4educaser_minicurso3.html#palestrante",
     "title": "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R",
     "section": "Palestrante",
-    "text": "Palestrante\n\n Letícia Martins RaposoDepartamento de Métodos Quantitativos | UNIRIO\n\n\nMini-currículo\nLetícia Raposo é professora adjunta do Departamento de Métodos Quantitativos (DMQ) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO). É apaixonada pelo R, aprendizado de máquina, estatística e metodologias ativas de aprendizado. Quando não está lecionando ou realizando suas pesquisas, está programando algo no R acompanhada de um bom café."
+    "text": "Palestrante\n\n\n Letícia Martins RaposoDepartamento de Métodos Quantitativos | UNIRIO\n\n\nMini-currículo\n\n\nLetícia Raposo é professora adjunta do Departamento de Métodos Quantitativos (DMQ) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO). É apaixonada pelo R, aprendizado de máquina, estatística e metodologias ativas de aprendizado. Quando não está lecionando ou realizando suas pesquisas, está programando algo no R acompanhada de um bom café."
   },
   {
     "objectID": "minicursos/4educaser_minicurso3.html#informações-adicionais",
     "href": "minicursos/4educaser_minicurso3.html#informações-adicionais",
     "title": "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R",
     "section": "Informações Adicionais",
-    "text": "Informações Adicionais\n\nInterfaces/IDE utilizada no minicurso:\n\nRStudio\n\n\n\nPacotes necessários:\n\ngtsummary\nflextable\n\n\n\nPré-requisitos\n\nInstalação do R e RStudio: Os participantes devem ter o R e o RStudio instalados em seus computadores.\nConhecimento básico de R: É essencial ter um entendimento básico da linguagem R, incluindo manipulação de dados com vetores e data frames, uso de pacotes, e realização de operações básicas.\n\n\n\nBase de Dados Utilizadas\n\ndados_titanic.csv\n\n\n\nReferências Adicionais\n\nTutorial: tbl_summary"
+    "text": "Informações Adicionais\n\nInterfaces/IDE Utilizada no Minicurso\n\nRStudio\n\n\n\nPacotes Necessários\n\ngtsummary\nflextable\n\n\n\nPré-requisitos\n\nInstalação do R e RStudio: Os participantes devem ter o R e o RStudio instalados em seus computadores.\nConhecimento básico de R: É essencial ter um entendimento básico da linguagem R, incluindo manipulação de dados com vetores e data frames, uso de pacotes, e realização de operações básicas.\n\n\n\nBase de Dados Utilizadas\n\ndados_titanic.csv\n\n\n\nReferências Adicionais\n\nTutorial: tbl_summary"
+  },
+  {
+    "objectID": "minicursos/4educaser_minicurso2.html#palestrante",
+    "href": "minicursos/4educaser_minicurso2.html#palestrante",
+    "title": "Minicurso 2: Dashboard com Dados Educacionais",
+    "section": "Palestrante",
+    "text": "Palestrante\n\n\n Caroline Ponce de Moraes Departamento de Matemática | CEFET/RJ"
+  },
+  {
+    "objectID": "minicursos/4educaser_minicurso1.html#datahorário",
+    "href": "minicursos/4educaser_minicurso1.html#datahorário",
+    "title": "Minicurso 1: Aquisição de Dados com R",
+    "section": "Data/Horário",
+    "text": "Data/Horário\n\n\n  07 Jul 2024   09:00 às 11:00\n\n\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
+  },
+  {
+    "objectID": "minicursos/4educaser_minicurso2.html#datahorário",
+    "href": "minicursos/4educaser_minicurso2.html#datahorário",
+    "title": "Minicurso 2: Dashboard com Dados Educacionais",
+    "section": "Data/Horário",
+    "text": "Data/Horário\n\n\n  07 Jul 2024   13:00 às 15:00\n\n\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
+  },
+  {
+    "objectID": "minicursos/4educaser_minicurso3.html#datahorário",
+    "href": "minicursos/4educaser_minicurso3.html#datahorário",
+    "title": "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R",
+    "section": "Data/Horário",
+    "text": "Data/Horário\n\n\n  07 Jul 2024   15:30 às 17:30\n\n\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
+  },
+  {
+    "objectID": "palestrantes/index.html",
+    "href": "palestrantes/index.html",
+    "title": "Educa-SER",
+    "section": "",
+    "text": "Educa-SER | 4ª Edição\n\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Davi da Silveira Barroso Alves \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Caroline Ponce de Moraes \n            \n            \n                  DEMAT | CEFET/RJ\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Letícia Martins Raposo \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente\n\n\n\nEduca-SER | 3ª Edição\n\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Beatriz Mendes da Cunha \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Natália Santana Paiva \n            \n            \n                  IESC | UFRJ\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Marcus Antonio Cardoso Ramalho \n            \n            \n                  STA | UFF\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente\n\n\n\nEduca-SER | 2ª Edição\n\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Steven Dutt Ross \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Vanessa Manhães Almeida \n            \n            \n                  Colégio Estadual Dr. João Bazet\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Felipe Rafael Ribeiro Melo \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Letícia Martins Raposo \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "palestrantes/03vanessa/index.html",
+    "href": "palestrantes/03vanessa/index.html",
+    "title": "Vanessa Manhães Almeida",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Matemática | Centro Universitário de Barra Mansa\n\nAtuação Profissional\n\n Professora Docente Ref. C03 | Colégio Estadual Doutor João Bazet\n\nLocal\n\n Nova Friburgo, RJ\n\nPáginas Pessoais\n\n YouTube: @ProfessoraVanessaManhaes\n Instagram: @nessamanhaes\n Lattes ID: 9024676297624040\n\n\n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "palestrantes/01felipe/index.html",
+    "href": "palestrantes/01felipe/index.html",
+    "title": "Felipe Rafael Ribeiro Melo",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Universidade do Estado do Rio de Janeiro\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n Doutorado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Adjunto | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 4949636001535630\n\n\n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "palestrantes/02leticia/index.html",
+    "href": "palestrantes/02leticia/index.html",
+    "title": "Letícia Martins Raposo",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Biomedicina | Universidade Federal do Estado do Rio de Janeiro\n Licenciatura em Matemática | Universidade Federal Fluminense\n Mestrado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n Doutorado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professora Adjunta | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n YouTube: @LeticiaRaposo\n Instagram: @lemraposo\n Página Pessoal: Blog\n Material de Ensino: shinyapps\n Lattes ID: 2289581239869778\n\n\n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "palestrantes/04luiz/index.html",
+    "href": "palestrantes/04luiz/index.html",
+    "title": "Luiz Eduardo da Silva Gomes",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Assistente | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 1758411882798164\n\n\n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "palestrantes/07luiz/index.html",
+    "href": "palestrantes/07luiz/index.html",
+    "title": "Luiz Eduardo da Silva Gomes",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Assistente | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 1758411882798164\n\n\n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "palestrantes/05luiz/index.html",
+    "href": "palestrantes/05luiz/index.html",
+    "title": "Luiz Eduardo da Silva Gomes",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Assistente | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 1758411882798164\n\n\n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "palestrantes/06luiz/index.html",
+    "href": "palestrantes/06luiz/index.html",
+    "title": "Luiz Eduardo da Silva Gomes",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Assistente | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 1758411882798164\n\n\n\n\n    \n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "palestrantes/index.html#comissão-organizadora",
+    "href": "palestrantes/index.html#comissão-organizadora",
+    "title": "Educa-SER",
+    "section": "",
+    "text": "Nenhum item correspondente"
+  },
+  {
+    "objectID": "palestrantes/index.html#teste-2",
+    "href": "palestrantes/index.html#teste-2",
+    "title": "Educa-SER",
+    "section": "Teste 2",
+    "text": "Teste 2\n\n\n   \n    \n      \n        \n          \n            \n          \n          \n            \n              Luiz Eduardo da Silva Gomes \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Luiz Eduardo da Silva Gomes \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n    \n      \n        \n          \n            \n          \n          \n            \n              Luiz Eduardo da Silva Gomes \n            \n            \n                  DMQ | UNIRIO\n                \n            \n          \n      \n    \n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "comissao/04luiz_eduardo/index.html",
+    "href": "comissao/04luiz_eduardo/index.html",
+    "title": "Luiz Eduardo da Silva Gomes",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Assistente | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 1758411882798164"
+  },
+  {
+    "objectID": "comissao/vanessa/index.html",
+    "href": "comissao/vanessa/index.html",
+    "title": "Vanessa Manhães Almeida",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Matemática | Centro Universitário de Barra Mansa\n\nAtuação Profissional\n\n Professora Docente Ref. C03 | Colégio Estadual Doutor João Bazet\n\nLocal\n\n Nova Friburgo, RJ\n\nPáginas Pessoais\n\n YouTube: @ProfessoraVanessaManhaes\n Instagram: @nessamanhaes\n Lattes ID: 9024676297624040"
+  },
+  {
+    "objectID": "comissao/leticia/index.html",
+    "href": "comissao/leticia/index.html",
+    "title": "Letícia Martins Raposo",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Biomedicina | Universidade Federal do Estado do Rio de Janeiro\n Licenciatura em Matemática | Universidade Federal Fluminense\n Mestrado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n Doutorado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professora Adjunta | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n YouTube: @LeticiaRaposo\n Instagram: @lemraposo\n Página Pessoal: Blog\n Material de Ensino: shinyapps\n Lattes ID: 2289581239869778"
+  },
+  {
+    "objectID": "comissao/felipe/index.html",
+    "href": "comissao/felipe/index.html",
+    "title": "Felipe Rafael Ribeiro Melo",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Universidade do Estado do Rio de Janeiro\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n Doutorado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Adjunto | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 4949636001535630"
+  },
+  {
+    "objectID": "comissao/luiz_eduardo/index.html",
+    "href": "comissao/luiz_eduardo/index.html",
+    "title": "Luiz Eduardo da Silva Gomes",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Assistente | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 1758411882798164"
+  },
+  {
+    "objectID": "palestrantes/vanessa/index.html",
+    "href": "palestrantes/vanessa/index.html",
+    "title": "Vanessa Manhães Almeida",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Matemática | Centro Universitário de Barra Mansa\n\nAtuação Profissional\n\n Professora Docente Ref. C03 | Colégio Estadual Doutor João Bazet\n\nLocal\n\n Nova Friburgo, RJ\n\nPáginas Pessoais\n\n YouTube: @ProfessoraVanessaManhaes\n Instagram: @nessamanhaes\n Lattes ID: 9024676297624040"
+  },
+  {
+    "objectID": "palestrantes/luiz_eduardo3/index.html",
+    "href": "palestrantes/luiz_eduardo3/index.html",
+    "title": "Luiz Eduardo da Silva Gomes",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Assistente | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 1758411882798164"
+  },
+  {
+    "objectID": "palestrantes/leticia/index.html",
+    "href": "palestrantes/leticia/index.html",
+    "title": "Letícia Martins Raposo",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Biomedicina | Universidade Federal do Estado do Rio de Janeiro\n Licenciatura em Matemática | Universidade Federal Fluminense\n Mestrado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n Doutorado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professora Adjunta | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n YouTube: @LeticiaRaposo\n Instagram: @lemraposo\n Página Pessoal: Blog\n Material de Ensino: shinyapps\n Lattes ID: 2289581239869778"
+  },
+  {
+    "objectID": "palestrantes/felipe/index.html",
+    "href": "palestrantes/felipe/index.html",
+    "title": "Felipe Rafael Ribeiro Melo",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Universidade do Estado do Rio de Janeiro\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n Doutorado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Adjunto | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 4949636001535630"
+  },
+  {
+    "objectID": "palestrantes/leticia2/index.html",
+    "href": "palestrantes/leticia2/index.html",
+    "title": "Letícia Martins Raposo",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Biomedicina | Universidade Federal do Estado do Rio de Janeiro\n Licenciatura em Matemática | Universidade Federal Fluminense\n Mestrado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n Doutorado em Engenharia Biomédica | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professora Adjunta | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n YouTube: @LeticiaRaposo\n Instagram: @lemraposo\n Página Pessoal: Blog\n Material de Ensino: shinyapps\n Lattes ID: 2289581239869778"
+  },
+  {
+    "objectID": "palestrantes/luiz_eduardo2/index.html",
+    "href": "palestrantes/luiz_eduardo2/index.html",
+    "title": "Luiz Eduardo da Silva Gomes",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Assistente | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 1758411882798164"
+  },
+  {
+    "objectID": "palestrantes/luiz_eduardo/index.html",
+    "href": "palestrantes/luiz_eduardo/index.html",
+    "title": "Luiz Eduardo da Silva Gomes",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professor Assistente | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 1758411882798164"
+  },
+  {
+    "objectID": "palestrantes/davi/index.html",
+    "href": "palestrantes/davi/index.html",
+    "title": "Davi da Silveira Barroso Alves",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Enfermagem | Universidade Federal do Estado do Rio de Janeiro\n Mestrado em Epidemiologia em Saúde Pública | Escola Nacional de Saúde Pública\n Doutorado em Epidemiologia em Saúde Pública | Escola Nacional de Saúde Pública\n\nAtuação Profissional\n\n Professor Adjunto | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 8278454196012418"
+  },
+  {
+    "objectID": "palestrantes/steven/index.html",
+    "href": "palestrantes/steven/index.html",
+    "title": "Steven Dutt Ross",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Administração | Fundação Getúlio Vargas\n Doutorado em Engenharia de Produção | Universidade Federal Fluminense\n\nAtuação Profissional\n\n Professor Adjunto | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Página Pessoal: Blog\n Lattes ID: 2970110332151340"
+  },
+  {
+    "objectID": "palestrantes/natalia/index.html",
+    "href": "palestrantes/natalia/index.html",
+    "title": "Natália Santana Paiva",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Universidade Federal Fluminense\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n Doutorado em Epidemiologia em Saúde Pública | Escola Nacional de Saúde Pública\n\nAtuação Profissional\n\n Professora Adjunta | Universidade Federal do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 7525640724356057"
+  },
+  {
+    "objectID": "palestrantes/caroline/index.html",
+    "href": "palestrantes/caroline/index.html",
+    "title": "Caroline Ponce de Moraes",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Universidade do Estado do Rio de Janeiro\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n Doutorado em Engenharia de Sistemas e Computação | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professora do Ensino Básico, Técnico e Tecnológico DIII | Centro Federal de Educação Tecnológica Celso Suckow da Fonseca\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 7070181803704413"
+  },
+  {
+    "objectID": "palestrantes/beatriz/index.html",
+    "href": "palestrantes/beatriz/index.html",
+    "title": "Beatriz Mendes da Cunha",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em População, Território e Estatísticas Públicas | Escola Nacional de Ciências Estatísticas\n Doutorado em Saúde Coletiva | Universidade do Estado do Rio de Janeiro\n\nAtuação Profissional\n\n Professora Adjunta | Universidade Federal do Estado do Rio de Janeiro\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 9921716973515355"
+  },
+  {
+    "objectID": "palestrantes/marcus/index.html",
+    "href": "palestrantes/marcus/index.html",
+    "title": "Marcus Antonio Cardoso Ramalho",
+    "section": "",
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Administração | Universidade Federal Fluminense\n Mestrado em Administração | Universidade Federal Fluminense\n\nLocal\n\n Niterói, RJ\n\nPáginas Pessoais\n\n Lattes ID: 9578799014185405"
   }
 ]

@@ -65,48 +65,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-pi .list');
+    const listingTargetEl = window.document.querySelector('#listing-comissao .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image','listing-education',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-website','listing-date-format','listing-format','listing-lang','listing-language','listing-first','listing-last','listing-order','listing-title','listing-education','listing-people_group','listing-image','listing-about','listing-path','listing-outputHref','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-project","listing-website","listing-date-format","listing-format","listing-lang","listing-language","listing-first","listing-last","listing-order","listing-title","listing-education","listing-people_group","listing-image","listing-about","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-pi'] = new List('listing-pi', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-alumni .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image','listing-education','listing-altsubtitle','listing-alteducation',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
-      
-      searchColumns: ["listing-project","listing-website","listing-date-format","listing-format","listing-lang","listing-language","listing-first","listing-last","listing-title","listing-education","listing-people_group","listing-image","listing-listing","listing-page-layout","listing-about","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-alumni'] = new List('listing-alumni', options);
+    window['quarto-listings']['listing-comissao'] = new List('listing-comissao', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -176,6 +148,10 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Minicursos</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../palestrantes/index.html" rel="" target="">
+ <span class="menu-text">Palestrantes</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="../comissao/index.html" rel="" target="" aria-current="page">
  <span class="menu-text">Comissão Organizadora</span></a>
   </li>  
@@ -205,53 +181,59 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored">
 Comissão Organizadora
 </h2>
-<div class="sand-background">
-<div id="listing-alumni" class="quarto-listing quarto-listing-container-custom">
+<div id="alumni">
+
+</div>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-custom" id="listing-comissao">
 <div class="quarto-listing quarto-listing-container-grid">
   <div class="list grid quarto-listing-cols-4"> 
     <div class="g-col-1 listing-box">
-      <a href="../comissao/01felipe/index.html" role="button" class="quarto-grid-link">
+      <a href="../comissao/felipe/index.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Felipe Rafael Ribeiro Melo" src="../comissao/01felipe/avatar.png" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
+            <img alt="<span style='background-color:#f7a71c;'>Felipe Rafael Ribeiro Melo</span>" src="../comissao/felipe/avatar.png" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
           </p>
           <div class="card-body post-contents">
             <div class="listing-box-title">
-              <strong>Felipe Rafael Ribeiro Melo</strong><br> 
+              <strong><span style="background-color:#f7a71c;">Felipe Rafael Ribeiro Melo</span></strong><br> 
             </div>
             <div class="listing-box-education">
-                  Departamento de Métodos Quantitativos | UNIRIO<br>
+                  DMQ | UNIRIO<br>
               </div>  
           </div>  
         </div>  
       </a>
     </div>
     <div class="g-col-1 listing-box">
-      <a href="../comissao/02leticia/index.html" role="button" class="quarto-grid-link">
+      <a href="../comissao/leticia/index.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Letícia Martins Raposo" src="../comissao/02leticia/avatar.png" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
+            <img alt="<span style='background-color:#f7a71c;'>Letícia Martins Raposo</span>" src="../comissao/leticia/avatar.png" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
           </p>
           <div class="card-body post-contents">
             <div class="listing-box-title">
-              <strong>Letícia Martins Raposo</strong><br> 
+              <strong><span style="background-color:#f7a71c;">Letícia Martins Raposo</span></strong><br> 
             </div>
             <div class="listing-box-education">
-                  Departamento de Métodos Quantitativos | UNIRIO<br>
+                  DMQ | UNIRIO<br>
               </div>  
           </div>  
         </div>  
       </a>
     </div>
     <div class="g-col-1 listing-box">
-      <a href="../comissao/03vanessa/index.html" role="button" class="quarto-grid-link">
+      <a href="../comissao/vanessa/index.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Vanessa Manhães Almeida" src="../comissao/03vanessa/avatar.png" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
+            <img alt="<span style='background-color:#f7a71c;'>Vanessa Manhães Almeida</span>" src="../comissao/vanessa/avatar.png" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
           </p>
           <div class="card-body post-contents">
             <div class="listing-box-title">
-              <strong>Vanessa Manhães Almeida</strong><br> 
+              <strong><span style="background-color:#f7a71c;">Vanessa Manhães Almeida</span></strong><br> 
             </div>
             <div class="listing-box-education">
                   Colégio Estadual Dr. João Bazet<br>
@@ -261,36 +243,22 @@ Comissão Organizadora
       </a>
     </div>
     <div class="g-col-1 listing-box">
-      <a href="../comissao/04luiz/index.html" role="button" class="quarto-grid-link">
+      <a href="../comissao/luiz_eduardo/index.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Luiz Eduardo da Silva Gomes" src="../comissao/04luiz/avatar.png" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
+            <img alt="<span style='background-color:#f7a71c;'>Luiz Eduardo da Silva Gomes</span>" src="../comissao/luiz_eduardo/avatar.png" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
           </p>
           <div class="card-body post-contents">
             <div class="listing-box-title">
-              <strong>Luiz Eduardo da Silva Gomes</strong><br> 
+              <strong><span style="background-color:#f7a71c;">Luiz Eduardo da Silva Gomes</span></strong><br> 
             </div>
             <div class="listing-box-education">
-                  Departamento de Métodos Quantitativos | UNIRIO<br>
+                  DMQ | UNIRIO<br>
               </div>  
           </div>  
         </div>  
       </a>
     </div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-Nenhum item correspondente
-</div>
-</div>
-</div>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-custom" id="listing-pi">
-<div class="quarto-listing quarto-listing-container-grid">
-  <div class="list grid quarto-listing-cols-3"> 
 </div>
 </div>
 <div class="listing-no-matching d-none">

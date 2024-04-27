@@ -1,0 +1,34 @@
+---
+first: Natália
+last: Paiva
+order: 2
+title: "<span style='background-color:#f7a71c;'>Natália Santana Paiva</span>"
+education: IESC | UFRJ
+people_group: ser3
+image: avatar.png
+about: 
+  id: about
+  template: trestles
+  image-shape: rounded
+  image: avatar.png
+---
+
+<h2><span style='background-color:#f7a71c;'>Formação Acadêmica/Titulação</span></h2>
+
+<img src="img/graduation-cap-solid.svg" width="18"> **Graduação em Estatística** | Universidade Federal Fluminense
+
+<img src="img/graduation-cap-solid.svg" width="18"> **Mestrado em Estatística** | Universidade Federal do Rio de Janeiro
+
+<img src="img/graduation-cap-solid.svg" width="18"> **Doutorado em Epidemiologia em Saúde Pública** | Escola Nacional de Saúde Pública
+
+<h2><span style='background-color:#f7a71c;'>Atuação Profissional</span></h2>
+
+<img src="img/briefcase-solid.svg" width="18"> **Professora Adjunta** | Universidade Federal do Rio de Janeiro
+
+<h2><span style='background-color:#f7a71c;'>Local</span></h2>
+
+<img src="img/location-dot-solid.svg" width="12"> Rio de Janeiro, RJ
+
+<h2><span style='background-color:#f7a71c;'>Páginas Pessoais</span></h2>
+
+<img src="img/lattes.svg" width="16"> **Lattes ID**: <a href="http://lattes.cnpq.br/7525640724356057" target="_blank">7525640724356057</a>

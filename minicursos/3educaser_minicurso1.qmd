@@ -3,7 +3,7 @@ date: 2023-05-26 10:00
 title: "Minicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19"
 youtube: fobDm1l3WJY
 event: 3º Educa-SER
-author: '[Maria Beatriz Cunha](palestrantes/02leticia/index.qmd)'
+author: '[Maria Beatriz Cunha](../palestrantes/beatriz/index.qmd)'
 ---
 
 ## Resumo

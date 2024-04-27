@@ -3,7 +3,7 @@ date: 2022-05-27 16:00
 title: "Minicurso 3: Gráficos Diferenciados em Alguns Cliques - O Pacote esquisse do R"
 youtube: HPR3ADyQ5yU
 event: 2º Educa-SER
-author: '[Letícia Martins Raposo](palestrantes/02leticia/index.qmd)'
+author: '[Letícia Martins Raposo](../palestrantes/leticia/index.qmd)'
 ---
 
 ## Resumo
