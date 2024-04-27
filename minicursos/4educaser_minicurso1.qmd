@@ -1,14 +1,66 @@
 ---
 date: 2024-07-07 09:00
-title: "Minicurso 1: Aquisição de Dados com R"
-youtube: SERUFF/streams
+# title: "**Minicurso 1: Aquisição de Dados com R**"
+title: "<span style='background-color:#f7a71c;'><strong>Minicurso 1: Aquisição de Dados com R</strong></span>"
+# youtube: SERUFF/streams
 event: 4º Educa-SER
+author: '[Davi da Silveira Barroso Alves](palestrantes/02leticia/index.qmd)'
 ---
 
-Resumo do minicurso pipipipopopo
+## Resumo
 
-# Banner
+<div style="text-align: justify;"><p>Este minicurso oferece uma introdução prática à aquisição de dados usando o software R. Os participantes aprenderão técnicas para extrair dados diretamente de sites HTML, acessar dados do [**Datasus**](https://datasus.saude.gov.br/) e do [**IBGE**](https://www.ibge.gov.br/) utilizando pacotes específicos para cada fonte de dados.</p></div>
 
-Banner aqui!
+```{r}
+#| results: asis
+#| echo: false
+cat("I'm raw **Markdown** content.\n")
+as.numeric(lubridate::as_date("2024-07-07") - lubridate::today())
+cat("TESTE  TESTE  TESTE  TESTE")
+```
 
-# Video
+<div style="text-align: justify;">
+<p><img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style='background-color:#f7a71c;'>Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">**canal do SER no YouTube**</a>.
+</span>
+</p>
+</div>
+
+## Palestrante
+
+**!!!!!!!!!!!!!!!!!! FOTO !!!!!!!!!!!!!!!!!!**
+
+<p><img src="img/avatar-leticia.png" width="180"><br>
+<strong><a href="palestrantes/02leticia/index.qmd">Davi da Silveira Barroso Alves</a></strong><br>Departamento de Métodos Quantitativos | UNIRIO</p>
+
+### Mini-currículo
+
+Graduado em Enfermagem pela Universidade Federal do Estado do Rio de Janeiro (2010). Possui mestrado (2013) e doutorado (2017) em Epidemiologia em Saúde Pública pela Escola Nacional de Saúde Pública Sérgio Arouca. Atualmente, é Professor do Departamento de Métodos Quantitativos na Universidade Federal do Estado do Rio de Janeiro.
+
+## Informações Adicionais
+
+### Interfaces/IDE Utilizada no Minicurso:
+
+- RStudio
+
+### Pacotes Necessários:
+
+- `tidyverse`
+- `rvest`
+- `XML`
+- `microdatasus`
+- `PNSIBGE`
+- `PNADcIBGE`
+- `COVIDIBGE`
+- `ipeadatar`
+
+### Pré-requisitos
+
+- Noções básicas de R e bancos de dados.
+
+### Referências Adicionais
+
+- [Microdatasus: pacote para download e pré-processamento de microdados do Departamento de Informática do SUS (DATASUS)](https://www.scielo.br/j/csp/a/gdJXqcrW5PPDHX8rwPDYL7F/)
+- [PNSIBGE: Downloading, Reading and Analyzing PNS Microdata](https://cran.r-project.org/web/packages/PNSIBGE/index.html)
+- [PNADcIBGE: Downloading, Reading and Analyzing PNADC Microdata](https://cran.r-project.org/web/packages/PNADcIBGE/index.html)
+- [COVIDIBGE: Downloading, Reading and Analyzing PNAD COVID19 Microdata](https://cran.r-project.org/web/packages/COVIDIBGE/index.html)
+- [ipeadatar: API Wrapper for 'Ipeadata'](https://cran.r-project.org/web/packages/ipeadatar/index.html)

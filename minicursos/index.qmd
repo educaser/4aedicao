@@ -6,17 +6,17 @@ listing:
     - "date asc"
   categories: false
   sort-ui: true
-  filter-ui: [date, title, time]
-  date-format: "DD MMM YYYY, HH:mm"
+  filter-ui: [date, title, event]
+  date-format: "DD/MM/YYYY, HH:mm"
   type: table
   page-size: 999
   table-striped: false
   table-hover: true
   grid-item-align: center
   fields:
-    - event
     - date
     - title
+    - event
   field-display-names:
       event: Evento
       date: 'Data/Horário*'

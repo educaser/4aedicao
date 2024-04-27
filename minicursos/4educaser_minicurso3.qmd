@@ -1,14 +1,60 @@
 ---
 date: 2024-07-07 15:30
-title: "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R"
-youtube: SERUFF/streams
+# title: "**Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R**"
+title: "<span style='background-color:#f7a71c;'><strong>Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R</strong></span>"
+# youtube: SERUFF/streams
 event: 4º Educa-SER
+author: '[Letícia Martins Raposo](palestrantes/02leticia/index.qmd)'
 ---
 
-Resumo do minicurso pipipipopopo
+## Resumo
 
-# Banner
+<div style="text-align: justify;"><p>Descubra o poder do pacote `gtsummary` para transformar análises estatísticas em tabelas práticas e visualmente atraentes. Destinado a usuários do R, o minicurso explora como criar, personalizar e otimizar tabelas para maximizar o impacto em apresentações e publicações científicas. Este minicurso é perfeito para estudantes, pesquisadores e profissionais que buscam eficiência e elegância na apresentação de seus dados estatísticos. </p></div>
 
-Banner aqui!
+```{r}
+#| results: asis
+#| echo: false
+cat("I'm raw **Markdown** content.\n")
+as.numeric(lubridate::as_date("2024-07-07") - lubridate::today())
+cat("TESTE  TESTE  TESTE  TESTE")
+```
 
-# Video
+<div style="text-align: justify;">
+<p><img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style='background-color:#f7a71c;'>Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">**canal do SER no YouTube**</a>.
+</span>
+</p>
+</div>
+
+## Palestrante
+
+<p><img src="img/avatar-leticia.png" width="180"><br>
+<strong><a href="palestrantes/02leticia/index.qmd">Letícia Martins Raposo</a></strong><br>Departamento de Métodos Quantitativos | UNIRIO</p>
+
+### Mini-currículo
+
+Letícia Raposo é professora adjunta do Departamento de Métodos Quantitativos (DMQ) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO). É apaixonada pelo R, aprendizado de máquina, estatística e metodologias ativas de aprendizado. Quando não está lecionando ou realizando suas pesquisas, está programando algo no R acompanhada de um bom café.
+
+## Informações Adicionais
+
+### Interfaces/IDE Utilizada no Minicurso:
+
+- RStudio
+
+### Pacotes Necessários:
+
+- `gtsummary`
+- `flextable`
+
+### Pré-requisitos
+
+- Instalação do R e RStudio: Os participantes devem ter o R e o RStudio instalados em seus computadores. 
+
+- Conhecimento básico de R: É essencial ter um entendimento básico da linguagem R, incluindo manipulação de dados com vetores e data frames, uso de pacotes, e realização de operações básicas.
+
+### Base de Dados Utilizadas
+
+- [dados_titanic.csv](https://github.com/leticiaraposo/dados_titanic/blob/main/dados_titanic.csv)
+
+### Referências Adicionais
+
+- [Tutorial: tbl_summary](https://www.danieldsjoberg.com/gtsummary/articles/tbl_summary.html)

@@ -45,7 +45,10 @@
       "/minicursos/4educaser_minicurso3.html",
       "/minicursos/3educaser_minicurso1.html",
       "/minicursos/3educaser_minicurso2.html",
-      "/minicursos/3educaser_minicurso3.html"
+      "/minicursos/3educaser_minicurso3.html",
+      "/minicursos/2educaser_minicurso1.html",
+      "/minicursos/2educaser_minicurso2.html",
+      "/minicursos/2educaser_minicurso3.html"
     ]
   },
   {
@@ -225,5 +228,21 @@
   {
     "listing": "/comissao/02leticia/index.html",
     "items": []
+  },
+  {
+    "listing": "/minicursos/CopyOfindex.html",
+    "items": [
+      "/minicursos/CopyOf2educaser_minicurso1.html",
+      "/minicursos/index.html",
+      "/minicursos/4educaser_minicurso1.html",
+      "/minicursos/4educaser_minicurso2.html",
+      "/minicursos/4educaser_minicurso3.html",
+      "/minicursos/3educaser_minicurso1.html",
+      "/minicursos/3educaser_minicurso2.html",
+      "/minicursos/3educaser_minicurso3.html",
+      "/minicursos/2educaser_minicurso1.html",
+      "/minicursos/2educaser_minicurso2.html",
+      "/minicursos/2educaser_minicurso3.html"
+    ]
   }
 ]

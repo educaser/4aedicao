@@ -3,14 +3,9 @@ date: 2023-05-26 14:00
 title: "Minicurso 2: Visualização de Dados com ggplot2"
 youtube: zlfpjVcDt9E
 event: 3º Educa-SER
+author: '[Natália Santana Paiva](palestrantes/02leticia/index.qmd)'
 ---
 
 ## Resumo
 
-Resumo do minicurso pipipipopopo
-
-# Banner
-
-Banner aqui!
-
-# Video
+<div style="text-align: justify;"><p>Os princípios da visualização de dados são essenciais para as decisões práticas das rotinas de trabalho. O pacote de linguagem R `ggplot2`, que compõe a biblioteca `tidyverse`, auxilia na construção de gráficos interativos com sintaxe simples e intuitiva baseado em camadas. Para isso, os objetos devem ter o formato `data.frame` ou `tidy`, mas se os dados não estiverem organizados, é recomendado usar os pacotes `dplyr` e `tydr` para pré-processamento. O pacote `ggplot2` possui muitas funções, sendo que para explorarmos todas seriam necessárias horas de leitura e prática, o que não é a nossa ideia nesse momento. Nesta oficina, serão abordadas as funções básicas que permitam a utilização do `ggplot2` com excelentes resultados.</p></div>

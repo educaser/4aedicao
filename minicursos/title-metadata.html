@@ -1,4 +1,13 @@
 <div class="quarto-title-meta">
+  
+  $if(event)$
+  <div>
+    <div class="quarto-title-meta-heading">Evento</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">$event$</p>
+    </div>
+  </div>
+  $endif$
 
   $if(date)$
   <div>
@@ -8,29 +17,27 @@
     </div>
   </div>
   $endif$
-
-  $if(local)$
+  
+  $if(author2)$
   <div>
-    <div class="quarto-title-meta-heading">Local</div>
+    <div class="quarto-title-meta-heading">Palestrante 1</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">$local$</p>
+      <p class="date">$author$</p>
+    </div>
+  </div>
+    <div>
+    <div class="quarto-title-meta-heading">Palestrante 2</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">$author2$</p>
+    </div>
+  </div>
+  $else$
+    <div>
+    <div class="quarto-title-meta-heading">Palestrante</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">$author$</p>
     </div>
   </div>
   $endif$
-
+  
 </div>
-
-
-$if(abstract)$
-<div>
-  <div class="abstract">
-    <div class="abstract-title">$labels.abstract$</div>
-    $abstract$
-  </div>
-</div>
-$endif$
-
-
-$if(github)$<a href="http://github.com/$github$" class="badge badge badge-green"><i class="fa fa-github"></i>&nbsp;code</a>
-$endif$
-<p>&nbsp;</p>

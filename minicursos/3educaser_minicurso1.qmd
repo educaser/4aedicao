@@ -3,8 +3,9 @@ date: 2023-05-26 10:00
 title: "Minicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19"
 youtube: fobDm1l3WJY
 event: 3º Educa-SER
+author: '[Maria Beatriz Cunha](palestrantes/02leticia/index.qmd)'
 ---
 
 ## Resumo
 
-pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó pipipipópópó 
+<div style="text-align: justify;"><p>Os alunos acham R difícil? Acham R pouco acessível? Não sabem programar? Seus problemas acabaram! Com esse minicurso, você verá que é possível introduzir o R em sala de aula, começando pelo **R Commander** (`Rcmdr`). No minicurso, faremos uma aplicação com dados da COVID-19 usando técnicas estatísticas desde análise exploratória, passando por análise bivariada, e concluindo com modelos de regressão logística.</p></div>

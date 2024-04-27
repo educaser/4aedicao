@@ -1,14 +1,12 @@
 ---
 date: 2024-07-07 13:00
-title: "Minicurso 2: Dashboard com Dados Educacionais"
-youtube: SERUFF/streams
+# title: "**Minicurso 2: Dashboard com Dados Educacionais**"
+title: "<span style='background-color:#f7a71c;'><strong>Minicurso 2: Dashboard com Dados Educacionais</strong></span>"
+# youtube: SERUFF/streams
 event: 4º Educa-SER
+author: '[Caroline Ponce de Moraes](palestrantes/02leticia/index.qmd)'
 ---
 
-Resumo do minicurso pipipipopopo
+## Resumo
 
-# Banner
-
-Banner aqui!
-
-# Video
+<div style="text-align: justify;"><p>O objetivo do minicurso é apresentar a aplicação do pacote `fleshdashboard` para dados do ENEM.  O ENEM pode ser considerado como uma ferramenta de mobilidade social, uma vez que alunos de diferentes classes sociais buscam, no ensino superior, uma maneira de se inserir no mercado de trabalho e de ascender socialmente.  O `fleshdashboard` é um pacote do R que permite criar painéis flexíveis com uma visualização de forma mais atrativa e interativa, facilitando a tomada de decisão e podendo ser, neste caso, uma ferramenta interessante para gestores e para ajudar na elaboração de políticas educacionais.</p></div>

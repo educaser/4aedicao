@@ -2,7 +2,7 @@
 first: Felipe
 last: Melo
 title: &TITLE Felipe Rafael Ribeiro Melo
-education: DMQ/UNIRIO
+education: DMQ | UNIRIO
 people_group: alumni
 image: avatar.png
 listing:
@@ -40,4 +40,4 @@ about:
 
 ## Páginas Pessoais
 
-<img src="img/clipboard-regular.svg" width="12"> **Lattes ID**: <a href="http://lattes.cnpq.br/4949636001535630" target="_blank">4949636001535630</a>
+<img src="img/lattes.svg" width="16"> **Lattes ID**: <a href="http://lattes.cnpq.br/4949636001535630" target="_blank">4949636001535630</a>
