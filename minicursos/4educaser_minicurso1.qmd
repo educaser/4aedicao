@@ -1,9 +1,10 @@
 ---
-date: "2024-07-07 09:00"
+date: "2024-06-07 09:00"
 title: "<span style='background-color:#f7a71c;'><strong>Minicurso 1: Aquisição de Dados com R</strong></span>"
 # youtube: SERUFF/streams
 event: 4º Educa-SER
 author: '[Davi da Silveira Barroso Alves](../palestrantes/davi/index.qmd)'
+time: '09:00 às 11:00'
 ---
 
 ## Resumo
@@ -13,7 +14,7 @@ author: '[Davi da Silveira Barroso Alves](../palestrantes/davi/index.qmd)'
 ## Data/Horário
 
 <div style="text-align: justify;">
-<p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 Jul 2024<br>
+<p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br>
 <img src="img/clock-regular.svg" width="14">&nbsp; 09:00 às 11:00
 </p>
 </div>
@@ -33,7 +34,7 @@ author: '[Davi da Silveira Barroso Alves](../palestrantes/davi/index.qmd)'
     overflow: hidden; /* This ensures the rounded corners are visible */
   }
 </style>
-<p><img src="img/avatar-davi.jpg" width="180" class="rounded-image"><br>
+<p><img src="img/avatar-davi.png" width="180" class="rounded-image"><br>
 [**Davi da Silveira Barroso Alves**](../palestrantes/davi/index.qmd)<br>
 Departamento de Métodos Quantitativos | UNIRIO</p>
 

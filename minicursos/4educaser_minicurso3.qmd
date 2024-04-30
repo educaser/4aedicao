@@ -1,9 +1,10 @@
 ---
-date: "2024-07-07 15:30"
+date: "2024-06-07 15:30"
 title: "<span style='background-color:#f7a71c;'><strong>Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R</strong></span>"
 # youtube: SERUFF/streams
 event: 4º Educa-SER
 author: '[Letícia Martins Raposo](../palestrantes/leticia/index.qmd)'
+time: '15:30 às 17:30'
 ---
 
 ## Resumo
@@ -13,7 +14,7 @@ author: '[Letícia Martins Raposo](../palestrantes/leticia/index.qmd)'
 ## Data/Horário
 
 <div style="text-align: justify;">
-<p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 Jul 2024<br>
+<p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br>
 <img src="img/clock-regular.svg" width="14">&nbsp; 15:30 às 17:30
 </p>
 </div>
@@ -33,7 +34,7 @@ author: '[Letícia Martins Raposo](../palestrantes/leticia/index.qmd)'
     overflow: hidden; /* This ensures the rounded corners are visible */
   }
 </style>
-<p><img src="img/avatar-leticia.jpg" width="180" class="rounded-image"><br>
+<p><img src="img/avatar-leticia.png" width="180" class="rounded-image"><br>
 [**Letícia Martins Raposo**](../palestrantes/leticia/index.qmd)<br>Departamento de Métodos Quantitativos | UNIRIO</p>
 
 ### Mini-currículo

@@ -31,9 +31,3 @@ Se estiver usando o Windows <img src="img/windows.svg" alt="Logo do Windows" wid
 O RStudio, um IDE (Ambiente de Desenvolvimento Integrado), é uma ferramenta essencial para aproveitar ao máximo o <a href="https://www.r-project.org/" target="_blank"><img src="img/r-project.svg" alt="Logo do R" width="18"></a>, mas requer a instalação prévia do software <a href="https://www.r-project.org/" target="_blank"><img src="img/r-project.svg" alt="Logo do R" width="18"></a> (o RStudio não funciona sem o <a href="https://www.r-project.org/" target="_blank"><img src="img/r-project.svg" alt="Logo do R" width="18"></a>). Você pode baixar o RStudio para Windows, Linux ou MacOS através do <a href="https://posit.co/download/rstudio-desktop/#download" target="_blank"><strong>link</strong></a>. Embora o uso do RStudio ainda envolva o emprego substancial de linhas de comando em comparação com a interface padrão do <a href="https://www.r-project.org/" target="_blank"><img src="img/r-project.svg" alt="Logo do R" width="18"></a>, ele simplifica essa interação ao oferecer preenchimento automático e outras facilidades que tornam a geração e compreensão de comandos menos complexas. Por isso, é amplamente adotado pela comunidade de usuários do <a href="https://www.r-project.org/" target="_blank"><img src="img/r-project.svg" alt="Logo do R" width="18"></a>.
 </p>
 </div>
-
-## Como baixar e instalar o VS Code?
-
-<div style="text-align: justify;">
-Além do RStudio, o Visual Studio Code (VS Code) é outra opção valiosa. Trata-se de um editor de código aberto desenvolvido pela Microsoft e compatível com Windows, Linux e MacOS. Você pode baixar o VS Code <a href="https://code.visualstudio.com/" target="_blank"><strong>aqui</strong></a>.
-

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Educa-SER | 4ª Edição",
     "section": "",
-    "text": "BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!   07 de Julho de 2024\n\n\nO que é?\n\n\n\n O Educa-SER, evento satélite do VIII SER, é voltado para profissionais e alunos da educação básica e superior. O foco é ensinar a analisar dados usando o , uma ferramenta poderosa e gratuita.\n\n\nObjetivos\n\n\n Demonstrar maneiras eficazes de utilizar o  em ambientes de sala de aula e em pesquisas acadêmicas.\n\n\n Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o , dê uma olhada nos primeiros passos antes de prosseguir para a programação!\n\n\nTransmissão\n\n\n Todos os minicursos serão transmitidos ao vivo através do canal do SER no YouTube."
+    "text": "BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!   07 de Junho de 2024\n\n\nO que é?\n\n\n\n O Educa-SER, evento satélite do VIII SER, é voltado para profissionais e alunos da educação básica e superior. O foco é ensinar a analisar dados usando o , uma ferramenta poderosa e gratuita.\n\n\nObjetivos\n\n\n Demonstrar maneiras eficazes de utilizar o  em ambientes de sala de aula e em pesquisas acadêmicas.\n\n\n Se não estiver familiarizado (ou tiver pouco conhecimento) sobre o , dê uma olhada nos primeiros passos antes de prosseguir para a programação!\n\n\nTransmissão\n\n\n Todos os minicursos serão transmitidos ao vivo através do canal do SER no YouTube."
   },
   {
     "objectID": "index.html#o-que-é-o-educa-ser",
@@ -333,7 +333,7 @@
     "href": "minicursos/index.html",
     "title": "Educa-SER",
     "section": "",
-    "text": "Minicursos\n\n\n  Todos os horários estão no Horário de Brasília (GMT-3).\n\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data/Horário* - Mais velho\n        \n         \n          Data/Horário* - O mais novo\n        \n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nData/Horário*\n\n\nTítulo\n\n\nEvento\n\n\n\n\n\n\n07/07/2024, 09:00\n\n\nMinicurso 1: Aquisição de Dados com R\n\n\n4º Educa-SER\n\n\n\n\n07/07/2024, 13:00\n\n\nMinicurso 2: Dashboard com Dados Educacionais\n\n\n4º Educa-SER\n\n\n\n\n07/07/2024, 15:30\n\n\nMinicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R\n\n\n4º Educa-SER\n\n\n\n\n26/05/2023, 10:00\n\n\nMinicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19\n\n\n3º Educa-SER\n\n\n\n\n26/05/2023, 14:00\n\n\nMinicurso 2: Visualização de Dados com ggplot2\n\n\n3º Educa-SER\n\n\n\n\n26/05/2023, 16:00\n\n\nMinicurso 3: A História dos Primeiros Anos de Colonização do Brasil Contada Através de Mapas Interativos\n\n\n3º Educa-SER\n\n\n\n\n27/05/2022, 10:00\n\n\nMinicurso 1: Como Fazer Publicações Web com o R/Rmarkdown\n\n\n2º Educa-SER\n\n\n\n\n27/05/2022, 14:00\n\n\nMinicurso 2: R commander - Um R com Menus\n\n\n2º Educa-SER\n\n\n\n\n27/05/2022, 16:00\n\n\nMinicurso 3: Gráficos Diferenciados em Alguns Cliques - O Pacote esquisse do R\n\n\n2º Educa-SER\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Minicursos\n\n\n  Todos os horários estão no Horário de Brasília (GMT-3).\n\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n           Data/Horário - Mais velho\n        \n         \n           Data/Horário - O mais novo\n        \n         \n           Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n Data/Horário\n\n\n Título\n\n\n Evento\n\n\n\n\n\n\n07/06/2024, 09:00\n\n\nMinicurso 1: Aquisição de Dados com R\n\n\n4º Educa-SER\n\n\n\n\n07/06/2024, 13:00\n\n\nMinicurso 2: Dashboard com Dados Educacionais\n\n\n4º Educa-SER\n\n\n\n\n07/06/2024, 15:30\n\n\nMinicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R\n\n\n4º Educa-SER\n\n\n\n\n26/05/2023, 10:00\n\n\nMinicurso 1: Rcmdr em Sala de Aula - Uma Aplicação com Dados da COVID-19\n\n\n3º Educa-SER\n\n\n\n\n26/05/2023, 14:00\n\n\nMinicurso 2: Visualização de Dados com ggplot2\n\n\n3º Educa-SER\n\n\n\n\n26/05/2023, 16:00\n\n\nMinicurso 3: A História dos Primeiros Anos de Colonização do Brasil Contada Através de Mapas Interativos\n\n\n3º Educa-SER\n\n\n\n\n27/05/2022, 10:00\n\n\nMinicurso 1: Como Fazer Publicações Web com o R/Rmarkdown\n\n\n2º Educa-SER\n\n\n\n\n27/05/2022, 14:00\n\n\nMinicurso 2: R commander - Um R com Menus\n\n\n2º Educa-SER\n\n\n\n\n27/05/2022, 16:00\n\n\nMinicurso 3: Gráficos Diferenciados em Alguns Cliques - O Pacote esquisse do R\n\n\n2º Educa-SER\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "minicursos/minicurso1.html",
@@ -1341,21 +1341,21 @@
     "href": "minicursos/4educaser_minicurso1.html#datahorário",
     "title": "Minicurso 1: Aquisição de Dados com R",
     "section": "Data/Horário",
-    "text": "Data/Horário\n\n\n  07 Jul 2024   09:00 às 11:00\n\n\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
+    "text": "Data/Horário\n\n\n  07 de Junho de 2024   09:00 às 11:00\n\n\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
   },
   {
     "objectID": "minicursos/4educaser_minicurso2.html#datahorário",
     "href": "minicursos/4educaser_minicurso2.html#datahorário",
     "title": "Minicurso 2: Dashboard com Dados Educacionais",
     "section": "Data/Horário",
-    "text": "Data/Horário\n\n\n  07 Jul 2024   13:00 às 15:00\n\n\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
+    "text": "Data/Horário\n\n\n  07 de Junho de 2024   13:00 às 15:00\n\n\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
   },
   {
     "objectID": "minicursos/4educaser_minicurso3.html#datahorário",
     "href": "minicursos/4educaser_minicurso3.html#datahorário",
     "title": "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R",
     "section": "Data/Horário",
-    "text": "Data/Horário\n\n\n  07 Jul 2024   15:30 às 17:30\n\n\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
+    "text": "Data/Horário\n\n\n  07 de Junho de 2024   15:30 às 17:30\n\n\n\n\n Acompanhe este minicurso ao vivo pelo canal do SER no YouTube."
   },
   {
     "objectID": "palestrantes/index.html",

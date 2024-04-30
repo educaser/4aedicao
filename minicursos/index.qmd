@@ -18,9 +18,10 @@ listing:
     - title
     - event
   field-display-names:
-      event: Evento
-      date: 'Data/Horário*'
-
+      title: '<img src="img/magnifying-glass-plus-solid.svg" width="14"> Título'
+      date: '<img src="img/calendar-check-regular.svg" width="14"> Data/Horário'
+      event: '<img src="img/users-rectangle-solid.svg" width="18"> Evento'
+      
 page-layout: full
 title-block-banner: false
 ---

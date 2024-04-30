@@ -26,7 +26,7 @@ about:
 ---
 
 <p><h1>BEM-VINDOS(AS) À 4ª EDIÇÃO DO EDUCA-SER!<br>
-<img src="img/calendar-check-regular.svg" width="18">&nbsp; <span style='background-color:#f7a71c;'>07 de Julho de 2024</span></h1>
+<img src="img/calendar-check-regular.svg" width="18">&nbsp; <span style='background-color:#f7a71c;'>07 de Junho de 2024</span></h1>
 
 <h2>O que é?</h2>
 

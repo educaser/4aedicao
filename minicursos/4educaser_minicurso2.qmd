@@ -1,9 +1,10 @@
 ---
-date: "2024-07-07 13:00"
+date: "2024-06-07 13:00"
 title: "<span style='background-color:#f7a71c;'><strong>Minicurso 2: Dashboard com Dados Educacionais</strong></span>"
 # youtube: SERUFF/streams
 event: 4º Educa-SER
 author: '[Caroline Ponce de Moraes](../palestrantes/caroline/index.qmd)'
+time: '13:00 às 15:00'
 ---
 
 ## Resumo
@@ -13,7 +14,7 @@ author: '[Caroline Ponce de Moraes](../palestrantes/caroline/index.qmd)'
 ## Data/Horário
 
 <div style="text-align: justify;">
-<p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 Jul 2024<br>
+<p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br>
 <img src="img/clock-regular.svg" width="14">&nbsp; 13:00 às 15:00
 </p>
 </div>
