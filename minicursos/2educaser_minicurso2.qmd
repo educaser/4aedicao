@@ -4,6 +4,7 @@ title: "Minicurso 2: R commander - Um R com Menus"
 youtube: nGq-iQle84U
 event: 2º Educa-SER
 author: '[Felipe Rafael Ribeiro Melo](../palestrantes/felipe/index.qmd)'
+time: '14:00 às 16:00'
 ---
 
 ## Resumo

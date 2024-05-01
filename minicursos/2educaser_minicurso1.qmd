@@ -5,6 +5,7 @@ youtube: R4Fsp7DPvDM
 event: 2º Educa-SER
 author: '[Steven Dutt Ross](../palestrantes/steven/index.qmd)'
 author2: '[Vanessa Manhães Almeida](../palestrantes/vanessa/index.qmd)'
+time: '10:00 às 12:00'
 ---
 
 ## Resumo

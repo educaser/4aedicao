@@ -4,6 +4,7 @@ title: "Minicurso 3: A História dos Primeiros Anos de Colonização do Brasil C
 youtube: BDq9MszO2l0
 event: 3º Educa-SER
 author: '[Marcus Antônio Ramalho](../palestrantes/marcus/index.qmd)'
+time: '16:00 às 18:00'
 ---
 
 ## Resumo

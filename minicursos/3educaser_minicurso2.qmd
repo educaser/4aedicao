@@ -4,6 +4,7 @@ title: "Minicurso 2: Visualização de Dados com ggplot2"
 youtube: zlfpjVcDt9E
 event: 3º Educa-SER
 author: '[Natália Santana Paiva](../palestrantes/natalia/index.qmd)'
+time: '14:00 às 16:00'
 ---
 
 ## Resumo

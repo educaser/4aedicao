@@ -4,6 +4,7 @@ title: "Minicurso 3: Gráficos Diferenciados em Alguns Cliques - O Pacote esquis
 youtube: HPR3ADyQ5yU
 event: 2º Educa-SER
 author: '[Letícia Martins Raposo](../palestrantes/leticia/index.qmd)'
+time: '16:00 às 18:00'
 ---
 
 ## Resumo
