@@ -1,0 +1,17 @@
+---
+date: 2022-05-27 10:00
+title: "Minicurso 1: Como Fazer Publicações Web com o R/Rmarkdown"
+youtube: R4Fsp7DPvDM
+event: 2º Educa-SER
+author: '[Steven Dutt Ross](../palestrantes/steven/index.qmd)'
+author2: '[Vanessa Manhães Almeida](../palestrantes/vanessa/index.qmd)'
+time: '10:00 às 12:00'
+---
+
+## Resumo
+
+<div style="text-align: justify;">
+<p>
+Aqui vamos fazer algumas publicações de textos autorais na internet com auxílio do **RMarkdown**. Esse evento será presencial com os alunos do ensino médio da escola C.E. Dr. João Bazet, de Nova Friburgo. Será transmitido simultaneamente por meio do Youtube.
+</p>
+</div>

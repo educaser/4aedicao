@@ -1,0 +1,50 @@
+<div class="quarto-title-meta">
+  
+  $if(event)$
+  <div>
+    <div class="quarto-title-meta-heading"><img src="img/users-rectangle-solid.svg" width="14">&nbsp;Evento</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">$event$</p>
+    </div>
+  </div>
+  $endif$
+
+  $if(date)$
+  <div>
+    <div class="quarto-title-meta-heading"><img src="img/calendar-check-regular.svg" width="10">&nbsp;Data</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">$date$</p>
+    </div>
+  </div>
+  $endif$
+  
+  $if(author2)$
+  <div>
+    <div class="quarto-title-meta-heading"><img src="img/user-group-solid.svg" width="10">&nbsp;Palestrante 1</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">$author$</p>
+    </div>
+  </div>
+    <div>
+    <div class="quarto-title-meta-heading"><img src="img/user-group-solid.svg" width="10">&nbsp;Palestrante 2</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">$author2$</p>
+    </div>
+  </div>
+  $else$
+    <div>
+    <div class="quarto-title-meta-heading"><img src="img/user-solid.svg" width="10">&nbsp;Palestrante</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">$author$</p>
+    </div>
+  </div>
+  $if(time)$
+  <div>
+    <div class="quarto-title-meta-heading"><img src="img/clock-regular.svg" width="10">&nbsp;Horário</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">$time$</p>
+    </div>
+  </div>
+  $endif$
+  $endif$
+</div>

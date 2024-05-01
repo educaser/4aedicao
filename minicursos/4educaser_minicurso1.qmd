@@ -1,0 +1,72 @@
+---
+date: "2024-06-07 09:00"
+title: "<span style='background-color:#f7a71c;'><strong>Minicurso 1: Aquisição de Dados com R</strong></span>"
+# youtube: SERUFF/streams
+event: 4º Educa-SER
+author: '[Davi da Silveira Barroso Alves](../palestrantes/davi/index.qmd)'
+time: '09:00 às 11:00'
+---
+
+## Resumo
+
+<div style="text-align: justify;"><p>Este minicurso oferece uma introdução prática à aquisição de dados usando o software R. Os participantes aprenderão técnicas para extrair dados diretamente de sites HTML, acessar dados do [**Datasus**](https://datasus.saude.gov.br/) e do [**IBGE**](https://www.ibge.gov.br/) utilizando pacotes específicos para cada fonte de dados.</p></div>
+
+## Data/Horário
+
+<div style="text-align: justify;">
+<p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br>
+<img src="img/clock-regular.svg" width="14">&nbsp; 09:00 às 11:00
+</p>
+</div>
+
+<div style="text-align: justify;">
+<p><img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style='background-color:#f7a71c;'>Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">**canal do SER no YouTube**</a>.
+</span>
+</p>
+</div>
+
+## Palestrante
+
+<style>
+  /* CSS to round the borders of an image */
+  .rounded-image {
+    border-radius: 10px; /* Adjust the value to change the roundness */
+    overflow: hidden; /* This ensures the rounded corners are visible */
+  }
+</style>
+<p><img src="img/avatar-davi.png" width="180" class="rounded-image"><br>
+[**Davi da Silveira Barroso Alves**](../palestrantes/davi/index.qmd)<br>
+Departamento de Métodos Quantitativos | UNIRIO</p>
+
+### Mini-currículo
+
+<div style="text-align: justify;"><p>Graduado em Enfermagem pela Universidade Federal do Estado do Rio de Janeiro (2010). Possui mestrado (2013) e doutorado (2017) em Epidemiologia em Saúde Pública pela Escola Nacional de Saúde Pública Sérgio Arouca. Atualmente, é Professor do Departamento de Métodos Quantitativos na Universidade Federal do Estado do Rio de Janeiro.</p></div>
+
+## Informações Adicionais
+
+### Interfaces/IDE Utilizada no Minicurso
+
+- RStudio
+
+### Pacotes Necessários
+
+- `tidyverse`
+- `rvest`
+- `XML`
+- `microdatasus`
+- `PNSIBGE`
+- `PNADcIBGE`
+- `COVIDIBGE`
+- `ipeadatar`
+
+### Pré-requisitos
+
+- Noções básicas de R e bancos de dados.
+
+### Referências Adicionais
+
+- [Microdatasus: pacote para download e pré-processamento de microdados do Departamento de Informática do SUS (DATASUS)](https://www.scielo.br/j/csp/a/gdJXqcrW5PPDHX8rwPDYL7F/)
+- [PNSIBGE: Downloading, Reading and Analyzing PNS Microdata](https://cran.r-project.org/web/packages/PNSIBGE/index.html)
+- [PNADcIBGE: Downloading, Reading and Analyzing PNADC Microdata](https://cran.r-project.org/web/packages/PNADcIBGE/index.html)
+- [COVIDIBGE: Downloading, Reading and Analyzing PNAD COVID19 Microdata](https://cran.r-project.org/web/packages/COVIDIBGE/index.html)
+- [ipeadatar: API Wrapper for 'Ipeadata'](https://cran.r-project.org/web/packages/ipeadatar/index.html)

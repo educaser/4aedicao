@@ -1,0 +1,16 @@
+---
+date: 2022-05-27 14:00
+title: "Minicurso 2: R commander - Um R com Menus"
+youtube: nGq-iQle84U
+event: 2º Educa-SER
+author: '[Felipe Rafael Ribeiro Melo](../palestrantes/felipe/index.qmd)'
+time: '14:00 às 16:00'
+---
+
+## Resumo
+
+<div style="text-align: justify;">
+<p>
+Muitos usuários iniciantes ou com pouca experiência em R podem se sentir desmotivados em utilizá-lo por conta da sua interface padrão pouco 'amigável', apta a receber apenas linhas de comando. Felizmente, há pacotes no R que fornecem interfaces mais amigáveis, como a interface **R Commander**, proveniente do pacote `Rcmdr`, a qual possibilita a execução de várias funcionalidades do R voltadas ao tratamento e à análise de dados por meio de menus intuitivos. Neste minicurso, serão abordadas formas de importar, tratar e analisar dados sendo necessária apenas uma única linha de comando: `require(Rcmdr)`.
+</p>
+</div>
