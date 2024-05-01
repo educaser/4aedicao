@@ -1,0 +1,72 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+  - "*.qmd"
+  - "*.md"
+  
+website:
+  title: "Educa-SER"
+  site-url: "https://educaser.github.io/4aedicao/"
+  favicon: img/educaser_meio.png
+  twitter-card: true
+  navbar:
+    background: "#f7a71c"
+    logo: img/educaser_meio.png
+    # href: https://openscapes.org
+    left:
+      - href: index.qmd
+        text: Sobre
+      - href: passos/index.qmd
+        text: Primeiros Passos
+      - href: minicursos/index.qmd
+        text: Minicursos
+      - href: palestrantes/index.qmd
+        text: Palestrantes
+      - href: comissao/index.qmd
+        text: Comissão Organizadora
+    tools:
+    - icon: clipboard
+      text: Inscrições
+      href: https://forms.gle/fymM12EtCYft1MVk9
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/educaseroficial?igshid=MzRlODBiNWFlZA==
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@SERUFF/streams
+    - icon: envelope
+      text: Email
+      href: mailto:educaseroficial@gmail.com
+  page-footer:
+    left: "© 2019-2024 Educa-SER. Todos os direitos reservados."
+    right: 
+    - icon: clipboard
+      href: https://forms.gle/fymM12EtCYft1MVk9
+    - icon: instagram
+      href: https://instagram.com/educaseroficial?igshid=MzRlODBiNWFlZA==
+    - icon: youtube
+      href: https://www.youtube.com/@SERUFF/streams
+    - icon: envelope
+      href: mailto:educaseroficial@gmail.com
+    - icon: github
+      href: https://github.com/educaser
+    background: "#F7A71C"
+    
+date-format: "D MMMM YYYY"
+
+format:
+  html:
+    theme: tango
+    css: styles.css
+    toc: true
+    html-math-method: katex
+    include-in-header:
+      file: header.html
+    grid:
+      sidebar-width:	250px
+      body-width:	900px
+      margin-width:	250px
+      gutter-width:	1.5em
+      
+lang: pt
