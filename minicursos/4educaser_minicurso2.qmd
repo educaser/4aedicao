@@ -34,25 +34,25 @@ time: '13:00 às 15:00'
     overflow: hidden; /* This ensures the rounded corners are visible */
   }
 </style>
-<p><img src="img/avatar-null.png" width="180" class="rounded-image"><br>
+<p><img src="img/avatar-caroline.png" width="180" class="rounded-image"><br>
 [**Caroline Ponce de Moraes**](../palestrantes/caroline/index.qmd)<br>
 Departamento de Matemática | CEFET/RJ</p>
 
-<!-- ### Mini-currículo -->
+### Mini-currículo
 
-<!-- <div style="text-align: justify;"><p> </p></div> -->
+<div style="text-align: justify;"><p>Formada em Estatística pela Escola Nacional de Ciências Estatísticas - ENCE (2011). Mestrado em Estatística pela Universidade Federal do Rio de Janeiro - UFRJ (2015), sendo bolsista da CAPES. Doutora em Engenharia de Sistemas e Computação pela COPPE. Atualmente é professora do ensino básico, técnico e tecnológico do Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - CEFET, atuando no Departamento de Matemática. Tem interesse em Métodos Estatísticos, especialmente aplicados aos dados educacionais.</p></div>
 
-<!-- ## Informações Adicionais -->
+## Informações Adicionais
 
-<!-- ### Interfaces/IDE Utilizada no Minicurso: -->
+### Interfaces/IDE Utilizada no Minicurso:
 
-<!-- - RStudio -->
+- RStudio
 
-<!-- ### Pacotes Necessários: -->
+<!-- ### Pacotes Necessários -->
 
-<!-- ### Pré-requisitos -->
+### Pré-requisitos
 
-<!-- - Noções básicas de R e bancos de dados. -->
+- Interesse de aprender algo novo.
 
 <!-- ### Referências Adicionais -->
 

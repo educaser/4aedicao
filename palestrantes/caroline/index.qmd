@@ -15,7 +15,7 @@ about:
 
 <h2><span style='background-color:#f7a71c;'>Formação Acadêmica/Titulação</span></h2>
 
-<img src="img/graduation-cap-solid.svg" width="18"> **Graduação em Estatística** | Universidade do Estado do Rio de Janeiro
+<img src="img/graduation-cap-solid.svg" width="18"> **Graduação em Estatística** | Escola Nacional de Ciências Estatísticas
 
 <img src="img/graduation-cap-solid.svg" width="18"> **Mestrado em Estatística** | Universidade Federal do Rio de Janeiro
 
