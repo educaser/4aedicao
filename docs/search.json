@@ -1334,7 +1334,7 @@
     "href": "minicursos/4educaser_minicurso2.html#palestrante",
     "title": "Minicurso 2: Dashboard com Dados Educacionais",
     "section": "Palestrante",
-    "text": "Palestrante\n\n\n Caroline Ponce de Moraes Departamento de Matemática | CEFET/RJ"
+    "text": "Palestrante\n\n\n Caroline Ponce de Moraes Departamento de Matemática | CEFET/RJ\n\n\nMini-currículo\n\n\nFormada em Estatística pela Escola Nacional de Ciências Estatísticas - ENCE (2011). Mestrado em Estatística pela Universidade Federal do Rio de Janeiro - UFRJ (2015), sendo bolsista da CAPES. Doutora em Engenharia de Sistemas e Computação pela COPPE. Atualmente é professora do ensino básico, técnico e tecnológico do Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - CEFET, atuando no Departamento de Matemática. Tem interesse em Métodos Estatísticos, especialmente aplicados aos dados educacionais."
   },
   {
     "objectID": "minicursos/4educaser_minicurso1.html#datahorário",
@@ -1537,7 +1537,7 @@
     "href": "palestrantes/caroline/index.html",
     "title": "Caroline Ponce de Moraes",
     "section": "",
-    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Universidade do Estado do Rio de Janeiro\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n Doutorado em Engenharia de Sistemas e Computação | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professora do Ensino Básico, Técnico e Tecnológico DIII | Centro Federal de Educação Tecnológica Celso Suckow da Fonseca\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 7070181803704413"
+    "text": "Formação Acadêmica/Titulação\n\n Graduação em Estatística | Escola Nacional de Ciências Estatísticas\n Mestrado em Estatística | Universidade Federal do Rio de Janeiro\n Doutorado em Engenharia de Sistemas e Computação | Universidade Federal do Rio de Janeiro\n\nAtuação Profissional\n\n Professora do Ensino Básico, Técnico e Tecnológico DIII | Centro Federal de Educação Tecnológica Celso Suckow da Fonseca\n\nLocal\n\n Rio de Janeiro, RJ\n\nPáginas Pessoais\n\n Lattes ID: 7070181803704413"
   },
   {
     "objectID": "palestrantes/beatriz/index.html",
@@ -1552,5 +1552,12 @@
     "title": "Marcus Antonio Cardoso Ramalho",
     "section": "",
     "text": "Formação Acadêmica/Titulação\n\n Graduação em Administração | Universidade Federal Fluminense\n Mestrado em Administração | Universidade Federal Fluminense\n\nLocal\n\n Niterói, RJ\n\nPáginas Pessoais\n\n Lattes ID: 9578799014185405"
+  },
+  {
+    "objectID": "minicursos/4educaser_minicurso2.html#informações-adicionais",
+    "href": "minicursos/4educaser_minicurso2.html#informações-adicionais",
+    "title": "Minicurso 2: Dashboard com Dados Educacionais",
+    "section": "Informações Adicionais",
+    "text": "Informações Adicionais\n\nInterfaces/IDE Utilizada no Minicurso:\n\nRStudio\n\n\n\n\nPré-requisitos\n\nInteresse de aprender algo novo."
   }
 ]
