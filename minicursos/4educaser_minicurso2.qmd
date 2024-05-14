@@ -9,7 +9,7 @@ time: '13:00 às 15:00'
 
 ## Resumo
 
-<div style="text-align: justify;"><p>O objetivo do minicurso é apresentar a aplicação do pacote `fleshdashboard` para dados do ENEM.  O ENEM pode ser considerado como uma ferramenta de mobilidade social, uma vez que alunos de diferentes classes sociais buscam, no ensino superior, uma maneira de se inserir no mercado de trabalho e de ascender socialmente.  O `fleshdashboard` é um pacote do R que permite criar painéis flexíveis com uma visualização de forma mais atrativa e interativa, facilitando a tomada de decisão e podendo ser, neste caso, uma ferramenta interessante para gestores e para ajudar na elaboração de políticas educacionais.</p></div>
+<div style="text-align: justify;"><p>O objetivo do minicurso é apresentar a aplicação do pacote `flexdashboard` para dados do ENEM.  O ENEM pode ser considerado como uma ferramenta de mobilidade social, uma vez que alunos de diferentes classes sociais buscam, no ensino superior, uma maneira de se inserir no mercado de trabalho e de ascender socialmente.  O `flexdashboard` é um pacote do R que permite criar painéis flexíveis com uma visualização de forma mais atrativa e interativa, facilitando a tomada de decisão e podendo ser, neste caso, uma ferramenta interessante para gestores e para ajudar na elaboração de políticas educacionais.</p></div>
 
 ## Data/Horário
 
