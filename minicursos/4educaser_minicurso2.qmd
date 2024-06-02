@@ -57,9 +57,9 @@ Departamento de Matemática | CEFET/RJ</p>
 
 ### Pré-requisitos
 
-- Ter instalado a última versão disponível do software R e Rstudio . 
+- Ter instalado a última versão disponível do software R e Rstudio. 
 - Conhecimento de leitura de dados para o R.
-- Estatística descritiva (histograma, boxplot, etc.).
+- Estatística descritiva (histograma, boxplot, etc).
 
 ### Base de Dados Utilizadas
 
