@@ -44,16 +44,27 @@ Departamento de Matemática | CEFET/RJ</p>
 
 ## Informações Adicionais
 
-### Interfaces/IDE Utilizada no Minicurso:
+### Interfaces/IDE Utilizada no Minicurso
 
 - RStudio
 
-<!-- ### Pacotes Necessários -->
+### Pacotes Necessários
+
+- `markdown`
+- `flexdashboard`
+- `dplyr`
+- `ggplot2`
 
 ### Pré-requisitos
 
-- Interesse de aprender algo novo.
+- Ter instalado a última versão disponível do software R e Rstudio . 
+- Conhecimento de leitura de dados para o R.
+- Estatística descritiva (histograma, boxplot, etc...).
 
-<!-- ### Referências Adicionais -->
+### Base de Dados Utilizadas
 
-<!-- - [Microdatasus: pacote para download e pré-processamento de microdados do Departamento de Informática do SUS (DATASUS)](https://www.scielo.br/j/csp/a/gdJXqcrW5PPDHX8rwPDYL7F/) -->
+- [Microdados INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados)
+
+### Referências Adicionais
+
+- [Tutorial](https://drive.google.com/drive/folders/1x3TGbbP-zKnkulTeVQbJOWvHmY9UVrzD?usp=drive_link)
