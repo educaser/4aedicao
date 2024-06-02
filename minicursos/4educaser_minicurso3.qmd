@@ -62,6 +62,10 @@ time: '15:30 às 17:30'
 
 - [dados_titanic.csv](https://github.com/leticiaraposo/dados_titanic/blob/main/dados_titanic.csv)
 
+### Script Inicial
+
+- [gtsummary.R](https://github.com/educaser/4aedicao/blob/main/minicursos/script/gtsummary.R)
+
 ### Referências Adicionais
 
 - [Tutorial: tbl_summary](https://www.danieldsjoberg.com/gtsummary/articles/tbl_summary.html)
