@@ -1327,7 +1327,7 @@
     "href": "minicursos/4educaser_minicurso3.html#informações-adicionais",
     "title": "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R",
     "section": "Informações Adicionais",
-    "text": "Informações Adicionais\n\nInterfaces/IDE Utilizada no Minicurso\n\nRStudio\n\n\n\nPacotes Necessários\n\ngtsummary\nflextable\n\n\n\nPré-requisitos\n\nInstalação do R e RStudio: Os participantes devem ter o R e o RStudio instalados em seus computadores.\nConhecimento básico de R: É essencial ter um entendimento básico da linguagem R, incluindo manipulação de dados com vetores e data frames, uso de pacotes, e realização de operações básicas.\n\n\n\nBase de Dados Utilizadas\n\ndados_titanic.csv\n\n\n\nReferências Adicionais\n\nTutorial: tbl_summary"
+    "text": "Informações Adicionais\n\nInterfaces/IDE Utilizada no Minicurso\n\nRStudio\n\n\n\nPacotes Necessários\n\ngtsummary\nflextable\n\n\n\nPré-requisitos\n\nInstalação do R e RStudio: Os participantes devem ter o R e o RStudio instalados em seus computadores.\nConhecimento básico de R: É essencial ter um entendimento básico da linguagem R, incluindo manipulação de dados com vetores e data frames, uso de pacotes, e realização de operações básicas.\n\n\n\nBase de Dados Utilizadas\n\ndados_titanic.csv\n\n\n\nScript Inicial\n\ngtsummary.R\n\n\n\nReferências Adicionais\n\nTutorial: tbl_summary"
   },
   {
     "objectID": "minicursos/4educaser_minicurso2.html#palestrante",
@@ -1558,6 +1558,6 @@
     "href": "minicursos/4educaser_minicurso2.html#informações-adicionais",
     "title": "Minicurso 2: Dashboard com Dados Educacionais",
     "section": "Informações Adicionais",
-    "text": "Informações Adicionais\n\nInterfaces/IDE Utilizada no Minicurso:\n\nRStudio\n\n\n\n\nPré-requisitos\n\nInteresse de aprender algo novo."
+    "text": "Informações Adicionais\n\nInterfaces/IDE Utilizada no Minicurso\n\nRStudio\n\n\n\nPacotes Necessários\n\nmarkdown\nflexdashboard\ndplyr\nggplot2\n\n\n\nPré-requisitos\n\nTer instalado a última versão disponível do software R e Rstudio .\nConhecimento de leitura de dados para o R.\nEstatística descritiva (histograma, boxplot, etc.).\n\n\n\nBase de Dados Utilizadas\n\nMicrodados INEP\n\n\n\nReferências Adicionais\n\nTutorial"
   }
 ]
