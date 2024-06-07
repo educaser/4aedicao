@@ -63,8 +63,8 @@ Departamento de Matemática | CEFET/RJ</p>
 
 ### Base de Dados Utilizadas
 
-- [Microdados INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados)
+- [pesqenem2022br.csv](https://github.com/educaser/4aedicao/blob/main/minicursos/script/pesqenem2022br.csv)
 
 ### Referências Adicionais
 
-- [Tutorial](https://drive.google.com/drive/folders/1x3TGbbP-zKnkulTeVQbJOWvHmY9UVrzD?usp=drive_link)
+- [Microdados INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados)
