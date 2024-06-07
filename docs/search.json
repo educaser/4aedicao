@@ -1558,6 +1558,6 @@
     "href": "minicursos/4educaser_minicurso2.html#informações-adicionais",
     "title": "Minicurso 2: Dashboard com Dados Educacionais",
     "section": "Informações Adicionais",
-    "text": "Informações Adicionais\n\nInterfaces/IDE Utilizada no Minicurso\n\nRStudio\n\n\n\nPacotes Necessários\n\nmarkdown\nflexdashboard\ndplyr\nggplot2\n\n\n\nPré-requisitos\n\nTer instalado a última versão disponível do software R e Rstudio.\nConhecimento de leitura de dados para o R.\nEstatística descritiva (histograma, boxplot, etc).\n\n\n\nBase de Dados Utilizadas\n\nMicrodados INEP\n\n\n\nReferências Adicionais\n\nTutorial"
+    "text": "Informações Adicionais\n\nInterfaces/IDE Utilizada no Minicurso\n\nRStudio\n\n\n\nPacotes Necessários\n\nmarkdown\nflexdashboard\ndplyr\nggplot2\n\n\n\nPré-requisitos\n\nTer instalado a última versão disponível do software R e Rstudio.\nConhecimento de leitura de dados para o R.\nEstatística descritiva (histograma, boxplot, etc).\n\n\n\nBase de Dados Utilizadas\n\npesqenem2022br.csv\n\n\n\nReferências Adicionais\n\nMicrodados INEP"
   }
 ]
