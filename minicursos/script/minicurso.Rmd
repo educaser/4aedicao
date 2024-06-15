@@ -1,0 +1,197 @@
+---
+title: "Dados Educacionais"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(markdown)
+library(dplyr)
+library(ggplot2)
+library(shiny)
+
+dados=read.csv2("pesqenem2022br.csv")
+dados=dados[!is.na(dados["NU_NOTA_MT"]),]
+dados=dados[!is.na(dados["NU_NOTA_LC"]),]
+dados=dados[(dados["NU_NOTA_MT"])!=0,]
+dados=dados[(dados["NU_NOTA_LC"])!=0,]
+```
+
+# Primeiros gráficos
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Histograma
+
+```{r}
+
+dados %>%
+  ggplot() +
+aes(x=NU_NOTA_MT)+
+  geom_histogram()+
+  theme(legend.position = "top")
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Boxplot
+
+```{r}
+dados %>%
+  ggplot() +
+aes(x=NU_NOTA_MT)+
+  geom_boxplot()+
+  theme(legend.position = "top")
+```
+
+### Tabela
+
+```{r}
+dados %>%
+  
+  summarise(Média=mean(NU_NOTA_MT), Mediana= median(NU_NOTA_MT)) %>%
+  
+  knitr::kable()
+```
+
+# Por Prova
+
+Column{.sidebar}
+-----------------------------------------------------------------------
+```{r}
+selectInput(
+  inputId = "coluna",
+  label="Escolha a prova:",
+  choices= c("Linguagens e Códigos" = "NU_NOTA_LC","Matemática" = "NU_NOTA_MT"),
+  selected="NU_NOTA_MT"
+  
+)
+
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+### Histograma
+
+```{r}
+renderPlot ({
+dados %>%
+  ggplot() +
+aes(x= !!sym(input$coluna)) +
+  geom_histogram(fill="blue",bins=30) +
+    labs(x="Notas") +
+  theme(legend.position ="top")
+})
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+### Boxplot
+```{r}
+renderPlot({
+dados %>%
+  ggplot() +
+aes(x=!!sym(input$coluna))+
+  geom_boxplot(fill="red")+
+      labs(x="Notas") +
+  theme(legend.position = "top")
+})
+```
+
+
+
+### Tabela
+
+```{r}
+renderTable ({
+dados %>%
+summarise(Média =round(mean(!!sym(input$coluna)),2), Mediana=median(!!sym(input$coluna))) 
+})
+
+```
+
+# Por Sexo e Prova
+
+Column{.sidebar}
+-----------------------------------------------------------------------
+```{r}
+selectInput(
+  inputId = "sexo",
+  label="Escolha o sexo:",
+  choices= c("Feminino" = "F","Masculino" = "M"),
+  selected="F"
+  
+)
+
+selectInput(
+  inputId = "prova",
+  label="Escolha a prova:",
+  choices= c("Linguagens e Códigos" = "NU_NOTA_LC","Matemática" = "NU_NOTA_MT"),
+  selected="NU_NOTA_MT"
+  
+)
+
+```
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Histograma
+
+```{r}
+
+renderPlot({
+
+  dados1 = dados[dados$TP_SEXO == input$sexo,]
+  dados1 %>%
+    
+  ggplot() +
+  aes(x= !!sym(input$prova)) +
+   geom_histogram(fill="blue",bins=30) +
+    labs(x="Notas", y= "Quantidade") +
+   theme(legend.position ="top")
+})
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Boxplot
+
+```{r}
+renderPlot({
+
+  dados1 = dados[dados$TP_SEXO == input$sexo,]
+  dados1 %>%
+    
+  ggplot() +
+aes(x= !!sym(input$prova)) +
+geom_boxplot(fill="red") +
+    labs(x="Notas") +
+  theme(legend.position ="top")
+})
+
+```
+
+### Tabela
+
+
+```{r}
+
+renderTable({
+
+  dados1 = dados[dados$TP_SEXO == input$sexo,]
+  dados1 %>%
+ 
+summarise(Média =mean(!!sym(input$prova)), Mediana=median(!!sym(input$prova)))
+  
+})
+```
