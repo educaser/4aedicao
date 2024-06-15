@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -47,7 +47,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "Nenhum resultado",
     "search-matching-documents-text": "documentos correspondentes",
@@ -56,30 +62,32 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "mais correspondência neste documento",
     "search-more-matches-text": "mais correspondências neste documento",
     "search-clear-button-title": "Limpar",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancelar",
     "search-submit-button-title": "Enviar",
     "search-label": "Procurar"
   }
 }</script>
 <link href="https://fonts.googleapis.com/css?family=Fira+Sans|Merriweather" rel="stylesheet">
+
 <script src="https://kit.fontawesome.com/0fba9333d8.js" crossorigin="anonymous"></script>
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
 
 
 <link rel="stylesheet" href="../styles.css">
 <meta name="twitter:title" content="Educa-SER - Minicurso 1: Aquisição de Dados com R">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://educaser.github.io/4aedicao/minicursos/img/users-rectangle-solid.svg">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
     <img src="../img/educaser_meio.png" alt="" class="navbar-logo">
     </a>
@@ -94,33 +102,33 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html" rel="" target="">
- <span class="menu-text">Sobre</span></a>
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../passos/index.html" rel="" target="">
- <span class="menu-text">Primeiros Passos</span></a>
+    <a class="nav-link" href="../passos/index.html"> 
+<span class="menu-text">Primeiros Passos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../minicursos/index.html" rel="" target="">
- <span class="menu-text">Minicursos</span></a>
+    <a class="nav-link" href="../minicursos/index.html"> 
+<span class="menu-text">Minicursos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../palestrantes/index.html" rel="" target="">
- <span class="menu-text">Palestrantes</span></a>
+    <a class="nav-link" href="../palestrantes/index.html"> 
+<span class="menu-text">Palestrantes</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../comissao/index.html" rel="" target="">
- <span class="menu-text">Comissão Organizadora</span></a>
+    <a class="nav-link" href="../comissao/index.html"> 
+<span class="menu-text">Comissão Organizadora</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto tools-wide">
-    <a href="https://forms.gle/fymM12EtCYft1MVk9" rel="" title="Inscrições" class="quarto-navigation-tool px-1" aria-label="Inscrições"><i class="bi bi-clipboard"></i></a>
-    <a href="https://instagram.com/educaseroficial?igshid=MzRlODBiNWFlZA==" rel="" title="Instagram" class="quarto-navigation-tool px-1" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
-    <a href="https://www.youtube.com/@SERUFF/streams" rel="" title="YouTube" class="quarto-navigation-tool px-1" aria-label="YouTube"><i class="bi bi-youtube"></i></a>
-    <a href="mailto:educaseroficial@gmail.com" rel="" title="Email" class="quarto-navigation-tool px-1" aria-label="Email"><i class="bi bi-envelope"></i></a>
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools tools-wide">
+    <a href="https://forms.gle/fymM12EtCYft1MVk9" title="Inscrições" class="quarto-navigation-tool px-1" aria-label="Inscrições"><i class="bi bi-clipboard"></i></a>
+    <a href="https://instagram.com/educaseroficial?igshid=MzRlODBiNWFlZA==" title="Instagram" class="quarto-navigation-tool px-1" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+    <a href="https://www.youtube.com/@SERUFF/streams" title="YouTube" class="quarto-navigation-tool px-1" aria-label="YouTube"><i class="bi bi-youtube"></i></a>
+    <a href="mailto:educaseroficial@gmail.com" title="Email" class="quarto-navigation-tool px-1" aria-label="Email"><i class="bi bi-envelope"></i></a>
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -134,16 +142,11 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#resumo" id="toc-resumo" class="nav-link active" data-scroll-target="#resumo">Resumo</a></li>
-  <li><a href="#datahorário" id="toc-datahorário" class="nav-link" data-scroll-target="#datahorário">Data/Horário</a></li>
-  <li><a href="#palestrante" id="toc-palestrante" class="nav-link" data-scroll-target="#palestrante">Palestrante</a>
-  <ul class="collapse">
-  <li><a href="#mini-currículo" id="toc-mini-currículo" class="nav-link" data-scroll-target="#mini-currículo">Mini-currículo</a></li>
-  </ul></li>
   <li><a href="#informações-adicionais" id="toc-informações-adicionais" class="nav-link" data-scroll-target="#informações-adicionais">Informações Adicionais</a>
   <ul class="collapse">
-  <li><a href="#interfaceside-utilizada-no-minicurso" id="toc-interfaceside-utilizada-no-minicurso" class="nav-link" data-scroll-target="#interfaceside-utilizada-no-minicurso">Interfaces/IDE Utilizada no Minicurso</a></li>
-  <li><a href="#pacotes-necessários" id="toc-pacotes-necessários" class="nav-link" data-scroll-target="#pacotes-necessários">Pacotes Necessários</a></li>
-  <li><a href="#pré-requisitos" id="toc-pré-requisitos" class="nav-link" data-scroll-target="#pré-requisitos">Pré-requisitos</a></li>
+  <li><a href="#base-de-dados" id="toc-base-de-dados" class="nav-link" data-scroll-target="#base-de-dados">Base de Dados</a></li>
+  <li><a href="#script" id="toc-script" class="nav-link" data-scroll-target="#script">Script</a></li>
+  <li><a href="#slides" id="toc-slides" class="nav-link" data-scroll-target="#slides">Slides</a></li>
   <li><a href="#referências-adicionais" id="toc-referências-adicionais" class="nav-link" data-scroll-target="#referências-adicionais">Referências Adicionais</a></li>
   </ul></li>
   </ul>
@@ -154,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span style="background-color:#f7a71c;"><strong>Minicurso 1: Aquisição de Dados com R</strong></span></h1>
+<h1 class="title">Minicurso 1: Aquisição de Dados com R</h1>
 </div>
 
 
@@ -196,66 +199,64 @@ ul.task-list li input[type="checkbox"] {
 Este minicurso oferece uma introdução prática à aquisição de dados usando o software R. Os participantes aprenderão técnicas para extrair dados diretamente de sites HTML, acessar dados do <a href="https://datasus.saude.gov.br/"><strong>Datasus</strong></a> e do <a href="https://www.ibge.gov.br/"><strong>IBGE</strong></a> utilizando pacotes específicos para cada fonte de dados.
 </p>
 </div>
-</section>
-<section id="datahorário" class="level2">
-<h2 class="anchored" data-anchor-id="datahorário">Data/Horário</h2>
-<div style="text-align: justify;">
-<p>
-<img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br> <img src="img/clock-regular.svg" width="14">&nbsp; 09:00 às 11:00
-</p>
-</div>
-<div style="text-align: justify;">
-<p>
-<img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style="background-color:#f7a71c;">Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank"><strong>canal do SER no YouTube</strong></a>. </span>
-</p>
-</div>
-</section>
-<section id="palestrante" class="level2">
-<h2 class="anchored" data-anchor-id="palestrante">Palestrante</h2>
-<style>
-  /* CSS to round the borders of an image */
-  .rounded-image {
-    border-radius: 10px; /* Adjust the value to change the roundness */
-    overflow: hidden; /* This ensures the rounded corners are visible */
-  }
-</style>
-<p>
-<img src="img/avatar-davi.png" width="180" class="rounded-image"><br> <a href="../palestrantes/davi/index.html"><strong>Davi da Silveira Barroso Alves</strong></a><br> Departamento de Métodos Quantitativos | UNIRIO
-</p>
-<section id="mini-currículo" class="level3">
-<h3 class="anchored" data-anchor-id="mini-currículo">Mini-currículo</h3>
-<div style="text-align: justify;">
-<p>
-Graduado em Enfermagem pela Universidade Federal do Estado do Rio de Janeiro (2010). Possui mestrado (2013) e doutorado (2017) em Epidemiologia em Saúde Pública pela Escola Nacional de Saúde Pública Sérgio Arouca. Atualmente, é Professor do Departamento de Métodos Quantitativos na Universidade Federal do Estado do Rio de Janeiro.
-</p>
-</div>
-</section>
+<!-- ## Data/Horário -->
+<!-- <div style="text-align: justify;"> -->
+<!-- <p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br> -->
+<!-- <img src="img/clock-regular.svg" width="14">&nbsp; 09:00 às 11:00 -->
+<!-- </p> -->
+<!-- </div> -->
+<!-- <div style="text-align: justify;"> -->
+<!-- <p><img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style='background-color:#f7a71c;'>Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">**canal do SER no YouTube**</a>. -->
+<!-- </span> -->
+<!-- </p> -->
+<!-- </div> -->
+<!-- ## Palestrante -->
+<!-- <style> -->
+<!--   /* CSS to round the borders of an image */ -->
+<!--   .rounded-image { -->
+<!--     border-radius: 10px; /* Adjust the value to change the roundness */ -->
+<!--     overflow: hidden; /* This ensures the rounded corners are visible */ -->
+<!--   } -->
+<!-- </style> -->
+<!-- <p><img src="img/avatar-davi.png" width="180" class="rounded-image"><br> -->
+<!-- [**Davi da Silveira Barroso Alves**](../palestrantes/davi/index.qmd)<br> -->
+<!-- Departamento de Métodos Quantitativos | UNIRIO</p> -->
+<!-- ### Mini-currículo -->
+<!-- <div style="text-align: justify;"><p>Graduado em Enfermagem pela Universidade Federal do Estado do Rio de Janeiro (2010). Possui mestrado (2013) e doutorado (2017) em Epidemiologia em Saúde Pública pela Escola Nacional de Saúde Pública Sérgio Arouca. Atualmente, é Professor do Departamento de Métodos Quantitativos na Universidade Federal do Estado do Rio de Janeiro.</p></div> -->
 </section>
 <section id="informações-adicionais" class="level2">
 <h2 class="anchored" data-anchor-id="informações-adicionais">Informações Adicionais</h2>
-<section id="interfaceside-utilizada-no-minicurso" class="level3">
-<h3 class="anchored" data-anchor-id="interfaceside-utilizada-no-minicurso">Interfaces/IDE Utilizada no Minicurso</h3>
+<!-- ### Interfaces/IDE Utilizada no Minicurso -->
+<!-- - RStudio -->
+<!-- ### Pacotes Necessários -->
+<!-- - `tidyverse` -->
+<!-- - `rvest` -->
+<!-- - `XML` -->
+<!-- - `microdatasus` -->
+<!-- - `PNSIBGE` -->
+<!-- - `PNADcIBGE` -->
+<!-- - `COVIDIBGE` -->
+<!-- - `ipeadatar` -->
+<!-- ### Pré-requisitos -->
+<!-- - Noções básicas de R e bancos de dados. -->
+<!-- ### Base de Dados Utilizadas -->
+<section id="base-de-dados" class="level3">
+<h3 class="anchored" data-anchor-id="base-de-dados">Base de Dados</h3>
 <ul>
-<li>RStudio</li>
+<li><a href="https://github.com/educaser/4aedicao/blob/main/minicursos/material/link_ona.txt">link_ona.txt</a></li>
+</ul>
+<!-- ### Script Inicial -->
+</section>
+<section id="script" class="level3">
+<h3 class="anchored" data-anchor-id="script">Script</h3>
+<ul>
+<li><a href="https://github.com/educaser/4aedicao/blob/main/minicursos/material/script_minicurso_educaser_2024.R">script_minicurso_educaser_2024.R</a></li>
 </ul>
 </section>
-<section id="pacotes-necessários" class="level3">
-<h3 class="anchored" data-anchor-id="pacotes-necessários">Pacotes Necessários</h3>
+<section id="slides" class="level3">
+<h3 class="anchored" data-anchor-id="slides">Slides</h3>
 <ul>
-<li><code>tidyverse</code></li>
-<li><code>rvest</code></li>
-<li><code>XML</code></li>
-<li><code>microdatasus</code></li>
-<li><code>PNSIBGE</code></li>
-<li><code>PNADcIBGE</code></li>
-<li><code>COVIDIBGE</code></li>
-<li><code>ipeadatar</code></li>
-</ul>
-</section>
-<section id="pré-requisitos" class="level3">
-<h3 class="anchored" data-anchor-id="pré-requisitos">Pré-requisitos</h3>
-<ul>
-<li>Noções básicas de R e bancos de dados.</li>
+<li><a href="https://github.com/educaser/4aedicao/blob/main/minicursos/material/MINICURSO.pdf">MINICURSO.pdf</a></li>
 </ul>
 </section>
 <section id="referências-adicionais" class="level3">
@@ -272,6 +273,10 @@ Graduado em Enfermagem pela Universidade Federal do Estado do Rio de Janeiro (20
 </section>
 </section>
 
+<div class="embed video-player" style="padding-bottom: 4ex;">
+  <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/IO0vwjCaLew" allowfullscreen="" frameborder="0">
+  </iframe>
+</div>
 
 
 
@@ -355,10 +360,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/educaser\.github\.io\/4aedicao\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -368,8 +390,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -381,7 +412,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -425,6 +579,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -450,6 +605,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -512,7 +693,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© 2019-2024 Educa-SER. Todos os direitos reservados.</div>   
+    <div class="nav-footer-left">
+<p>© 2019-2024 Educa-SER. Todos os direitos reservados.</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>

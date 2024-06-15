@@ -78,7 +78,6 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../styles.css">
 <meta name="twitter:title" content="Educa-SER - Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R">
-<meta name="twitter:description" content="">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -143,18 +142,10 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#resumo" id="toc-resumo" class="nav-link active" data-scroll-target="#resumo">Resumo</a></li>
-  <li><a href="#datahorário" id="toc-datahorário" class="nav-link" data-scroll-target="#datahorário">Data/Horário</a></li>
-  <li><a href="#palestrante" id="toc-palestrante" class="nav-link" data-scroll-target="#palestrante">Palestrante</a>
-  <ul class="collapse">
-  <li><a href="#mini-currículo" id="toc-mini-currículo" class="nav-link" data-scroll-target="#mini-currículo">Mini-currículo</a></li>
-  </ul></li>
   <li><a href="#informações-adicionais" id="toc-informações-adicionais" class="nav-link" data-scroll-target="#informações-adicionais">Informações Adicionais</a>
   <ul class="collapse">
-  <li><a href="#interfaceside-utilizada-no-minicurso" id="toc-interfaceside-utilizada-no-minicurso" class="nav-link" data-scroll-target="#interfaceside-utilizada-no-minicurso">Interfaces/IDE Utilizada no Minicurso</a></li>
-  <li><a href="#pacotes-necessários" id="toc-pacotes-necessários" class="nav-link" data-scroll-target="#pacotes-necessários">Pacotes Necessários</a></li>
-  <li><a href="#pré-requisitos" id="toc-pré-requisitos" class="nav-link" data-scroll-target="#pré-requisitos">Pré-requisitos</a></li>
-  <li><a href="#base-de-dados-utilizadas" id="toc-base-de-dados-utilizadas" class="nav-link" data-scroll-target="#base-de-dados-utilizadas">Base de Dados Utilizadas</a></li>
-  <li><a href="#script-inicial" id="toc-script-inicial" class="nav-link" data-scroll-target="#script-inicial">Script Inicial</a></li>
+  <li><a href="#base-de-dados" id="toc-base-de-dados" class="nav-link" data-scroll-target="#base-de-dados">Base de Dados</a></li>
+  <li><a href="#script" id="toc-script" class="nav-link" data-scroll-target="#script">Script</a></li>
   <li><a href="#referências-adicionais" id="toc-referências-adicionais" class="nav-link" data-scroll-target="#referências-adicionais">Referências Adicionais</a></li>
   </ul></li>
   </ul>
@@ -165,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span style="background-color:#f7a71c;"><strong>Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R</strong></span></h1>
+<h1 class="title">Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R</h1>
 </div>
 
 
@@ -207,73 +198,51 @@ ul.task-list li input[type="checkbox"] {
 Descubra o poder do pacote <code>gtsummary</code> para transformar análises estatísticas em tabelas práticas e visualmente atraentes. Destinado a usuários do R, o minicurso explora como criar, personalizar e otimizar tabelas para maximizar o impacto em apresentações e publicações científicas. Este minicurso é perfeito para estudantes, pesquisadores e profissionais que buscam eficiência e elegância na apresentação de seus dados estatísticos.
 </p>
 </div>
-</section>
-<section id="datahorário" class="level2">
-<h2 class="anchored" data-anchor-id="datahorário">Data/Horário</h2>
-<div style="text-align: justify;">
-<p>
-<img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br> <img src="img/clock-regular.svg" width="14">&nbsp; 15:30 às 17:30
-</p>
-</div>
-<div style="text-align: justify;">
-<p>
-<img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style="background-color:#f7a71c;">Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank"><strong>canal do SER no YouTube</strong></a>. </span>
-</p>
-</div>
-</section>
-<section id="palestrante" class="level2">
-<h2 class="anchored" data-anchor-id="palestrante">Palestrante</h2>
-<style>
-  /* CSS to round the borders of an image */
-  .rounded-image {
-    border-radius: 10px; /* Adjust the value to change the roundness */
-    overflow: hidden; /* This ensures the rounded corners are visible */
-  }
-</style>
-<p>
-<img src="img/avatar-leticia.png" width="180" class="rounded-image"><br> <a href="../palestrantes/leticia/index.html"><strong>Letícia Martins Raposo</strong></a><br>Departamento de Métodos Quantitativos | UNIRIO
-</p>
-<section id="mini-currículo" class="level3">
-<h3 class="anchored" data-anchor-id="mini-currículo">Mini-currículo</h3>
-<div style="text-align: justify;">
-<p>
-Letícia Raposo é professora adjunta do Departamento de Métodos Quantitativos (DMQ) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO). É apaixonada pelo R, aprendizado de máquina, estatística e metodologias ativas de aprendizado. Quando não está lecionando ou realizando suas pesquisas, está programando algo no R acompanhada de um bom café.
-</p>
-</div>
-</section>
+<!-- ## Data/Horário -->
+<!-- <div style="text-align: justify;"> -->
+<!-- <p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br> -->
+<!-- <img src="img/clock-regular.svg" width="14">&nbsp; 15:30 às 17:30 -->
+<!-- </p> -->
+<!-- </div> -->
+<!-- <div style="text-align: justify;"> -->
+<!-- <p><img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style='background-color:#f7a71c;'>Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">**canal do SER no YouTube**</a>. -->
+<!-- </span> -->
+<!-- </p> -->
+<!-- </div> -->
+<!-- ## Palestrante -->
+<!-- <style> -->
+<!--   /* CSS to round the borders of an image */ -->
+<!--   .rounded-image { -->
+<!--     border-radius: 10px; /* Adjust the value to change the roundness */ -->
+<!--     overflow: hidden; /* This ensures the rounded corners are visible */ -->
+<!--   } -->
+<!-- </style> -->
+<!-- <p><img src="img/avatar-leticia.png" width="180" class="rounded-image"><br> -->
+<!-- [**Letícia Martins Raposo**](../palestrantes/leticia/index.qmd)<br>Departamento de Métodos Quantitativos | UNIRIO</p> -->
+<!-- ### Mini-currículo -->
+<!-- <div style="text-align: justify;"><p>Letícia Raposo é professora adjunta do Departamento de Métodos Quantitativos (DMQ) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO). É apaixonada pelo R, aprendizado de máquina, estatística e metodologias ativas de aprendizado. Quando não está lecionando ou realizando suas pesquisas, está programando algo no R acompanhada de um bom café.</p></div> -->
 </section>
 <section id="informações-adicionais" class="level2">
 <h2 class="anchored" data-anchor-id="informações-adicionais">Informações Adicionais</h2>
-<section id="interfaceside-utilizada-no-minicurso" class="level3">
-<h3 class="anchored" data-anchor-id="interfaceside-utilizada-no-minicurso">Interfaces/IDE Utilizada no Minicurso</h3>
-<ul>
-<li>RStudio</li>
-</ul>
-</section>
-<section id="pacotes-necessários" class="level3">
-<h3 class="anchored" data-anchor-id="pacotes-necessários">Pacotes Necessários</h3>
-<ul>
-<li><code>gtsummary</code></li>
-<li><code>flextable</code></li>
-</ul>
-</section>
-<section id="pré-requisitos" class="level3">
-<h3 class="anchored" data-anchor-id="pré-requisitos">Pré-requisitos</h3>
-<ul>
-<li><p>Instalação do R e RStudio: Os participantes devem ter o R e o RStudio instalados em seus computadores.</p></li>
-<li><p>Conhecimento básico de R: É essencial ter um entendimento básico da linguagem R, incluindo manipulação de dados com vetores e data frames, uso de pacotes, e realização de operações básicas.</p></li>
-</ul>
-</section>
-<section id="base-de-dados-utilizadas" class="level3">
-<h3 class="anchored" data-anchor-id="base-de-dados-utilizadas">Base de Dados Utilizadas</h3>
+<!-- ### Interfaces/IDE Utilizada no Minicurso -->
+<!-- - RStudio -->
+<!-- ### Pacotes Necessários -->
+<!-- - `gtsummary` -->
+<!-- - `flextable` -->
+<!-- ### Pré-requisitos -->
+<!-- - Instalação do R e RStudio: Os participantes devem ter o R e o RStudio instalados em seus computadores.  -->
+<!-- - Conhecimento básico de R: É essencial ter um entendimento básico da linguagem R, incluindo manipulação de dados com vetores e data frames, uso de pacotes, e realização de operações básicas. -->
+<section id="base-de-dados" class="level3">
+<h3 class="anchored" data-anchor-id="base-de-dados">Base de Dados</h3>
 <ul>
 <li><a href="https://github.com/leticiaraposo/dados_titanic/blob/main/dados_titanic.csv">dados_titanic.csv</a></li>
 </ul>
+<!-- ### Script Inicial -->
 </section>
-<section id="script-inicial" class="level3">
-<h3 class="anchored" data-anchor-id="script-inicial">Script Inicial</h3>
+<section id="script" class="level3">
+<h3 class="anchored" data-anchor-id="script">Script</h3>
 <ul>
-<li><a href="https://github.com/educaser/4aedicao/blob/main/minicursos/script/gtsummary.R">gtsummary.R</a></li>
+<li><a href="https://github.com/educaser/4aedicao/blob/main/minicursos/material/gtsummary.R">gtsummary.R</a></li>
 </ul>
 </section>
 <section id="referências-adicionais" class="level3">
@@ -286,6 +255,10 @@ Letícia Raposo é professora adjunta do Departamento de Métodos Quantitativos 
 </section>
 </section>
 
+<div class="embed video-player" style="padding-bottom: 4ex;">
+  <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/0AbihEDq0yk" allowfullscreen="" frameborder="0">
+  </iframe>
+</div>
 
 
 
