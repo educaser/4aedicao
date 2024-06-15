@@ -1,7 +1,7 @@
 ---
 date: "2024-06-07 15:30"
-title: "<span style='background-color:#f7a71c;'><strong>Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R</strong></span>"
-# youtube: SERUFF/streams
+title: "Minicurso 3: Dominando o gtsummary - Crie Tabelas Incríveis no R"
+youtube: 0AbihEDq0yk
 event: 4º Educa-SER
 author: '[Letícia Martins Raposo](../palestrantes/leticia/index.qmd)'
 time: '15:30 às 17:30'
@@ -11,60 +11,61 @@ time: '15:30 às 17:30'
 
 <div style="text-align: justify;"><p>Descubra o poder do pacote `gtsummary` para transformar análises estatísticas em tabelas práticas e visualmente atraentes. Destinado a usuários do R, o minicurso explora como criar, personalizar e otimizar tabelas para maximizar o impacto em apresentações e publicações científicas. Este minicurso é perfeito para estudantes, pesquisadores e profissionais que buscam eficiência e elegância na apresentação de seus dados estatísticos.</p></div>
 
-## Data/Horário
+<!-- ## Data/Horário -->
 
-<div style="text-align: justify;">
-<p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br>
-<img src="img/clock-regular.svg" width="14">&nbsp; 15:30 às 17:30
-</p>
-</div>
+<!-- <div style="text-align: justify;"> -->
+<!-- <p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br> -->
+<!-- <img src="img/clock-regular.svg" width="14">&nbsp; 15:30 às 17:30 -->
+<!-- </p> -->
+<!-- </div> -->
 
-<div style="text-align: justify;">
-<p><img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style='background-color:#f7a71c;'>Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">**canal do SER no YouTube**</a>.
-</span>
-</p>
-</div>
+<!-- <div style="text-align: justify;"> -->
+<!-- <p><img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style='background-color:#f7a71c;'>Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">**canal do SER no YouTube**</a>. -->
+<!-- </span> -->
+<!-- </p> -->
+<!-- </div> -->
 
-## Palestrante
+<!-- ## Palestrante -->
 
-<style>
-  /* CSS to round the borders of an image */
-  .rounded-image {
-    border-radius: 10px; /* Adjust the value to change the roundness */
-    overflow: hidden; /* This ensures the rounded corners are visible */
-  }
-</style>
-<p><img src="img/avatar-leticia.png" width="180" class="rounded-image"><br>
-[**Letícia Martins Raposo**](../palestrantes/leticia/index.qmd)<br>Departamento de Métodos Quantitativos | UNIRIO</p>
+<!-- <style> -->
+<!--   /* CSS to round the borders of an image */ -->
+<!--   .rounded-image { -->
+<!--     border-radius: 10px; /* Adjust the value to change the roundness */ -->
+<!--     overflow: hidden; /* This ensures the rounded corners are visible */ -->
+<!--   } -->
+<!-- </style> -->
+<!-- <p><img src="img/avatar-leticia.png" width="180" class="rounded-image"><br> -->
+<!-- [**Letícia Martins Raposo**](../palestrantes/leticia/index.qmd)<br>Departamento de Métodos Quantitativos | UNIRIO</p> -->
 
-### Mini-currículo
+<!-- ### Mini-currículo -->
 
-<div style="text-align: justify;"><p>Letícia Raposo é professora adjunta do Departamento de Métodos Quantitativos (DMQ) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO). É apaixonada pelo R, aprendizado de máquina, estatística e metodologias ativas de aprendizado. Quando não está lecionando ou realizando suas pesquisas, está programando algo no R acompanhada de um bom café.</p></div>
+<!-- <div style="text-align: justify;"><p>Letícia Raposo é professora adjunta do Departamento de Métodos Quantitativos (DMQ) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO). É apaixonada pelo R, aprendizado de máquina, estatística e metodologias ativas de aprendizado. Quando não está lecionando ou realizando suas pesquisas, está programando algo no R acompanhada de um bom café.</p></div> -->
 
 ## Informações Adicionais
 
-### Interfaces/IDE Utilizada no Minicurso
+<!-- ### Interfaces/IDE Utilizada no Minicurso -->
 
-- RStudio
+<!-- - RStudio -->
 
-### Pacotes Necessários
+<!-- ### Pacotes Necessários -->
 
-- `gtsummary`
-- `flextable`
+<!-- - `gtsummary` -->
+<!-- - `flextable` -->
 
-### Pré-requisitos
+<!-- ### Pré-requisitos -->
 
-- Instalação do R e RStudio: Os participantes devem ter o R e o RStudio instalados em seus computadores. 
+<!-- - Instalação do R e RStudio: Os participantes devem ter o R e o RStudio instalados em seus computadores.  -->
 
-- Conhecimento básico de R: É essencial ter um entendimento básico da linguagem R, incluindo manipulação de dados com vetores e data frames, uso de pacotes, e realização de operações básicas.
+<!-- - Conhecimento básico de R: É essencial ter um entendimento básico da linguagem R, incluindo manipulação de dados com vetores e data frames, uso de pacotes, e realização de operações básicas. -->
 
-### Base de Dados Utilizadas
+### Base de Dados
 
 - [dados_titanic.csv](https://github.com/leticiaraposo/dados_titanic/blob/main/dados_titanic.csv)
 
-### Script Inicial
+<!-- ### Script Inicial -->
+### Script
 
-- [gtsummary.R](https://github.com/educaser/4aedicao/blob/main/minicursos/script/gtsummary.R)
+- [gtsummary.R](https://github.com/educaser/4aedicao/blob/main/minicursos/material/gtsummary.R)
 
 ### Referências Adicionais
 

@@ -1,7 +1,7 @@
 ---
 date: "2024-06-07 13:00"
-title: "<span style='background-color:#f7a71c;'><strong>Minicurso 2: Dashboard com Dados Educacionais</strong></span>"
-# youtube: SERUFF/streams
+title: "Minicurso 2: Dashboard com Dados Educacionais"
+youtube: qZNA-1U9j4c
 event: 4º Educa-SER
 author: '[Caroline Ponce de Moraes](../palestrantes/caroline/index.qmd)'
 time: '13:00 às 15:00'
@@ -11,59 +11,69 @@ time: '13:00 às 15:00'
 
 <div style="text-align: justify;"><p>O objetivo do minicurso é apresentar a aplicação do pacote `flexdashboard` para dados do ENEM.  O ENEM pode ser considerado como uma ferramenta de mobilidade social, uma vez que alunos de diferentes classes sociais buscam, no ensino superior, uma maneira de se inserir no mercado de trabalho e de ascender socialmente.  O `flexdashboard` é um pacote do R que permite criar painéis flexíveis com uma visualização de forma mais atrativa e interativa, facilitando a tomada de decisão e podendo ser, neste caso, uma ferramenta interessante para gestores e para ajudar na elaboração de políticas educacionais.</p></div>
 
-## Data/Horário
+<!-- ## Data/Horário -->
 
-<div style="text-align: justify;">
-<p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br>
-<img src="img/clock-regular.svg" width="14">&nbsp; 13:00 às 15:00
-</p>
-</div>
+<!-- <div style="text-align: justify;"> -->
+<!-- <p><img src="img/calendar-check-regular.svg" width="14">&nbsp; 07 de Junho de 2024<br> -->
+<!-- <img src="img/clock-regular.svg" width="14">&nbsp; 13:00 às 15:00 -->
+<!-- </p> -->
+<!-- </div> -->
 
-<div style="text-align: justify;">
-<p><img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style='background-color:#f7a71c;'>Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">**canal do SER no YouTube**</a>.
-</span>
-</p>
-</div>
+<!-- <div style="text-align: justify;"> -->
+<!-- <p><img src="img/youtube.svg" alt="Logo do YouTube" width="18"> <span style='background-color:#f7a71c;'>Acompanhe este minicurso ao vivo pelo <a href="https://www.youtube.com/@SERUFF/streams" target="_blank">**canal do SER no YouTube**</a>. -->
+<!-- </span> -->
+<!-- </p> -->
+<!-- </div> -->
 
-## Palestrante
+<!-- ## Palestrante -->
 
-<style>
-  /* CSS to round the borders of an image */
-  .rounded-image {
-    border-radius: 10px; /* Adjust the value to change the roundness */
-    overflow: hidden; /* This ensures the rounded corners are visible */
-  }
-</style>
-<p><img src="img/avatar-caroline.png" width="180" class="rounded-image"><br>
-[**Caroline Ponce de Moraes**](../palestrantes/caroline/index.qmd)<br>
-Departamento de Matemática | CEFET/RJ</p>
+<!-- <style> -->
+<!--   /* CSS to round the borders of an image */ -->
+<!--   .rounded-image { -->
+<!--     border-radius: 10px; /* Adjust the value to change the roundness */ -->
+<!--     overflow: hidden; /* This ensures the rounded corners are visible */ -->
+<!--   } -->
+<!-- </style> -->
+<!-- <p><img src="img/avatar-caroline.png" width="180" class="rounded-image"><br> -->
+<!-- [**Caroline Ponce de Moraes**](../palestrantes/caroline/index.qmd)<br> -->
+<!-- Departamento de Matemática | CEFET/RJ</p> -->
 
-### Mini-currículo
+<!-- ### Mini-currículo -->
 
-<div style="text-align: justify;"><p>Formada em Estatística pela Escola Nacional de Ciências Estatísticas - ENCE (2011). Mestrado em Estatística pela Universidade Federal do Rio de Janeiro - UFRJ (2015), sendo bolsista da CAPES. Doutora em Engenharia de Sistemas e Computação pela COPPE. Atualmente é professora do ensino básico, técnico e tecnológico do Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - CEFET, atuando no Departamento de Matemática. Tem interesse em Métodos Estatísticos, especialmente aplicados aos dados educacionais.</p></div>
+<!-- <div style="text-align: justify;"><p>Formada em Estatística pela Escola Nacional de Ciências Estatísticas - ENCE (2011). Mestrado em Estatística pela Universidade Federal do Rio de Janeiro - UFRJ (2015), sendo bolsista da CAPES. Doutora em Engenharia de Sistemas e Computação pela COPPE. Atualmente é professora do ensino básico, técnico e tecnológico do Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - CEFET, atuando no Departamento de Matemática. Tem interesse em Métodos Estatísticos, especialmente aplicados aos dados educacionais.</p></div> -->
 
 ## Informações Adicionais
 
-### Interfaces/IDE Utilizada no Minicurso
+<!-- ### Interfaces/IDE Utilizada no Minicurso -->
 
-- RStudio
+<!-- - RStudio -->
 
-### Pacotes Necessários
+<!-- ### Pacotes Necessários -->
 
-- `markdown`
-- `flexdashboard`
-- `dplyr`
-- `ggplot2`
+<!-- - `markdown` -->
+<!-- - `flexdashboard` -->
+<!-- - `dplyr` -->
+<!-- - `ggplot2` -->
 
-### Pré-requisitos
+<!-- ### Pré-requisitos -->
 
-- Ter instalado a última versão disponível do software R e Rstudio. 
-- Conhecimento de leitura de dados para o R.
-- Estatística descritiva (histograma, boxplot, etc).
+<!-- - Ter instalado a última versão disponível do software R e Rstudio.  -->
+<!-- - Conhecimento de leitura de dados para o R. -->
+<!-- - Estatística descritiva (histograma, boxplot, etc). -->
 
-### Base de Dados Utilizadas
+<!-- ### Base de Dados Utilizadas -->
+### Base de Dados
 
-- [pesqenem2022br.csv](https://github.com/educaser/4aedicao/blob/main/minicursos/script/pesqenem2022br.csv)
+- [pesqenem2022br.csv](https://github.com/educaser/4aedicao/blob/main/minicursos/material/pesqenem2022br.csv)
+
+<!-- ### Script Inicial -->
+### Script
+
+- [minicurso.Rmd](https://github.com/educaser/4aedicao/blob/main/minicursos/material/minicurso.Rmd)
+
+### Slides
+
+- [Dashboard-para-dados-educacionais.pptx](https://github.com/educaser/4aedicao/blob/main/minicursos/material/Dashboard%20para%20dados%20educacionais.pptx)
 
 ### Referências Adicionais
 
